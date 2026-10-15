@@ -3,6 +3,8 @@
 /.codex/
 /dist/
 /tmp/
+# Local review website; never published with the game
+/sites/
 __pycache__/
 *.py[cod]
 *.log
