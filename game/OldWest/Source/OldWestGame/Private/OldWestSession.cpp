@@ -233,7 +233,7 @@ void AOldWestGameMode::StartNewRulesGame()
     {
         const auto Difficulty = SelectedAIDifficulty == TEXT("easy") ? oldwest::AIDifficulty::Easy
             : SelectedAIDifficulty == TEXT("hard") ? oldwest::AIDifficulty::Hard : oldwest::AIDifficulty::Normal;
-        AI = std::make_unique<oldwest::AIPlayer>(Utf8(Catalog), Difficulty, Value ^ 0x7261646c616e6473ULL);
+        AI = std::make_unique<oldwest::AIPlayer>(Utf8(Catalog), Difficulty, Value ^ 0x9E3779B97F4A7C15ULL);
     }
     AISuspended = false;
     AIThinkDelay = AICadence;

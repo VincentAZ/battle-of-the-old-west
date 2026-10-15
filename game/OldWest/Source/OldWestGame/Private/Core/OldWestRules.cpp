@@ -41,7 +41,7 @@ struct Engine::Impl {
     explicit Impl(const std::string& text,std::uint64_t seed,const std::string& options) {
         catalog=J::parse(text); J opt=J::parse(options);
         for (const auto& d:catalog.at("cards")) defs[d.at("id").get<std::string>()]=d;
-        s={{"version",1},{"revision",0},{"rng",seed ? seed : 0x7261646c616e6473ULL},
+        s={{"version",1},{"revision",0},{"rng",seed ? seed : 0x9E3779B97F4A7C15ULL},
            {"status","selection"},{"winner",-1},{"active_player",-1},{"turn",0},
            {"first_player",number(opt,"first_player",-1)},{"reshuffles",0},{"next_id",1},
            {"cards",J::object()},{"deck",J::array()},{"discard",J::array()},

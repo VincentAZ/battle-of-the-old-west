@@ -30,7 +30,7 @@ Two rival outfits each hold three properties on the frontier. You spend whiskey 
 - **Three regions.** Matches play out on desert, prairie or forest terrain with region-specific scenery.
 - **A historical cast.** 46 distinct crew members including three named Native leaders, 34 base holdings and 32 Boomtown holdings. Every one has dated, located, sourced evidence behind it and a short history note under an optional History link in the inspector. Fictional composites are labelled as such.
 - **Rules you can trust.** A portable C++ engine validates every action and resolves every turn. Multiplayer clients receive private views only. An offline, searchable rules guide with explanations of all 104 cards is one click away during play.
-- **Readable state.** Draggable, resizable info panels, a two-turn history feed, readiness markers beside every name, and an ability overview on **G**.
+- **Readable state.** Draggable, resizable info panels, a two-turn history feed, readiness markers beside every name, and an ability overview you open and close with the **G** key.
 
 ## How to play
 
