@@ -1,0 +1,65 @@
+{
+  "status": "completed_before_modeling",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Nebraska State Historical Society, Marker Monday: Boot Hill",
+      "url": "https://history.nebraska.gov/marker-monday-boot-hill/",
+      "supports": "Ogallala cowtown burials in the 1870s and 1880s used wooden headboards.",
+      "limits": "Historical interpretation, not a measured cemetery plan. Download returned 403; text read through browser."
+    },
+    {
+      "id": "S2",
+      "title": "Keith County Visitors Committee, Boot Hill Walking Tour, printed 2016, Karyn Stansberry introduction",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/keithcountyne/Boot_Hill_Walking_Tour_39c8fe84-0207-4830-ad8b-23ddf604beb4.pdf",
+      "local": "research/expansion-holdings/boot-hill-sources/Keith-County-Boot-Hill-Walking-Tour.pdf",
+      "supports": "Introduction describes a prairie promontory, early plank or rough-cross markers, and later restoration/tree planting. Both pages visually read.",
+      "limits": "Modern guide and reconstructed marker photographs. No original dimensions, precise marker shapes, paint colours or six-grave plan established. Gateway and statues are later additions."
+    },
+    {
+      "id": "S3",
+      "title": "USDA NRCS Official Series Description: Keith, 2006",
+      "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/K/Keith.html",
+      "local": "research/expansion-holdings/boot-hill-sources/USDA-Keith-Series.html",
+      "supports": "Western Nebraska upland soil analogue: brown loess-derived topsoil; native range includes blue grama and buffalograss.",
+      "limits": "Modern regional analogue, not a survey identifying this exact graveyard soil or vegetation in 1880."
+    },
+    {
+      "id": "S4",
+      "title": "University of Nebraska–Lincoln, Buffalo Grass",
+      "url": "https://byf.unl.edu/buffalo-grass/",
+      "local": "research/expansion-holdings/boot-hill-sources/UNL-Buffalo-Grass.html",
+      "supports": "Native central/western US short grass with fine blue-green leaves, generally 4–8 inches high.",
+      "limits": "Modern botanical reference only; no lawn cultivars, mowing pattern or modern landscaping copied."
+    },
+    {
+      "id": "S5",
+      "title": "Carol M. Highsmith, Ogallala Boot Hill marker, 2021, LOC highsm.69813",
+      "url": "https://www.loc.gov/pictures/item/2021758034/",
+      "local": "research/expansion-holdings/boot-hill-sources/LOC-Highsmith-69813.jpg",
+      "supports": "Modern close-up inspected for wood grain and prairie surface context.",
+      "limits": "Not accepted as evidence of original 1880 marker shape, lettering, age, layout or winter-to-summer colour. No identity or inscription copied."
+    }
+  ],
+  "actual_images_inspected": [
+    "Both rendered pages of the 2016 walking guide",
+    "LOC Highsmith highsm.69813 photograph (2021)"
+  ],
+  "observations": [
+    "Guide distinguishes original cemetery from later memorial landscaping.",
+    "Plank and rough-cross marker vocabulary supported by text; exact modern pointed/arched marker shapes not treated as original.",
+    "Present photo is winter and contemporary; used only for wood-grain context, not summer colour or original architecture."
+  ],
+  "failed_leads": [
+    "NSHS and LOC catalog direct download returned 403; their content was read through web tool.",
+    "PDF text layer is empty. Local Tesseract is unavailable; both high-resolution pages were read visually."
+  ],
+  "source_records": {
+    "research/expansion-holdings/boot-hill-sources/Keith-County-Boot-Hill-Walking-Tour.pdf": "f130afd2da0da11552bd05d012f471c5e9abab464d4341be8748f86ce0c0ec0a",
+    "research/expansion-holdings/boot-hill-sources/LOC-Highsmith-69813.jpg": "e74a7222d66ce44c33a15bb1ed06273dfe67979dd6fa815b88c2a19e88caf97f",
+    "research/expansion-holdings/boot-hill-sources/UNL-Buffalo-Grass.html": "5f0f78dba62b351da507f6140983c6f6c84294d0af8274409ffb147d3b9ef369",
+    "research/expansion-holdings/boot-hill-sources/USDA-Keith-Series.html": "dab9df9aecab7b8f142928c03b33571c1a295a3a80f88dabae25b1e6e36d540f",
+    "research/expansion-holdings/boot-hill-sources/Walking-Tour-1.png": "74f516eef250111d90902f42387c7a7256c9b1d53590e8013093827e6c6ec90e",
+    "research/expansion-holdings/boot-hill-sources/Walking-Tour-2.png": "0ddb1cd5a87a6e450e2d951514c4db4cf2cbcab3369d9b3f2a5b98d34ec00da1"
+  }
+}

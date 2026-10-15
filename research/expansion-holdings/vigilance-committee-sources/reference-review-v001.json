@@ -1,0 +1,45 @@
+{
+  "status": "references_actually_inspected_before_authoring",
+  "reviewed_at": "2026-10-09T17:17:13.173195+00:00",
+  "actually_viewed": [
+    {
+      "file": "research/expansion-holdings/vigilance-committee-sources/Bulletin-page7.png",
+      "sha256": "74b8d24046436613e694afedf91098af796f8645a8e9f07a67c90bc07200fc1e",
+      "source": "Montana Ghost Town Preservation Society Bulletin, Spring 2022, printed/PDF page 7; reprint of Ellen Baumler, Boarding House Architecture",
+      "archive_identifier": "Montana Historical Society Photograph Archives 956-249",
+      "observations": [
+        "Two upper sash windows in horizontal-board false front; broad cornice.",
+        "Ground-floor facade has scored plaster and closely spaced timber-framed openings.",
+        "French-door/small-pane construction is supported by the accompanying historian’s text.",
+        "Merchants, people and pack animals appear in the source photograph; none will be modeled."
+      ],
+      "limits": [
+        "Monochrome photograph cannot establish paint colours.",
+        "Original exposure date is not provided; early commercial phase is inferred from storefront signage and comparison with the documented later livery conversion, not catalog-dated.",
+        "The upper single hayloft door in modern photographs must not replace these two upper windows."
+      ]
+    },
+    {
+      "file": "research/expansion-holdings/vigilance-committee-sources/MHC-Kiskadden-page33.png",
+      "sha256": "aa9944cb3ec4ce0b2741c5f71e64bbd7779871b0c4ba60bc5ca2c2e32543b593",
+      "source": "Montana Heritage Commission structural repair report, 2013, PDF page 33",
+      "observations": [
+        "Modern street and rear photographs show rubble masonry, timber upper cladding and gabled rear.",
+        "Report documents three original ground-floor stores and an upstairs meeting hall in the 1863 building.",
+        "Early-1870s livery conversion enlarged the center entrance and reused a door upstairs.",
+        "The committee meeting-site association is explicitly described as popular legend."
+      ],
+      "limits": [
+        "Restored barn photographs do not authenticate early store colours or original rear openings.",
+        "Red doors, modern signs, flag, concrete pavement, loft door and livery fittings will not be copied as an 1860s reconstruction."
+      ]
+    }
+  ],
+  "additional_actually_read": [
+    "NPS Preservation Brief 22, printed pages 3–4: early lime/sand stucco and aggregate-dependent colour.",
+    "NPS Preservation Brief 19, printed pages 1–4: dressed wood shingles, regional species, sawn shingles in the nineteenth century.",
+    "USDA Ponderosa pine FS-254, Characteristics and Properties: pale sapwood and yellowish to light reddish/orange-brown heartwood.",
+    "Montana Historical Society educator article: self-appointed committees outside government; history contested. Specific Plummer date is inconsistent and excluded."
+  ],
+  "decision": "Fictional Montana commercial meeting hall circa 1864–1870, informed by the early facade. Not a replica or authenticated vigilante headquarters. Provisional game name remains unchanged."
+}

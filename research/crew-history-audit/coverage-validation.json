@@ -1,0 +1,19 @@
+{
+  "status": "documentation_coverage_passed",
+  "characters": 46,
+  "sourced_history_lessons": 46,
+  "initial_revision_decisions": [
+    "coach-guard",
+    "gatling-gunner",
+    "getaway-rider",
+    "railroad-saboteur",
+    "ringleader",
+    "sharpshooter",
+    "town-avenger",
+    "vigilante"
+  ],
+  "unique_source_urls": 79,
+  "historical_accuracy_certified": false,
+  "note": "Coverage validation verifies records and links are present. It does not authenticate claims, costumes, or likenesses; read the evidence and outstanding issues.",
+  "new_animation_authorized": false
+}

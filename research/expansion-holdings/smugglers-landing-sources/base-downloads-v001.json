@@ -1,0 +1,17 @@
+{
+  "willow-leaves.webp": {
+    "url": "https://yavapaiplants.extension.arizona.edu/sites/default/files/styles/yp_card_image/public/Trees/Images/Salix_exigua_SuL4_13.jpg.webp?itok=27xEbkmO",
+    "sha256": "d8405e35fa4ccfee3e1be1e8db57b27731cbb3d98e98e157f3ca95f479e306bf",
+    "bytes": 73680
+  },
+  "willow-habit.webp": {
+    "url": "https://yavapaiplants.extension.arizona.edu/sites/default/files/styles/yp_card_image/public/Trees/Images/Salix_exigua_Sp2_13.jpg.webp?itok=1FJ6cUKa",
+    "sha256": "662cc60cb93dc861932643edd9053181e17134682a1f23c8a7e4508c75d1d30b",
+    "bytes": 118786
+  },
+  "rio-grande-colour.jpg": {
+    "url": "https://www.nps.gov/common/uploads/stories/images/nri/20151008/articles/DB57BDAC-E151-7BA3-20AF7CF2BE26767D/DB57BDAC-E151-7BA3-20AF7CF2BE26767D.jpg",
+    "sha256": "96b78d6086b7b742d2ca3b751f6dfd97a792b4188edc29d4d74ef66e9df11bd6",
+    "bytes": 73342
+  }
+}

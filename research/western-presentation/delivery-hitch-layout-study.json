@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-08",
+  "status": "source_assembly_and_initial_native_delivery_review_passed_broader_regression_pending",
+  "evidence": [
+    "delivery-wagon.json",
+    "delivery-oxen.json"
+  ],
+  "source_coordinates": "Metres; ground Z=0; wagon forward -Y. Unreal FBX import flips Y, retains X/Z and multiplies metres by 100.",
+  "measured_wagon": {
+    "source": "art/western/delivery/wagon-v004/Delivery-Wagon.blend",
+    "floor_top_z": 0.96,
+    "box_inner_width": 1.115,
+    "front_box_y": -1.86,
+    "tongue_end": [
+      0,
+      -4.2,
+      0.99
+    ],
+    "tongue_goose_center": [
+      0,
+      -3.94,
+      0.885
+    ],
+    "current_chain_attachment_center": [
+      0,
+      -1.82,
+      0.85
+    ],
+    "chain_start": [
+      0,
+      -1.865,
+      0.85
+    ]
+  },
+  "draft_ox_layout_proposal": {
+    "source": "art/western/delivery/oxen-v002/Draft-Ox.blend",
+    "animal_scale_relative_to_source": 0.9,
+    "reason": "A reconstructed approximately 1.6m-high working animal, not Ford's specifically measured enormous Thor/Zeus pair. Validate final proportions visually.",
+    "mesh_lateral_center_correction_before_placement": -0.052734,
+    "pair_lateral_centers": [
+      -0.75,
+      0.75
+    ],
+    "rear_pair_body_y": -3.5,
+    "front_pair_body_y": -6.8,
+    "neck_y_relative_to_unscaled_animal": -0.68,
+    "rear_yoke_y": -4.112,
+    "observations": "Unscaled neck profile near y=-0.7 extends to approximately z=1.80m; wider shoulder starts around y=-0.6. Fit yoke behind horns, with loose bows below the neck. Re-measure the evaluated derivative before accepting clearances."
+  },
+  "integration_still_required": "Broader cargo/medical/Native/transition/skip/reconnect/region review and packaging. Optional delivery History is integrated and verified in the two-peer replay.",
+  "source_review": "art/western/delivery/hitch-v005/visual-review.json",
+  "native_hitch_import": "art/western/delivery/hitch-v005/unreal-import.json",
+  "resolved_source_issues": [
+    "Raised draft attachment on the front under-box timber to keep the chain above the tongue.",
+    "Widened and inclined loose bows to clear advancing forelegs.",
+    "Reduced the calabash lower circle to clear the tongue through walking bob; this precise dimension is reconstructed.",
+    "Explicit chain reference-axis lengths replace an approximation from mesh bounds.",
+    "126 evaluated source poses passed the recorded surface-intersection checks; this is not proof of blended native animation."
+  ],
+  "runtime_layout": {
+    "uniform_diorama_scale": 0.4,
+    "animal_relative_scale": 0.9,
+    "walk_reference_cm_per_second": 59.5238095,
+    "world_walk_cm_per_second": 21.42857142,
+    "route_seconds": 2.4,
+    "route_cm": 51.428571408,
+    "stop_blend_seconds": 0.18,
+    "cargo_floor_local_cm": 96,
+    "cargo_layout": "Two columns, up to three rows. Bottom height taken from imported cargo bounds. Public count stays clamped to 1..6, as before. Native sources/targets retain plain crates.",
+    "collision": "No collision/navigation on the team. Placement reserves both public fuse strips and tests visible-unit bounds and camera-blocking scenery.",
+    "limits": "Gameplay captures and source/native comparison still required; source stride does not alone prove no foot slide after native transition blends."
+  },
+  "native_gameplay_review": "art/western/delivery/runtime-v002/visual-review.json"
+}

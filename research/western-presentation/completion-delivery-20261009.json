@@ -1,0 +1,38 @@
+{
+  "completed_utc": "2026-10-09T19:07:33.587893+00:00",
+  "scope": "User-requested first playable completion of items 2\u20135; refinements deferred under October 9 direction.",
+  "status": "verified_ready_for_play",
+  "package": "dist/linux-development-western-completion-20261009-v2/archive",
+  "binary_sha256": "688ae5f59ac586eca89a698aa93bcc6952dbc446eb5691d5db4c9802d5d86cb2",
+  "required_assets_verified": 1840,
+  "expansion_holdings": 32,
+  "setting_bases": 32,
+  "authored_ruin_meshes": 31,
+  "trouble_models": 10,
+  "regions": 3,
+  "runtime_evidence": {
+    "holdings": "tests/runs/western-completion-20261009/portraits-v2/result.json",
+    "final_portraits": "tests/runs/western-completion-20261009/portraits-final/result.json",
+    "regions": "tests/runs/western-completion-20261009/regions/result.json",
+    "multiplayer": "game/tests/runs/oldwest-native-match-f7b84jfq/result.json",
+    "trouble": "tests/runs/western-completion-20261009/trouble-final/result.json"
+  },
+  "regional_evidence_note": "Three-region and full 32-holding checks used the preceding package. Final package changes only Trouble portraits, plus their lighting/framing. Final rerun covers all ten Trouble portraits, Stampede, four new holdings and a two-peer match; content assets remain unchanged.",
+  "core_tests": "tests/runs/western-completion-20261009/core-tests.log",
+  "mechanics_files_unchanged": 9,
+  "launcher_previous_target": "linux-development-whiskey-props-20261007",
+  "launcher_target": "linux-development-western-completion-20261009-v2",
+  "launcher_promoted": true,
+  "remaining_polish": "research/western-presentation/follow-up-polish-20261009.json",
+  "user_owned": [
+    "1: Base-34 final appearance approval",
+    "6: Final approval and tribal review"
+  ],
+  "final_art_approval": false,
+  "normal_launcher_smoke": {
+    "ok": true,
+    "exit_code": 0,
+    "log": "tests/runs/western-completion-20261009/default-launcher.log",
+    "scope": "Default launcher starts selected package and exits on requested quit; rendered gameplay verified separately."
+  }
+}

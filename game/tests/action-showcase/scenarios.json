@@ -1,0 +1,166 @@
+{
+  "schema": 1,
+  "ruleset": "boomtown",
+  "scope": "Planned ordinary legal native matches. A planned kind is not observed coverage; reports retain missing kinds and screenshot phases.",
+  "selection_policy": "Choose only a currently offered three-camp command, preferring named camps then larger starting hands. No deck or private-state inspection.",
+  "scenarios": [
+    {
+      "name": "general",
+      "seed": 2623,
+      "policy": "coverage",
+      "max_actions": 180,
+      "preferred_camps": [],
+      "preferred_cards": [
+        "box_canyon",
+        "curfew"
+      ],
+      "target_kinds": [
+        "ability",
+        "damage",
+        "destroy",
+        "draw_card",
+        "enter",
+        "event_play",
+        "event_resolve",
+        "event_advance",
+        "junk",
+        "raid_launch",
+        "restore",
+        "reveal_discard",
+        "store_water",
+        "turn_end",
+        "turn_start",
+        "victory",
+        "water"
+      ],
+      "public_setup": "Ordinary 2623 draft, legal actions favor unobserved effects and then offensive progress. Reach an actual victory and let its complete presentation end before showing rematch."
+    },
+    {
+      "name": "camp_motion_and_reveal",
+      "policy": "coverage",
+      "max_actions": 180,
+      "preferred_camps": [
+        "riverboat",
+        "lookout_ridge",
+        "wanted_poster_board"
+      ],
+      "preferred_cards": [
+        "box_canyon"
+      ],
+      "target_kinds": [
+        "camp_advance",
+        "expose_all",
+        "reveal_person",
+        "rearrange",
+        "move"
+      ],
+      "public_setup": "Activate Riverboat and Lookout Ridge; obtain a punk and legally reveal it through Masquerade. Draw and queue Box Canyon with multiple deployed people, then choose actual changed positions.",
+      "seed": 350,
+      "draft_target_player": 1
+    },
+    {
+      "name": "recruit_and_treat",
+      "policy": "coverage",
+      "max_actions": 200,
+      "preferred_camps": [
+        "jailhouse",
+        "army_surgeon_s_tent"
+      ],
+      "preferred_cards": [
+        "parachute",
+        "con_man",
+        "doc_holliday",
+        "gatling_gunner"
+      ],
+      "target_kinds": [
+        "recruit_id",
+        "hospital_id",
+        "restore",
+        "move"
+      ],
+      "public_setup": "Legally deploy people on both sides and damage them; use Jailhouse on a damaged enemy and Army Surgeon's Tent on a damaged ally in another column with room.",
+      "seed": 34,
+      "draft_target_player": 0
+    },
+    {
+      "name": "clear_ruins",
+      "policy": "coverage",
+      "max_actions": 180,
+      "preferred_camps": [
+        "boarding_house",
+        "vigilance_committee"
+      ],
+      "preferred_cards": [
+        "rockslide_ridge",
+        "barn_burner"
+      ],
+      "target_kinds": [
+        "remove_ruin",
+        "discard",
+        "damage",
+        "destroy"
+      ],
+      "public_setup": "Pay an offered discard ability, destroy an actual camp, then use Boarding House to remove that public ruin. Keep the relevant camps alive until their target action is observed.",
+      "seed": 115,
+      "draft_target_player": 1
+    },
+    {
+      "name": "withdraw_and_rearrange",
+      "policy": "coverage",
+      "max_actions": 180,
+      "preferred_camps": [
+        "pony_express_station"
+      ],
+      "preferred_cards": [
+        "curfew",
+        "box_canyon",
+        "sarah_winnemucca"
+      ],
+      "target_kinds": [
+        "return",
+        "move",
+        "rearrange"
+      ],
+      "public_setup": "Deploy people, use an offered return ability or Curfew, and resolve Box Canyon with different legal positions.",
+      "seed": 6,
+      "draft_target_player": 0
+    },
+    {
+      "name": "deck_depletion",
+      "policy": "depletion",
+      "max_actions": 420,
+      "preferred_camps": [
+        "post_office",
+        "horse_trader"
+      ],
+      "preferred_cards": [],
+      "target_kinds": [
+        "discard",
+        "reshuffle",
+        "draw_game",
+        "draw_card"
+      ],
+      "public_setup": "Both players prioritize legal draws and safe water/draw junk, then pass turns. Recycling creates a discard pile; exhaust the first deck, observe the single legal reshuffle, and exhaust it again for the actual draw ending.",
+      "seed": 1,
+      "draft_target_player": 1
+    },
+    {
+      "name": "scientist_analysis",
+      "seed": 139,
+      "policy": "coverage",
+      "max_actions": 120,
+      "preferred_camps": [],
+      "preferred_cards": [
+        "prospector",
+        "con_man"
+      ],
+      "target_kinds": [
+        "ability",
+        "reveal_discard",
+        "analysis_choice",
+        "draw_card"
+      ],
+      "public_setup": "Legally deploy Prospector or a Con Man that can copy a Prospector, activate analysis, and accept an offered card or Skip response. This adaptive coverage scenario is a plan, not an exact replay or guaranteed result. The separate test_scientist_scene.py seed139 replay records exact branch evidence."
+    }
+  ]
+}

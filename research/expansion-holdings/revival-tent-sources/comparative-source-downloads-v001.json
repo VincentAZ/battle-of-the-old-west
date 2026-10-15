@@ -1,0 +1,22 @@
+[
+  {
+    "file": "NPS-Wesleyan-Grove-Nomination.pdf",
+    "url": "https://npgallery.nps.gov/GetAsset/3fe829b3-8b64-462c-8da1-fbd61f70aa36",
+    "bytes": 805187,
+    "sha256": "a5270ec67a5e01ff000de4e744fbd6dae2f6e5586746275fd39ec9c2c1714e78",
+    "status": "downloaded"
+  },
+  {
+    "file": "MVMuseum-Quarterly-Nov2023.pdf",
+    "url": "https://mvmuseum.org/wp-content/uploads/2024/11/November-2023-Quarterly.pdf",
+    "bytes": 1568741,
+    "sha256": "531b5bfc067a37313bad1947209e2be70d088681c166389246e5897d8df307f7",
+    "status": "downloaded"
+  },
+  {
+    "file": "Washington-Grove-Shelter-History.html",
+    "url": "https://washingtongrovemd.gov/history-features/sheltering-the-faithful-at-camp-meeting/",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

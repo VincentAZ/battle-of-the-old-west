@@ -1,0 +1,2266 @@
+{
+  "provisional_names": [
+    "horse_trader",
+    "lookout_ridge",
+    "nitro_works",
+    "post_office",
+    "rustlers_corral",
+    "vigilance_committee"
+  ],
+  "card_names": {
+    "saloon": "Saloon",
+    "livery_barn": "Livery Barn",
+    "hot_springs": "Hot Springs",
+    "silver_mine": "Silver Mine",
+    "logging_camp": "Logging Camp",
+    "stockyards": "Stockyards",
+    "army_fort": "Army Fort",
+    "dynamite_shack": "Dynamite Shack",
+    "bunkhouse": "Bunkhouse",
+    "roundup_corral": "Roundup Corral",
+    "cattle_ranch": "Cattle Ranch",
+    "riverboat": "Riverboat",
+    "railroad_work_camp": "Railroad Work Camp",
+    "toll_bridge": "Toll Bridge",
+    "undertaker": "Undertaker",
+    "bordello": "Bordello",
+    "trading_post": "Trading Post",
+    "land_office": "Land Office",
+    "telegraph_office": "Telegraph Office",
+    "stagecoach_station": "Stagecoach Station",
+    "railroad_depot": "Railroad Depot",
+    "homestead_cabin": "Homestead Cabin",
+    "gatling_emplacement": "Gatling Emplacement",
+    "powder_magazine": "Powder Magazine",
+    "church_bell_tower": "Church Bell Tower",
+    "salvage_yard": "Salvage Yard",
+    "artillery_battery": "Artillery Battery",
+    "general_store": "General Store",
+    "bare_knuckle_ring": "Bare-Knuckle Ring",
+    "breaking_pen": "Breaking Pen",
+    "barn_raising": "Barn Raising",
+    "rodeo_grounds": "Rodeo Grounds",
+    "freight_warehouse": "Freight Warehouse",
+    "mountain_hideout": "Mountain Hideout",
+    "gunsmith": "Gunsmith",
+    "jailhouse": "Jailhouse",
+    "robbers_roost": "Robbers Roost",
+    "timber_ram": "Timber Ram",
+    "smuggler_s_landing": "Smuggler's Landing",
+    "rockslide_ridge": "Rockslide Ridge",
+    "bounty_office": "Bounty Office",
+    "packer_s_cabin": "Packer's Cabin",
+    "revival_tent": "Revival Tent",
+    "courthouse": "Courthouse",
+    "army_surgeon_s_tent": "Army Surgeon's Tent",
+    "wagon_fort": "Wagon Fort",
+    "free_homestead": "Free Homestead",
+    "coal_yard": "Coal Yard",
+    "gallows": "Gallows",
+    "pawn_shop": "Pawn Shop",
+    "crimp_house": "Crimp House",
+    "wanted_poster_board": "Wanted Poster Board",
+    "boot_hill": "Boot Hill",
+    "boarding_house": "Boarding House",
+    "quaker_settlement": "Quaker Settlement",
+    "chuckwagon": "Chuckwagon",
+    "pony_express_station": "Pony Express Station",
+    "dance_hall": "Dance Hall",
+    "apothecary": "Apothecary",
+    "cattlemen_s_club": "Cattlemen's Club",
+    "vigilance_committee": "Vigilance Committee",
+    "post_office": "Post Office",
+    "nitro_works": "Nitro Works",
+    "rustlers_corral": "Rustlers' Corral",
+    "horse_trader": "Horse Trader",
+    "lookout_ridge": "Lookout Ridge",
+    "run_out_of_town": "Run Out of Town",
+    "cannonade": "Cannonade",
+    "hard_winter": "Hard Winter",
+    "box_canyon": "Box Canyon",
+    "poker_night": "Poker Night",
+    "prairie_fire": "Prairie Fire",
+    "cholera": "Cholera",
+    "ambush": "Ambush",
+    "curfew": "Curfew",
+    "gold_rush": "Gold Rush",
+    "stampede": "Stampede",
+    "hip_flask": "Hip Flask",
+    "bounty_hunter": "Bounty Hunter / Tom Horn",
+    "hellfire_preacher": "Hellfire Preacher / Revival Sister",
+    "pinkerton_agent": "Pinkerton Agent / Lozen",
+    "regulator": "Regulator / Billy the Kid",
+    "gatling_gunner": "Gatling Gunner / Coach Guard",
+    "widow_with_a_shotgun": "Widow with a Shotgun / Homestead Defender",
+    "claim_jumper": "Claim Jumper / Jesse James",
+    "con_man": "Con Man / Bass Reeves",
+    "bartender": "Bartender / Piano Player",
+    "doc_holliday": "Doc Holliday / Laudanum Doctor",
+    "barn_burner": "Barn Burner / Railroad Saboteur",
+    "ringleader": "Ringleader / Trail Organizer",
+    "blacksmith": "Blacksmith / Carpenter",
+    "sarah_winnemucca": "Sarah Winnemucca / Getaway Rider",
+    "prospector": "Prospector / Assayer",
+    "rustler": "Rustler / Drover",
+    "annie_oakley": "Annie Oakley / Sharpshooter",
+    "duelist": "Duelist / Wild Bill Hickok",
+    "vigilante": "Vigilante / Town Avenger",
+    "civil_war_veteran": "Civil War Veteran / Buffalo Soldier Veteran",
+    "wyatt_earp": "Wyatt Earp",
+    "quanah_parker": "Quanah Parker",
+    "augustus_powder_pike": "Augustus “Powder” Pike",
+    "cornelius_ashby_railroad_baron": "Cornelius Ashby, Railroad Baron",
+    "charles_goodnight": "Charles Goodnight",
+    "poker_alice": "Poker Alice",
+    "punk": "Drifter"
+  },
+  "app_name": "Battle of the Old West",
+  "expansion_name": "Boomtown",
+  "rows": [
+    {
+      "from": "CIVIL WAR VETERAN / BUFFALO SOLDIER VETERAN",
+      "to": "CIVIL WAR VETERAN / BUFFALO SOLDIER VETERAN",
+      "prose_only": false
+    },
+    {
+      "from": "Civil War Veteran / Buffalo Soldier Veteran",
+      "to": "Civil War Veteran / Buffalo Soldier Veteran",
+      "prose_only": false
+    },
+    {
+      "from": "WIDOW WITH A SHOTGUN / HOMESTEAD DEFENDER",
+      "to": "WIDOW WITH A SHOTGUN / HOMESTEAD DEFENDER",
+      "prose_only": false
+    },
+    {
+      "from": "Widow with a Shotgun / Homestead Defender",
+      "to": "Widow with a Shotgun / Homestead Defender",
+      "prose_only": false
+    },
+    {
+      "from": "HELLFIRE PREACHER / REVIVAL SISTER",
+      "to": "HELLFIRE PREACHER / REVIVAL SISTER",
+      "prose_only": false
+    },
+    {
+      "from": "Hellfire Preacher / Revival Sister",
+      "to": "Hellfire Preacher / Revival Sister",
+      "prose_only": false
+    },
+    {
+      "from": "SARAH WINNEMUCCA / GETAWAY RIDER",
+      "to": "SARAH WINNEMUCCA / GETAWAY RIDER",
+      "prose_only": false
+    },
+    {
+      "from": "Sarah Winnemucca / Getaway Rider",
+      "to": "Sarah Winnemucca / Getaway Rider",
+      "prose_only": false
+    },
+    {
+      "from": "BARN BURNER / RAILROAD SABOTEUR",
+      "to": "BARN BURNER / RAILROAD SABOTEUR",
+      "prose_only": false
+    },
+    {
+      "from": "Barn Burner / Railroad Saboteur",
+      "to": "Barn Burner / Railroad Saboteur",
+      "prose_only": false
+    },
+    {
+      "from": "CORNELIUS ASHBY, RAILROAD BARON",
+      "to": "CORNELIUS ASHBY, RAILROAD BARON",
+      "prose_only": false
+    },
+    {
+      "from": "Cornelius Ashby, Railroad Baron",
+      "to": "Cornelius Ashby, Railroad Baron",
+      "prose_only": false
+    },
+    {
+      "from": "DOC HOLLIDAY / LAUDANUM DOCTOR",
+      "to": "DOC HOLLIDAY / LAUDANUM DOCTOR",
+      "prose_only": false
+    },
+    {
+      "from": "Doc Holliday / Laudanum Doctor",
+      "to": "Doc Holliday / Laudanum Doctor",
+      "prose_only": false
+    },
+    {
+      "from": "GATLING GUNNER / COACH GUARD",
+      "to": "GATLING GUNNER / COACH GUARD",
+      "prose_only": false
+    },
+    {
+      "from": "Gatling Gunner / Coach Guard",
+      "to": "Gatling Gunner / Coach Guard",
+      "prose_only": false
+    },
+    {
+      "from": "RINGLEADER / TRAIL ORGANIZER",
+      "to": "RINGLEADER / TRAIL ORGANIZER",
+      "prose_only": false
+    },
+    {
+      "from": "Ringleader / Trail Organizer",
+      "to": "Ringleader / Trail Organizer",
+      "prose_only": false
+    },
+    {
+      "from": "ANNIE OAKLEY / SHARPSHOOTER",
+      "to": "ANNIE OAKLEY / SHARPSHOOTER",
+      "prose_only": false
+    },
+    {
+      "from": "Annie Oakley / Sharpshooter",
+      "to": "Annie Oakley / Sharpshooter",
+      "prose_only": false
+    },
+    {
+      "from": "CLAIM JUMPER / JESSE JAMES",
+      "to": "CLAIM JUMPER / JESSE JAMES",
+      "prose_only": false
+    },
+    {
+      "from": "Claim Jumper / Jesse James",
+      "to": "Claim Jumper / Jesse James",
+      "prose_only": false
+    },
+    {
+      "from": "DUELIST / WILD BILL HICKOK",
+      "to": "DUELIST / WILD BILL HICKOK",
+      "prose_only": false
+    },
+    {
+      "from": "Duelist / Wild Bill Hickok",
+      "to": "Duelist / Wild Bill Hickok",
+      "prose_only": false
+    },
+    {
+      "from": "REGULATOR / BILLY THE KID",
+      "to": "REGULATOR / BILLY THE KID",
+      "prose_only": false
+    },
+    {
+      "from": "Regulator / Billy the Kid",
+      "to": "Regulator / Billy the Kid",
+      "prose_only": false
+    },
+    {
+      "from": "BARTENDER / PIANO PLAYER",
+      "to": "BARTENDER / PIANO PLAYER",
+      "prose_only": false
+    },
+    {
+      "from": "BOUNTY HUNTER / TOM HORN",
+      "to": "BOUNTY HUNTER / TOM HORN",
+      "prose_only": false
+    },
+    {
+      "from": "Bartender / Piano Player",
+      "to": "Bartender / Piano Player",
+      "prose_only": false
+    },
+    {
+      "from": "Bounty Hunter / Tom Horn",
+      "to": "Bounty Hunter / Tom Horn",
+      "prose_only": false
+    },
+    {
+      "from": "VIGILANTE / TOWN AVENGER",
+      "to": "VIGILANTE / TOWN AVENGER",
+      "prose_only": false
+    },
+    {
+      "from": "Vigilante / Town Avenger",
+      "to": "Vigilante / Town Avenger",
+      "prose_only": false
+    },
+    {
+      "from": "BUFFALO SOLDIER VETERAN",
+      "to": "BUFFALO SOLDIER VETERAN",
+      "prose_only": false
+    },
+    {
+      "from": "Buffalo Soldier Veteran",
+      "to": "Buffalo Soldier Veteran",
+      "prose_only": false
+    },
+    {
+      "from": "PINKERTON AGENT / LOZEN",
+      "to": "PINKERTON AGENT / LOZEN",
+      "prose_only": false
+    },
+    {
+      "from": "Pinkerton Agent / Lozen",
+      "to": "Pinkerton Agent / Lozen",
+      "prose_only": false
+    },
+    {
+      "from": "AUGUSTUS “POWDER” PIKE",
+      "to": "AUGUSTUS “POWDER” PIKE",
+      "prose_only": false
+    },
+    {
+      "from": "Augustus “Powder” Pike",
+      "to": "Augustus “Powder” Pike",
+      "prose_only": false
+    },
+    {
+      "from": "BLACKSMITH / CARPENTER",
+      "to": "BLACKSMITH / CARPENTER",
+      "prose_only": false
+    },
+    {
+      "from": "Blacksmith / Carpenter",
+      "to": "Blacksmith / Carpenter",
+      "prose_only": false
+    },
+    {
+      "from": "CON MAN / BASS REEVES",
+      "to": "CON MAN / BASS REEVES",
+      "prose_only": false
+    },
+    {
+      "from": "Con Man / Bass Reeves",
+      "to": "Con Man / Bass Reeves",
+      "prose_only": false
+    },
+    {
+      "from": "PONY EXPRESS STATION",
+      "to": "PONY EXPRESS STATION",
+      "prose_only": false
+    },
+    {
+      "from": "PROSPECTOR / ASSAYER",
+      "to": "PROSPECTOR / ASSAYER",
+      "prose_only": false
+    },
+    {
+      "from": "Pony Express Station",
+      "to": "Pony Express Station",
+      "prose_only": false
+    },
+    {
+      "from": "Prospector / Assayer",
+      "to": "Prospector / Assayer",
+      "prose_only": false
+    },
+    {
+      "from": "WIDOW WITH A SHOTGUN",
+      "to": "WIDOW WITH A SHOTGUN / HOMESTEAD DEFENDER",
+      "prose_only": false
+    },
+    {
+      "from": "Widow with a Shotgun",
+      "to": "Widow with a Shotgun / Homestead Defender",
+      "prose_only": false
+    },
+    {
+      "from": "ARMY SURGEON'S TENT",
+      "to": "ARMY SURGEON'S TENT",
+      "prose_only": false
+    },
+    {
+      "from": "Army Surgeon's Tent",
+      "to": "Army Surgeon's Tent",
+      "prose_only": false
+    },
+    {
+      "from": "GATLING EMPLACEMENT",
+      "to": "GATLING EMPLACEMENT",
+      "prose_only": false
+    },
+    {
+      "from": "Gatling Emplacement",
+      "to": "Gatling Emplacement",
+      "prose_only": false
+    },
+    {
+      "from": "VIGILANCE COMMITTEE",
+      "to": "VIGILANCE COMMITTEE",
+      "prose_only": false
+    },
+    {
+      "from": "Vigilance Committee",
+      "to": "Vigilance Committee",
+      "prose_only": false
+    },
+    {
+      "from": "WANTED POSTER BOARD",
+      "to": "WANTED POSTER BOARD",
+      "prose_only": false
+    },
+    {
+      "from": "Wanted Poster Board",
+      "to": "Wanted Poster Board",
+      "prose_only": false
+    },
+    {
+      "from": "HOMESTEAD DEFENDER",
+      "to": "HOMESTEAD DEFENDER",
+      "prose_only": false
+    },
+    {
+      "from": "Homestead Defender",
+      "to": "Homestead Defender",
+      "prose_only": false
+    },
+    {
+      "from": "RAILROAD WORK CAMP",
+      "to": "RAILROAD WORK CAMP",
+      "prose_only": false
+    },
+    {
+      "from": "Railroad Work Camp",
+      "to": "Railroad Work Camp",
+      "prose_only": false
+    },
+    {
+      "from": "SMUGGLER'S LANDING",
+      "to": "SMUGGLER'S LANDING",
+      "prose_only": false
+    },
+    {
+      "from": "STAGECOACH STATION",
+      "to": "STAGECOACH STATION",
+      "prose_only": false
+    },
+    {
+      "from": "Smuggler's Landing",
+      "to": "Smuggler's Landing",
+      "prose_only": false
+    },
+    {
+      "from": "Stagecoach Station",
+      "to": "Stagecoach Station",
+      "prose_only": false
+    },
+    {
+      "from": "ARTILLERY BATTERY",
+      "to": "ARTILLERY BATTERY",
+      "prose_only": false
+    },
+    {
+      "from": "Artillery Battery",
+      "to": "Artillery Battery",
+      "prose_only": false
+    },
+    {
+      "from": "BARE-KNUCKLE RING",
+      "to": "BARE-KNUCKLE RING",
+      "prose_only": false
+    },
+    {
+      "from": "Bare-Knuckle Ring",
+      "to": "Bare-Knuckle Ring",
+      "prose_only": false
+    },
+    {
+      "from": "CHARLES GOODNIGHT",
+      "to": "CHARLES GOODNIGHT",
+      "prose_only": false
+    },
+    {
+      "from": "CHURCH BELL TOWER",
+      "to": "CHURCH BELL TOWER",
+      "prose_only": false
+    },
+    {
+      "from": "CIVIL WAR VETERAN",
+      "to": "CIVIL WAR VETERAN / BUFFALO SOLDIER VETERAN",
+      "prose_only": false
+    },
+    {
+      "from": "Charles Goodnight",
+      "to": "Charles Goodnight",
+      "prose_only": false
+    },
+    {
+      "from": "Church Bell Tower",
+      "to": "Church Bell Tower",
+      "prose_only": false
+    },
+    {
+      "from": "Civil War Veteran",
+      "to": "Civil War Veteran / Buffalo Soldier Veteran",
+      "prose_only": false
+    },
+    {
+      "from": "FREIGHT WAREHOUSE",
+      "to": "FREIGHT WAREHOUSE",
+      "prose_only": false
+    },
+    {
+      "from": "Freight Warehouse",
+      "to": "Freight Warehouse",
+      "prose_only": false
+    },
+    {
+      "from": "HELLFIRE PREACHER",
+      "to": "HELLFIRE PREACHER / REVIVAL SISTER",
+      "prose_only": false
+    },
+    {
+      "from": "Hellfire Preacher",
+      "to": "Hellfire Preacher / Revival Sister",
+      "prose_only": false
+    },
+    {
+      "from": "QUAKER SETTLEMENT",
+      "to": "QUAKER SETTLEMENT",
+      "prose_only": false
+    },
+    {
+      "from": "Quaker Settlement",
+      "to": "Quaker Settlement",
+      "prose_only": false
+    },
+    {
+      "from": "RAILROAD SABOTEUR",
+      "to": "RAILROAD SABOTEUR",
+      "prose_only": false
+    },
+    {
+      "from": "Railroad Saboteur",
+      "to": "Railroad Saboteur",
+      "prose_only": false
+    },
+    {
+      "from": "CATTLEMEN'S CLUB",
+      "to": "CATTLEMEN'S CLUB",
+      "prose_only": false
+    },
+    {
+      "from": "Cattlemen's Club",
+      "to": "Cattlemen's Club",
+      "prose_only": false
+    },
+    {
+      "from": "MOUNTAIN HIDEOUT",
+      "to": "MOUNTAIN HIDEOUT",
+      "prose_only": false
+    },
+    {
+      "from": "Mountain Hideout",
+      "to": "Mountain Hideout",
+      "prose_only": false
+    },
+    {
+      "from": "RUSTLER / DROVER",
+      "to": "RUSTLER / DROVER",
+      "prose_only": false
+    },
+    {
+      "from": "RUSTLERS' CORRAL",
+      "to": "RUSTLERS' CORRAL",
+      "prose_only": false
+    },
+    {
+      "from": "Rustler / Drover",
+      "to": "Rustler / Drover",
+      "prose_only": false
+    },
+    {
+      "from": "Rustlers' Corral",
+      "to": "Rustlers' Corral",
+      "prose_only": false
+    },
+    {
+      "from": "SARAH WINNEMUCCA",
+      "to": "SARAH WINNEMUCCA / GETAWAY RIDER",
+      "prose_only": false
+    },
+    {
+      "from": "Sarah Winnemucca",
+      "to": "Sarah Winnemucca / Getaway Rider",
+      "prose_only": false
+    },
+    {
+      "from": "TELEGRAPH OFFICE",
+      "to": "TELEGRAPH OFFICE",
+      "prose_only": false
+    },
+    {
+      "from": "Telegraph Office",
+      "to": "Telegraph Office",
+      "prose_only": false
+    },
+    {
+      "from": "WILD BILL HICKOK",
+      "to": "WILD BILL HICKOK",
+      "prose_only": false
+    },
+    {
+      "from": "Wild Bill Hickok",
+      "to": "Wild Bill Hickok",
+      "prose_only": false
+    },
+    {
+      "from": "HOMESTEAD CABIN",
+      "to": "HOMESTEAD CABIN",
+      "prose_only": false
+    },
+    {
+      "from": "Homestead Cabin",
+      "to": "Homestead Cabin",
+      "prose_only": false
+    },
+    {
+      "from": "LAUDANUM DOCTOR",
+      "to": "LAUDANUM DOCTOR",
+      "prose_only": false
+    },
+    {
+      "from": "Laudanum Doctor",
+      "to": "Laudanum Doctor",
+      "prose_only": false
+    },
+    {
+      "from": "PINKERTON AGENT",
+      "to": "PINKERTON AGENT / LOZEN",
+      "prose_only": false
+    },
+    {
+      "from": "POWDER MAGAZINE",
+      "to": "POWDER MAGAZINE",
+      "prose_only": false
+    },
+    {
+      "from": "Pinkerton Agent",
+      "to": "Pinkerton Agent / Lozen",
+      "prose_only": false
+    },
+    {
+      "from": "Powder Magazine",
+      "to": "Powder Magazine",
+      "prose_only": false
+    },
+    {
+      "from": "ROCKSLIDE RIDGE",
+      "to": "ROCKSLIDE RIDGE",
+      "prose_only": false
+    },
+    {
+      "from": "RUN OUT OF TOWN",
+      "to": "RUN OUT OF TOWN",
+      "prose_only": false
+    },
+    {
+      "from": "Rockslide Ridge",
+      "to": "Rockslide Ridge",
+      "prose_only": false
+    },
+    {
+      "from": "Run Out of Town",
+      "to": "Run Out of Town",
+      "prose_only": false
+    },
+    {
+      "from": "TRAIL ORGANIZER",
+      "to": "TRAIL ORGANIZER",
+      "prose_only": false
+    },
+    {
+      "from": "Trail Organizer",
+      "to": "Trail Organizer",
+      "prose_only": false
+    },
+    {
+      "from": "BOARDING HOUSE",
+      "to": "BOARDING HOUSE",
+      "prose_only": false
+    },
+    {
+      "from": "Boarding House",
+      "to": "Boarding House",
+      "prose_only": false
+    },
+    {
+      "from": "CULT OF CHROME",
+      "to": "BOOMTOWN",
+      "prose_only": false
+    },
+    {
+      "from": "Cult of Chrome",
+      "to": "Boomtown",
+      "prose_only": false
+    },
+    {
+      "from": "DYNAMITE SHACK",
+      "to": "DYNAMITE SHACK",
+      "prose_only": false
+    },
+    {
+      "from": "Dynamite Shack",
+      "to": "Dynamite Shack",
+      "prose_only": false
+    },
+    {
+      "from": "FREE HOMESTEAD",
+      "to": "FREE HOMESTEAD",
+      "prose_only": false
+    },
+    {
+      "from": "Free Homestead",
+      "to": "Free Homestead",
+      "prose_only": false
+    },
+    {
+      "from": "GATLING GUNNER",
+      "to": "GATLING GUNNER / COACH GUARD",
+      "prose_only": false
+    },
+    {
+      "from": "Gatling Gunner",
+      "to": "Gatling Gunner / Coach Guard",
+      "prose_only": false
+    },
+    {
+      "from": "PACKER'S CABIN",
+      "to": "PACKER'S CABIN",
+      "prose_only": false
+    },
+    {
+      "from": "Packer's Cabin",
+      "to": "Packer's Cabin",
+      "prose_only": false
+    },
+    {
+      "from": "RAILROAD DEPOT",
+      "to": "RAILROAD DEPOT",
+      "prose_only": false
+    },
+    {
+      "from": "REVIVAL SISTER",
+      "to": "REVIVAL SISTER",
+      "prose_only": false
+    },
+    {
+      "from": "ROUNDUP CORRAL",
+      "to": "ROUNDUP CORRAL",
+      "prose_only": false
+    },
+    {
+      "from": "Railroad Depot",
+      "to": "Railroad Depot",
+      "prose_only": false
+    },
+    {
+      "from": "Revival Sister",
+      "to": "Revival Sister",
+      "prose_only": false
+    },
+    {
+      "from": "Roundup Corral",
+      "to": "Roundup Corral",
+      "prose_only": false
+    },
+    {
+      "from": "BILLY THE KID",
+      "to": "BILLY THE KID",
+      "prose_only": false
+    },
+    {
+      "from": "BOUNTY HUNTER",
+      "to": "BOUNTY HUNTER / TOM HORN",
+      "prose_only": false
+    },
+    {
+      "from": "BOUNTY OFFICE",
+      "to": "BOUNTY OFFICE",
+      "prose_only": false
+    },
+    {
+      "from": "Billy the Kid",
+      "to": "Billy the Kid",
+      "prose_only": false
+    },
+    {
+      "from": "Bounty Hunter",
+      "to": "Bounty Hunter / Tom Horn",
+      "prose_only": false
+    },
+    {
+      "from": "Bounty Office",
+      "to": "Bounty Office",
+      "prose_only": false
+    },
+    {
+      "from": "GENERAL STORE",
+      "to": "GENERAL STORE",
+      "prose_only": false
+    },
+    {
+      "from": "GETAWAY RIDER",
+      "to": "GETAWAY RIDER",
+      "prose_only": false
+    },
+    {
+      "from": "General Store",
+      "to": "General Store",
+      "prose_only": false
+    },
+    {
+      "from": "Getaway Rider",
+      "to": "Getaway Rider",
+      "prose_only": false
+    },
+    {
+      "from": "LOOKOUT RIDGE",
+      "to": "LOOKOUT RIDGE",
+      "prose_only": false
+    },
+    {
+      "from": "Lookout Ridge",
+      "to": "Lookout Ridge",
+      "prose_only": false
+    },
+    {
+      "from": "QUANAH PARKER",
+      "to": "QUANAH PARKER",
+      "prose_only": false
+    },
+    {
+      "from": "Quanah Parker",
+      "to": "Quanah Parker",
+      "prose_only": false
+    },
+    {
+      "from": "ROBBERS ROOST",
+      "to": "ROBBERS ROOST",
+      "prose_only": false
+    },
+    {
+      "from": "RODEO GROUNDS",
+      "to": "RODEO GROUNDS",
+      "prose_only": false
+    },
+    {
+      "from": "Robbers Roost",
+      "to": "Robbers Roost",
+      "prose_only": false
+    },
+    {
+      "from": "Rodeo Grounds",
+      "to": "Rodeo Grounds",
+      "prose_only": false
+    },
+    {
+      "from": "ANNIE OAKLEY",
+      "to": "ANNIE OAKLEY / SHARPSHOOTER",
+      "prose_only": false
+    },
+    {
+      "from": "Annie Oakley",
+      "to": "Annie Oakley / Sharpshooter",
+      "prose_only": false
+    },
+    {
+      "from": "BARN RAISING",
+      "to": "BARN RAISING",
+      "prose_only": false
+    },
+    {
+      "from": "BREAKING PEN",
+      "to": "BREAKING PEN",
+      "prose_only": false
+    },
+    {
+      "from": "Barn Raising",
+      "to": "Barn Raising",
+      "prose_only": false
+    },
+    {
+      "from": "Breaking Pen",
+      "to": "Breaking Pen",
+      "prose_only": false
+    },
+    {
+      "from": "CATTLE RANCH",
+      "to": "CATTLE RANCH",
+      "prose_only": false
+    },
+    {
+      "from": "CLAIM JUMPER",
+      "to": "CLAIM JUMPER / JESSE JAMES",
+      "prose_only": false
+    },
+    {
+      "from": "Cattle Ranch",
+      "to": "Cattle Ranch",
+      "prose_only": false
+    },
+    {
+      "from": "Claim Jumper",
+      "to": "Claim Jumper / Jesse James",
+      "prose_only": false
+    },
+    {
+      "from": "DOC HOLLIDAY",
+      "to": "DOC HOLLIDAY / LAUDANUM DOCTOR",
+      "prose_only": false
+    },
+    {
+      "from": "Doc Holliday",
+      "to": "Doc Holliday / Laudanum Doctor",
+      "prose_only": false
+    },
+    {
+      "from": "ENEMY DAMAGE",
+      "to": "ENEMY FIRE",
+      "prose_only": false
+    },
+    {
+      "from": "Enemy damage",
+      "to": "Enemy fire",
+      "prose_only": false
+    },
+    {
+      "from": "FIRST DAMAGE",
+      "to": "FIRST HIT",
+      "prose_only": false
+    },
+    {
+      "from": "First damage",
+      "to": "First hit",
+      "prose_only": false
+    },
+    {
+      "from": "GAINS A PUNK",
+      "to": "HIRES A DRIFTER",
+      "prose_only": false
+    },
+    {
+      "from": "Gains a punk",
+      "to": "Hires a drifter",
+      "prose_only": false
+    },
+    {
+      "from": "HORSE TRADER",
+      "to": "HORSE TRADER",
+      "prose_only": false
+    },
+    {
+      "from": "Horse Trader",
+      "to": "Horse Trader",
+      "prose_only": false
+    },
+    {
+      "from": "LOGGING CAMP",
+      "to": "LOGGING CAMP",
+      "prose_only": false
+    },
+    {
+      "from": "Logging Camp",
+      "to": "Logging Camp",
+      "prose_only": false
+    },
+    {
+      "from": "PIANO PLAYER",
+      "to": "PIANO PLAYER",
+      "prose_only": false
+    },
+    {
+      "from": "PRAIRIE FIRE",
+      "to": "PRAIRIE FIRE",
+      "prose_only": false
+    },
+    {
+      "from": "Piano Player",
+      "to": "Piano Player",
+      "prose_only": false
+    },
+    {
+      "from": "Prairie Fire",
+      "to": "Prairie Fire",
+      "prose_only": false
+    },
+    {
+      "from": "REVIVAL TENT",
+      "to": "REVIVAL TENT",
+      "prose_only": false
+    },
+    {
+      "from": "Revival Tent",
+      "to": "Revival Tent",
+      "prose_only": false
+    },
+    {
+      "from": "SALVAGE YARD",
+      "to": "SALVAGE YARD",
+      "prose_only": false
+    },
+    {
+      "from": "SHARPSHOOTER",
+      "to": "SHARPSHOOTER",
+      "prose_only": false
+    },
+    {
+      "from": "Salvage Yard",
+      "to": "Salvage Yard",
+      "prose_only": false
+    },
+    {
+      "from": "Sharpshooter",
+      "to": "Sharpshooter",
+      "prose_only": false
+    },
+    {
+      "from": "TAKES DAMAGE",
+      "to": "TAKES A HIT",
+      "prose_only": false
+    },
+    {
+      "from": "TOWN AVENGER",
+      "to": "TOWN AVENGER",
+      "prose_only": false
+    },
+    {
+      "from": "TRADING POST",
+      "to": "TRADING POST",
+      "prose_only": false
+    },
+    {
+      "from": "Takes damage",
+      "to": "Takes a hit",
+      "prose_only": false
+    },
+    {
+      "from": "Town Avenger",
+      "to": "Town Avenger",
+      "prose_only": false
+    },
+    {
+      "from": "Trading Post",
+      "to": "Trading Post",
+      "prose_only": false
+    },
+    {
+      "from": "enemy damage",
+      "to": "enemy fire",
+      "prose_only": true
+    },
+    {
+      "from": "first damage",
+      "to": "first hit",
+      "prose_only": true
+    },
+    {
+      "from": "gains a punk",
+      "to": "hires a drifter",
+      "prose_only": true
+    },
+    {
+      "from": "takes damage",
+      "to": "takes a hit",
+      "prose_only": true
+    },
+    {
+      "from": "BARN BURNER",
+      "to": "BARN BURNER / RAILROAD SABOTEUR",
+      "prose_only": false
+    },
+    {
+      "from": "BASS REEVES",
+      "to": "BASS REEVES",
+      "prose_only": false
+    },
+    {
+      "from": "Barn Burner",
+      "to": "Barn Burner / Railroad Saboteur",
+      "prose_only": false
+    },
+    {
+      "from": "Bass Reeves",
+      "to": "Bass Reeves",
+      "prose_only": false
+    },
+    {
+      "from": "COACH GUARD",
+      "to": "COACH GUARD",
+      "prose_only": false
+    },
+    {
+      "from": "CRIMP HOUSE",
+      "to": "CRIMP HOUSE",
+      "prose_only": false
+    },
+    {
+      "from": "Coach Guard",
+      "to": "Coach Guard",
+      "prose_only": false
+    },
+    {
+      "from": "Crimp House",
+      "to": "Crimp House",
+      "prose_only": false
+    },
+    {
+      "from": "EVENT QUEUE",
+      "to": "FUSE LINE",
+      "prose_only": false
+    },
+    {
+      "from": "Event queue",
+      "to": "Fuse line",
+      "prose_only": false
+    },
+    {
+      "from": "GAIN A PUNK",
+      "to": "HIRE A DRIFTER",
+      "prose_only": false
+    },
+    {
+      "from": "Gain a punk",
+      "to": "Hire a drifter",
+      "prose_only": false
+    },
+    {
+      "from": "HARD WINTER",
+      "to": "HARD WINTER",
+      "prose_only": false
+    },
+    {
+      "from": "HOT SPRINGS",
+      "to": "HOT SPRINGS",
+      "prose_only": false
+    },
+    {
+      "from": "Hard Winter",
+      "to": "Hard Winter",
+      "prose_only": false
+    },
+    {
+      "from": "Hot Springs",
+      "to": "Hot Springs",
+      "prose_only": false
+    },
+    {
+      "from": "JESSE JAMES",
+      "to": "JESSE JAMES",
+      "prose_only": false
+    },
+    {
+      "from": "Jesse James",
+      "to": "Jesse James",
+      "prose_only": false
+    },
+    {
+      "from": "LAND OFFICE",
+      "to": "LAND OFFICE",
+      "prose_only": false
+    },
+    {
+      "from": "LIVERY BARN",
+      "to": "LIVERY BARN",
+      "prose_only": false
+    },
+    {
+      "from": "Land Office",
+      "to": "Land Office",
+      "prose_only": false
+    },
+    {
+      "from": "Livery Barn",
+      "to": "Livery Barn",
+      "prose_only": false
+    },
+    {
+      "from": "NITRO WORKS",
+      "to": "NITRO WORKS",
+      "prose_only": false
+    },
+    {
+      "from": "Nitro Works",
+      "to": "Nitro Works",
+      "prose_only": false
+    },
+    {
+      "from": "POKER ALICE",
+      "to": "POKER ALICE",
+      "prose_only": false
+    },
+    {
+      "from": "POKER NIGHT",
+      "to": "POKER NIGHT",
+      "prose_only": false
+    },
+    {
+      "from": "POST OFFICE",
+      "to": "POST OFFICE",
+      "prose_only": false
+    },
+    {
+      "from": "Poker Alice",
+      "to": "Poker Alice",
+      "prose_only": false
+    },
+    {
+      "from": "Poker Night",
+      "to": "Poker Night",
+      "prose_only": false
+    },
+    {
+      "from": "Post Office",
+      "to": "Post Office",
+      "prose_only": false
+    },
+    {
+      "from": "SILVER MINE",
+      "to": "SILVER MINE",
+      "prose_only": false
+    },
+    {
+      "from": "Silver Mine",
+      "to": "Silver Mine",
+      "prose_only": false
+    },
+    {
+      "from": "TOLL BRIDGE",
+      "to": "TOLL BRIDGE",
+      "prose_only": false
+    },
+    {
+      "from": "Toll Bridge",
+      "to": "Toll Bridge",
+      "prose_only": false
+    },
+    {
+      "from": "UNPROTECTED",
+      "to": "EXPOSED",
+      "prose_only": false
+    },
+    {
+      "from": "Unprotected",
+      "to": "Exposed",
+      "prose_only": false
+    },
+    {
+      "from": "event queue",
+      "to": "fuse line",
+      "prose_only": true
+    },
+    {
+      "from": "gain a punk",
+      "to": "hire a drifter",
+      "prose_only": true
+    },
+    {
+      "from": "unprotected",
+      "to": "exposed",
+      "prose_only": true
+    },
+    {
+      "from": "AN INJURED",
+      "to": "A WOUNDED",
+      "prose_only": false
+    },
+    {
+      "from": "APOTHECARY",
+      "to": "APOTHECARY",
+      "prose_only": false
+    },
+    {
+      "from": "An injured",
+      "to": "A wounded",
+      "prose_only": false
+    },
+    {
+      "from": "Apothecary",
+      "to": "Apothecary",
+      "prose_only": false
+    },
+    {
+      "from": "BLACKSMITH",
+      "to": "BLACKSMITH / CARPENTER",
+      "prose_only": false
+    },
+    {
+      "from": "BOX CANYON",
+      "to": "BOX CANYON",
+      "prose_only": false
+    },
+    {
+      "from": "Blacksmith",
+      "to": "Blacksmith / Carpenter",
+      "prose_only": false
+    },
+    {
+      "from": "Box Canyon",
+      "to": "Box Canyon",
+      "prose_only": false
+    },
+    {
+      "from": "CHUCKWAGON",
+      "to": "CHUCKWAGON",
+      "prose_only": false
+    },
+    {
+      "from": "COURTHOUSE",
+      "to": "COURTHOUSE",
+      "prose_only": false
+    },
+    {
+      "from": "Chuckwagon",
+      "to": "Chuckwagon",
+      "prose_only": false
+    },
+    {
+      "from": "Courthouse",
+      "to": "Courthouse",
+      "prose_only": false
+    },
+    {
+      "from": "DANCE HALL",
+      "to": "DANCE HALL",
+      "prose_only": false
+    },
+    {
+      "from": "Dance Hall",
+      "to": "Dance Hall",
+      "prose_only": false
+    },
+    {
+      "from": "GAIN PUNKS",
+      "to": "HIRE DRIFTERS",
+      "prose_only": false
+    },
+    {
+      "from": "Gain punks",
+      "to": "Hire drifters",
+      "prose_only": false
+    },
+    {
+      "from": "PROSPECTOR",
+      "to": "PROSPECTOR / ASSAYER",
+      "prose_only": false
+    },
+    {
+      "from": "PROTECTING",
+      "to": "COVERING",
+      "prose_only": false
+    },
+    {
+      "from": "PROTECTION",
+      "to": "COVER",
+      "prose_only": false
+    },
+    {
+      "from": "Prospector",
+      "to": "Prospector / Assayer",
+      "prose_only": false
+    },
+    {
+      "from": "Protecting",
+      "to": "Covering",
+      "prose_only": false
+    },
+    {
+      "from": "Protection",
+      "to": "Cover",
+      "prose_only": false
+    },
+    {
+      "from": "RINGLEADER",
+      "to": "RINGLEADER / TRAIL ORGANIZER",
+      "prose_only": false
+    },
+    {
+      "from": "Ringleader",
+      "to": "Ringleader / Trail Organizer",
+      "prose_only": false
+    },
+    {
+      "from": "STOCKYARDS",
+      "to": "STOCKYARDS",
+      "prose_only": false
+    },
+    {
+      "from": "Stockyards",
+      "to": "Stockyards",
+      "prose_only": false
+    },
+    {
+      "from": "TIMBER RAM",
+      "to": "TIMBER RAM",
+      "prose_only": false
+    },
+    {
+      "from": "Timber Ram",
+      "to": "Timber Ram",
+      "prose_only": false
+    },
+    {
+      "from": "UNDERTAKER",
+      "to": "UNDERTAKER",
+      "prose_only": false
+    },
+    {
+      "from": "Undertaker",
+      "to": "Undertaker",
+      "prose_only": false
+    },
+    {
+      "from": "WAGON FORT",
+      "to": "WAGON FORT",
+      "prose_only": false
+    },
+    {
+      "from": "WYATT EARP",
+      "to": "WYATT EARP",
+      "prose_only": false
+    },
+    {
+      "from": "Wagon Fort",
+      "to": "Wagon Fort",
+      "prose_only": false
+    },
+    {
+      "from": "Wyatt Earp",
+      "to": "Wyatt Earp",
+      "prose_only": false
+    },
+    {
+      "from": "an injured",
+      "to": "a wounded",
+      "prose_only": true
+    },
+    {
+      "from": "gain punks",
+      "to": "hire drifters",
+      "prose_only": true
+    },
+    {
+      "from": "protecting",
+      "to": "covering",
+      "prose_only": true
+    },
+    {
+      "from": "protection",
+      "to": "cover",
+      "prose_only": true
+    },
+    {
+      "from": "ARMY FORT",
+      "to": "ARMY FORT",
+      "prose_only": false
+    },
+    {
+      "from": "Army Fort",
+      "to": "Army Fort",
+      "prose_only": false
+    },
+    {
+      "from": "BARTENDER",
+      "to": "BARTENDER / PIANO PLAYER",
+      "prose_only": false
+    },
+    {
+      "from": "BOOT HILL",
+      "to": "BOOT HILL",
+      "prose_only": false
+    },
+    {
+      "from": "BUNKHOUSE",
+      "to": "BUNKHOUSE",
+      "prose_only": false
+    },
+    {
+      "from": "Bartender",
+      "to": "Bartender / Piano Player",
+      "prose_only": false
+    },
+    {
+      "from": "Boot Hill",
+      "to": "Boot Hill",
+      "prose_only": false
+    },
+    {
+      "from": "Bunkhouse",
+      "to": "Bunkhouse",
+      "prose_only": false
+    },
+    {
+      "from": "CANNONADE",
+      "to": "CANNONADE",
+      "prose_only": false
+    },
+    {
+      "from": "CARPENTER",
+      "to": "CARPENTER",
+      "prose_only": false
+    },
+    {
+      "from": "COAL YARD",
+      "to": "COAL YARD",
+      "prose_only": false
+    },
+    {
+      "from": "Cannonade",
+      "to": "Cannonade",
+      "prose_only": false
+    },
+    {
+      "from": "Carpenter",
+      "to": "Carpenter",
+      "prose_only": false
+    },
+    {
+      "from": "Coal Yard",
+      "to": "Coal Yard",
+      "prose_only": false
+    },
+    {
+      "from": "GOLD RUSH",
+      "to": "GOLD RUSH",
+      "prose_only": false
+    },
+    {
+      "from": "Gold Rush",
+      "to": "Gold Rush",
+      "prose_only": false
+    },
+    {
+      "from": "HIP FLASK",
+      "to": "HIP FLASK",
+      "prose_only": false
+    },
+    {
+      "from": "Hip Flask",
+      "to": "Hip Flask",
+      "prose_only": false
+    },
+    {
+      "from": "JAILHOUSE",
+      "to": "JAILHOUSE",
+      "prose_only": false
+    },
+    {
+      "from": "Jailhouse",
+      "to": "Jailhouse",
+      "prose_only": false
+    },
+    {
+      "from": "PAWN SHOP",
+      "to": "PAWN SHOP",
+      "prose_only": false
+    },
+    {
+      "from": "PROTECTED",
+      "to": "COVERED",
+      "prose_only": false
+    },
+    {
+      "from": "Pawn Shop",
+      "to": "Pawn Shop",
+      "prose_only": false
+    },
+    {
+      "from": "Protected",
+      "to": "Covered",
+      "prose_only": false
+    },
+    {
+      "from": "REGULATOR",
+      "to": "REGULATOR / BILLY THE KID",
+      "prose_only": false
+    },
+    {
+      "from": "RIVERBOAT",
+      "to": "RIVERBOAT",
+      "prose_only": false
+    },
+    {
+      "from": "Regulator",
+      "to": "Regulator / Billy the Kid",
+      "prose_only": false
+    },
+    {
+      "from": "Riverboat",
+      "to": "Riverboat",
+      "prose_only": false
+    },
+    {
+      "from": "VIGILANTE",
+      "to": "VIGILANTE",
+      "prose_only": false
+    },
+    {
+      "from": "Vigilante",
+      "to": "Vigilante",
+      "prose_only": false
+    },
+    {
+      "from": "WASTELAND",
+      "to": "TERRITORY",
+      "prose_only": false
+    },
+    {
+      "from": "Wasteland",
+      "to": "Territory",
+      "prose_only": false
+    },
+    {
+      "from": "protected",
+      "to": "covered",
+      "prose_only": true
+    },
+    {
+      "from": "wasteland",
+      "to": "territory",
+      "prose_only": true
+    },
+    {
+      "from": "AN EVENT",
+      "to": "A TROUBLE",
+      "prose_only": false
+    },
+    {
+      "from": "An event",
+      "to": "A Trouble",
+      "prose_only": false
+    },
+    {
+      "from": "BORDELLO",
+      "to": "BORDELLO",
+      "prose_only": false
+    },
+    {
+      "from": "Bordello",
+      "to": "Bordello",
+      "prose_only": false
+    },
+    {
+      "from": "GUNSMITH",
+      "to": "GUNSMITH",
+      "prose_only": false
+    },
+    {
+      "from": "Gunsmith",
+      "to": "Gunsmith",
+      "prose_only": false
+    },
+    {
+      "from": "PERSON'S",
+      "to": "CREW MEMBER'S",
+      "prose_only": false
+    },
+    {
+      "from": "PROTECTS",
+      "to": "COVERS",
+      "prose_only": false
+    },
+    {
+      "from": "Person's",
+      "to": "Crew member's",
+      "prose_only": false
+    },
+    {
+      "from": "Protects",
+      "to": "Covers",
+      "prose_only": false
+    },
+    {
+      "from": "RESTORED",
+      "to": "PATCHED UP",
+      "prose_only": false
+    },
+    {
+      "from": "RESTORES",
+      "to": "PATCHES UP",
+      "prose_only": false
+    },
+    {
+      "from": "Restored",
+      "to": "Patched up",
+      "prose_only": false
+    },
+    {
+      "from": "Restores",
+      "to": "Patches up",
+      "prose_only": false
+    },
+    {
+      "from": "STAMPEDE",
+      "to": "STAMPEDE",
+      "prose_only": false
+    },
+    {
+      "from": "Stampede",
+      "to": "Stampede",
+      "prose_only": false
+    },
+    {
+      "from": "TOM HORN",
+      "to": "TOM HORN",
+      "prose_only": false
+    },
+    {
+      "from": "Tom Horn",
+      "to": "Tom Horn",
+      "prose_only": false
+    },
+    {
+      "from": "an event",
+      "to": "a Trouble",
+      "prose_only": true
+    },
+    {
+      "from": "person's",
+      "to": "crew member's",
+      "prose_only": true
+    },
+    {
+      "from": "protects",
+      "to": "covers",
+      "prose_only": true
+    },
+    {
+      "from": "restored",
+      "to": "patched up",
+      "prose_only": true
+    },
+    {
+      "from": "restores",
+      "to": "patches up",
+      "prose_only": true
+    },
+    {
+      "from": "ASSAYER",
+      "to": "ASSAYER",
+      "prose_only": false
+    },
+    {
+      "from": "Assayer",
+      "to": "Assayer",
+      "prose_only": false
+    },
+    {
+      "from": "CHOLERA",
+      "to": "CHOLERA",
+      "prose_only": false
+    },
+    {
+      "from": "CON MAN",
+      "to": "CON MAN / BASS REEVES",
+      "prose_only": false
+    },
+    {
+      "from": "Cholera",
+      "to": "Cholera",
+      "prose_only": false
+    },
+    {
+      "from": "Con Man",
+      "to": "Con Man / Bass Reeves",
+      "prose_only": false
+    },
+    {
+      "from": "DAMAGES",
+      "to": "HITS",
+      "prose_only": false
+    },
+    {
+      "from": "DRIFTER",
+      "to": "DRIFTER",
+      "prose_only": false
+    },
+    {
+      "from": "DUELIST",
+      "to": "DUELIST / WILD BILL HICKOK",
+      "prose_only": false
+    },
+    {
+      "from": "Damages",
+      "to": "Hits",
+      "prose_only": false
+    },
+    {
+      "from": "Drifter",
+      "to": "Drifter",
+      "prose_only": false
+    },
+    {
+      "from": "Duelist",
+      "to": "Duelist / Wild Bill Hickok",
+      "prose_only": false
+    },
+    {
+      "from": "GALLOWS",
+      "to": "GALLOWS",
+      "prose_only": false
+    },
+    {
+      "from": "Gallows",
+      "to": "Gallows",
+      "prose_only": false
+    },
+    {
+      "from": "INJURED",
+      "to": "WOUNDED",
+      "prose_only": false
+    },
+    {
+      "from": "INJURES",
+      "to": "WOUNDS",
+      "prose_only": false
+    },
+    {
+      "from": "Injured",
+      "to": "Wounded",
+      "prose_only": false
+    },
+    {
+      "from": "Injures",
+      "to": "Wounds",
+      "prose_only": false
+    },
+    {
+      "from": "PERSONS",
+      "to": "CREW MEMBERS",
+      "prose_only": false
+    },
+    {
+      "from": "PROTECT",
+      "to": "COVER",
+      "prose_only": false
+    },
+    {
+      "from": "Persons",
+      "to": "Crew members",
+      "prose_only": false
+    },
+    {
+      "from": "Protect",
+      "to": "Cover",
+      "prose_only": false
+    },
+    {
+      "from": "RESTORE",
+      "to": "PATCH UP",
+      "prose_only": false
+    },
+    {
+      "from": "RUSTLER",
+      "to": "RUSTLER / DROVER",
+      "prose_only": false
+    },
+    {
+      "from": "Restore",
+      "to": "Patch up",
+      "prose_only": false
+    },
+    {
+      "from": "Rustler",
+      "to": "Rustler / Drover",
+      "prose_only": false
+    },
+    {
+      "from": "damages",
+      "to": "hits",
+      "prose_only": true
+    },
+    {
+      "from": "injured",
+      "to": "wounded",
+      "prose_only": true
+    },
+    {
+      "from": "injures",
+      "to": "wounds",
+      "prose_only": true
+    },
+    {
+      "from": "persons",
+      "to": "crew members",
+      "prose_only": true
+    },
+    {
+      "from": "protect",
+      "to": "cover",
+      "prose_only": true
+    },
+    {
+      "from": "restore",
+      "to": "patch up",
+      "prose_only": true
+    },
+    {
+      "from": "AMBUSH",
+      "to": "AMBUSH",
+      "prose_only": false
+    },
+    {
+      "from": "Ambush",
+      "to": "Ambush",
+      "prose_only": false
+    },
+    {
+      "from": "CURFEW",
+      "to": "CURFEW",
+      "prose_only": false
+    },
+    {
+      "from": "Curfew",
+      "to": "Curfew",
+      "prose_only": false
+    },
+    {
+      "from": "DAMAGE",
+      "to": "HIT",
+      "prose_only": false
+    },
+    {
+      "from": "DROVER",
+      "to": "DROVER",
+      "prose_only": false
+    },
+    {
+      "from": "Damage",
+      "to": "Hit",
+      "prose_only": false
+    },
+    {
+      "from": "Drover",
+      "to": "Drover",
+      "prose_only": false
+    },
+    {
+      "from": "EVENTS",
+      "to": "TROUBLE",
+      "prose_only": false
+    },
+    {
+      "from": "Events",
+      "to": "Trouble",
+      "prose_only": false
+    },
+    {
+      "from": "INJURE",
+      "to": "WOUND",
+      "prose_only": false
+    },
+    {
+      "from": "Injure",
+      "to": "Wound",
+      "prose_only": false
+    },
+    {
+      "from": "JUNKED",
+      "to": "HOCKED",
+      "prose_only": false
+    },
+    {
+      "from": "Junked",
+      "to": "Hocked",
+      "prose_only": false
+    },
+    {
+      "from": "PEOPLE",
+      "to": "CREW",
+      "prose_only": false
+    },
+    {
+      "from": "PERSON",
+      "to": "CREW MEMBER",
+      "prose_only": false
+    },
+    {
+      "from": "People",
+      "to": "Crew",
+      "prose_only": false
+    },
+    {
+      "from": "Person",
+      "to": "Crew member",
+      "prose_only": false
+    },
+    {
+      "from": "RUINED",
+      "to": "BURNED-OUT",
+      "prose_only": false
+    },
+    {
+      "from": "Ruined",
+      "to": "Burned-out",
+      "prose_only": false
+    },
+    {
+      "from": "SALOON",
+      "to": "SALOON",
+      "prose_only": false
+    },
+    {
+      "from": "Saloon",
+      "to": "Saloon",
+      "prose_only": false
+    },
+    {
+      "from": "damage",
+      "to": "hit",
+      "prose_only": true
+    },
+    {
+      "from": "events",
+      "to": "Trouble",
+      "prose_only": true
+    },
+    {
+      "from": "injure",
+      "to": "wound",
+      "prose_only": true
+    },
+    {
+      "from": "junked",
+      "to": "hocked",
+      "prose_only": true
+    },
+    {
+      "from": "people",
+      "to": "crew",
+      "prose_only": true
+    },
+    {
+      "from": "person",
+      "to": "crew member",
+      "prose_only": true
+    },
+    {
+      "from": "ruined",
+      "to": "burned-out",
+      "prose_only": true
+    },
+    {
+      "from": "CAMPS",
+      "to": "HOLDINGS",
+      "prose_only": false
+    },
+    {
+      "from": "CREWS",
+      "to": "OUTFITS",
+      "prose_only": false
+    },
+    {
+      "from": "Camps",
+      "to": "Holdings",
+      "prose_only": false
+    },
+    {
+      "from": "Crews",
+      "to": "Outfits",
+      "prose_only": false
+    },
+    {
+      "from": "EVENT",
+      "to": "TROUBLE",
+      "prose_only": false
+    },
+    {
+      "from": "Event",
+      "to": "Trouble",
+      "prose_only": false
+    },
+    {
+      "from": "JUNKS",
+      "to": "HOCKS",
+      "prose_only": false
+    },
+    {
+      "from": "Junks",
+      "to": "Hocks",
+      "prose_only": false
+    },
+    {
+      "from": "KARLI",
+      "to": "QUANAH",
+      "prose_only": false
+    },
+    {
+      "from": "Karli",
+      "to": "Quanah",
+      "prose_only": false
+    },
+    {
+      "from": "LOZEN",
+      "to": "LOZEN",
+      "prose_only": false
+    },
+    {
+      "from": "Lozen",
+      "to": "Lozen",
+      "prose_only": false
+    },
+    {
+      "from": "PUNKS",
+      "to": "DRIFTERS",
+      "prose_only": false
+    },
+    {
+      "from": "Punks",
+      "to": "Drifters",
+      "prose_only": false
+    },
+    {
+      "from": "RAIDS",
+      "to": "SPOOKS THE HERD",
+      "prose_only": false
+    },
+    {
+      "from": "RUINS",
+      "to": "BURNED-OUT HOLDINGS",
+      "prose_only": false
+    },
+    {
+      "from": "Raids",
+      "to": "Spooks the herd",
+      "prose_only": false
+    },
+    {
+      "from": "Ruins",
+      "to": "Burned-out holdings",
+      "prose_only": false
+    },
+    {
+      "from": "WATER",
+      "to": "WHISKEY",
+      "prose_only": false
+    },
+    {
+      "from": "Water",
+      "to": "Whiskey",
+      "prose_only": false
+    },
+    {
+      "from": "camps",
+      "to": "holdings",
+      "prose_only": true
+    },
+    {
+      "from": "crews",
+      "to": "outfits",
+      "prose_only": true
+    },
+    {
+      "from": "event",
+      "to": "Trouble",
+      "prose_only": true
+    },
+    {
+      "from": "junks",
+      "to": "hocks",
+      "prose_only": true
+    },
+    {
+      "from": "punks",
+      "to": "drifters",
+      "prose_only": true
+    },
+    {
+      "from": "raids",
+      "to": "spooks the herd",
+      "prose_only": true
+    },
+    {
+      "from": "ruins",
+      "to": "burned-out holdings",
+      "prose_only": true
+    },
+    {
+      "from": "water",
+      "to": "whiskey",
+      "prose_only": true
+    },
+    {
+      "from": "CAMP",
+      "to": "HOLDING",
+      "prose_only": false
+    },
+    {
+      "from": "Camp",
+      "to": "Holding",
+      "prose_only": false
+    },
+    {
+      "from": "JUNK",
+      "to": "HOCK",
+      "prose_only": false
+    },
+    {
+      "from": "Junk",
+      "to": "Hock",
+      "prose_only": false
+    },
+    {
+      "from": "PUNK",
+      "to": "DRIFTER",
+      "prose_only": false
+    },
+    {
+      "from": "Punk",
+      "to": "Drifter",
+      "prose_only": false
+    },
+    {
+      "from": "RAID",
+      "to": "SPOOK THE HERD",
+      "prose_only": false
+    },
+    {
+      "from": "RUIN",
+      "to": "BURNED OUT",
+      "prose_only": false
+    },
+    {
+      "from": "Raid",
+      "to": "Spook the herd",
+      "prose_only": false
+    },
+    {
+      "from": "Ruin",
+      "to": "Burned out",
+      "prose_only": false
+    },
+    {
+      "from": "SILO",
+      "to": "FLASK",
+      "prose_only": false
+    },
+    {
+      "from": "Silo",
+      "to": "Flask",
+      "prose_only": false
+    },
+    {
+      "from": "camp",
+      "to": "holding",
+      "prose_only": true
+    },
+    {
+      "from": "junk",
+      "to": "hock",
+      "prose_only": true
+    },
+    {
+      "from": "punk",
+      "to": "drifter",
+      "prose_only": true
+    },
+    {
+      "from": "raid",
+      "to": "spook the herd",
+      "prose_only": true
+    },
+    {
+      "from": "ruin",
+      "to": "burned out",
+      "prose_only": true
+    },
+    {
+      "from": "silo",
+      "to": "flask",
+      "prose_only": true
+    }
+  ]
+}

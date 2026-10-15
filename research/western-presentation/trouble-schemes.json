@@ -1,0 +1,137 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Five static nonfunctional Trouble miniatures and symbolic resolution cues. No people, no internal weapon mechanisms, no changes to canonical actions.",
+  "colour_direction": "Full natural-strength colour in clear warm light: olive carriage paint, warm bronze and copper, rich brown wood, charcoal steel, bright amber flame, grey metal pan and small gold flecks. No archival sepia grading.",
+  "assets": [
+    {
+      "card_id": "cannonade",
+      "name": "SM_Trouble_Cannonade",
+      "title": "Cannonade",
+      "date_place": "1868, Fort Larned, Kansas; reconstructed M1841 mountain howitzer on a prairie-type carriage",
+      "render_brief": "A short warm bronze howitzer tube with muzzle rim and rear knob sits on an olive-painted wooden two-wheel prairie carriage. Twelve wooden spokes per wheel, black iron tires and fittings, central axle, two carriage cheeks and a long rear trail. Simple bare-earth and grass miniature base. No fortress, crew, limber, ammunition, modern exhibit anchors or readable markings. Exterior display geometry only: a shallow dark muzzle recess, no working bore, lock or firing mechanism. Reconstruct proportions from the NPS display photo rather than claiming a measured replica.",
+      "history": "Fort Larned listed four howitzers in 1868.\nTheir short bronze tubes rode light carriages.\nThis model reconstructs a prairie-carriage type.",
+      "sources": [
+        {
+          "title": "NPS — The 1841 Mountain Howitzer",
+          "url": "https://www.nps.gov/articles/000/the-1841-mountain-howitzer.htm",
+          "claim": "Bronze tube, prairie-carriage development, and four howitzers at Fort Larned in 1868. Actual reproduction photograph viewed: olive woodwork, black hardware, two twelve-spoked wheels and trail. No claim that the modern replica is untouched historic fabric."
+        },
+        {
+          "title": "American Civil War Museum — Army Fort restoration in Appomattox",
+          "url": "https://acwm.org/blog/cannon-restoration-in-apx/",
+          "claim": "Museum restoration following 1861 regulations distinguishes olive wooden carriage parts and black iron fittings; exact olive hue varied."
+        }
+      ],
+      "uncertainties": [
+        "Simplified prairie-carriage silhouette, wheel count and exterior fittings follow a modern NPS reconstruction. Exact shade and proportions are not measured.",
+        "No historical battle, firing target or tribal identity is represented."
+      ],
+      "resolution_brief": "A brief local warm muzzle flash and pale smoke at the gun, no modern rocket. Canonical subsequent holding hits remain authoritative."
+    },
+    {
+      "card_id": "ambush",
+      "name": "SM_Trouble_Ambush",
+      "title": "Ambush",
+      "date_place": "1873-1890 United States; Winchester Model 1873 carbine type documented at Fort Smith",
+      "render_brief": "A single unoccupied Winchester 1873-type carbine rests across a low irregular warm-grey rock cluster. Sculpt a brown wooden shoulder stock and fore-end, dark metal receiver, slim barrel above its magazine tube, modest sights, curved lever loop and metal butt cap. Use the actual NPS carbine photograph for the exterior silhouette. No telescopic sight, pistol grip, tactical fittings, decorative engraving or invented shooter. The gun is an enlarged nonfunctional exterior prop with no internal mechanisms. Natural grass and exposed brown earth support the rock base.",
+      "history": "Winchester introduced its Model 1873 in 1873.\nRifles and shorter carbines saw frontier use.\nThis staged carbine is an ambush symbol.",
+      "sources": [
+        {
+          "title": "NPS — 1873 Winchester Rifle and Carbine",
+          "url": "https://www.nps.gov/fosm/learn/historyculture/1873-winchester-rifle-and-carbine.htm",
+          "claim": "Describes the model, rifle/carbine distinction and appearance in deputy-marshal photographs. The actual carbine photo was viewed before modeling; it shows stock, fore-end, receiver, two parallel tubes, barrel bands and lever loop."
+        }
+      ],
+      "uncertainties": [
+        "Rock, support arrangement and enlarged scale are symbolic reconstruction. No specific ambush, owner or demographic identity is asserted.",
+        "Metal colour is reconstructed from the documented dark barrel and worn receiver in the NPS photograph, not added brass decoration."
+      ],
+      "resolution_brief": "Three brief warm muzzle accents near the carbine. No missiles or vehicle; existing authoritative wound beats identify targets."
+    },
+    {
+      "card_id": "gold_rush",
+      "name": "SM_Trouble_GoldRush",
+      "title": "Gold Rush",
+      "date_place": "1880s American West, gold-pan type in the Autry Museum collection",
+      "render_brief": "A large plain grey metal gold pan tilts toward the viewer on a few small river stones. Flat circular bottom, smooth flaring side, narrow rolled-looking lip; no modern plastic riffles, handles or pouring spout. A little dark sand, several small pebbles and three modest gold-coloured flecks lie at its bottom as a readable prospecting symbol. Brown earth and natural green grass around the stones. No huge nuggets, heap of wealth, coins, person or machinery. Reconstruct usable period metal, without copying a museum object's accumulated corrosion.",
+      "history": "The Autry preserves a metal pan from the 1880s.\nPans separated heavy gold from lighter sediment.\nThis miniature represents the prospector's tool.",
+      "sources": [
+        {
+          "title": "Autry Museum — California Gold Rush primary sources, page 6",
+          "url": "https://theautry.org/sites/default/files/education/primary_source_material/sub_folder/gold_rush_primary_sources.pdf",
+          "claim": "Dates metal gold pan 85.1.737 to the 1880s. Actual page image viewed: flat round floor, outward-sloping smooth wall and narrow lip. Scale, contents and support stones are reconstructed."
+        },
+        {
+          "title": "Oakland Museum of California — Mining the Environment",
+          "url": "https://explore.museumca.org/goldrush/curriculum/4g/42200001.html",
+          "claim": "Places the pan among early California placer-mining tools, followed by larger mining systems. The model does not claim all mining remained solitary panning."
+        }
+      ],
+      "uncertainties": [
+        "The Autry record says metal, not a measured alloy. Use a natural grey metal finish without specifying a maker or exact alloy.",
+        "Gold flecks and sand illustrate function, not the contents or yield of the surviving pan."
+      ],
+      "resolution_brief": "Three small local gold glints above the pan symbolize the rush. New Drifters enter only through the existing authoritative events; no industrial delivery cart."
+    },
+    {
+      "card_id": "run_out_of_town",
+      "name": "SM_Trouble_DynamiteCrate",
+      "title": "Run Out of Town",
+      "date_place": "1880s Western mining context; external packaging corroborated by a United States record of an 1888 Michigan mine",
+      "render_brief": "A squat plain wooden explosives crate with horizontal boards, restrained corner joints, a partly offset wooden lid and a few closed cream-paper cartridges visible beneath it. A separate loose dark tarred safety-fuse coil rests on the lid as an enlarged board symbol. Do not connect fuse to cartridges or depict a working ignition assembly. No detonator, cap, timer, explosive contents, chemical markings, modern brand, red Hollywood sticks, skulls or hazard triangles. Earth and small natural grass tufts support the crate. The box and coil symbolize a threat; no historical practice of expulsion by dynamite is claimed.",
+      "history": "Dynamite spread through Western mines after 1868.\nPeriod records describe paper-covered cartridges.\nThis crate is a symbolic threat, not an incident.",
+      "sources": [
+        {
+          "title": "Idaho State Historical Society — Metal Mining in Idaho",
+          "url": "https://history.idaho.gov/wp-content/uploads/Metal_Mining_In_Idaho_MPD_100012275.pdf",
+          "claim": "Previously retained holdings evidence documents dynamite adoption after 1868 in Western hard-rock mining. Supports regional use, not box dimensions or an expulsion story."
+        },
+        {
+          "title": "Library of Congress — U.S. Reports, Mather v. Rillston, 156 U.S. 391 (1895), statement of the 1888 case",
+          "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep156/usrep156391/usrep156391.pdf",
+          "claim": "The historical case describes covered sticks packed in wooden boxes. Used only as evidence for external packaging type; no operating, chemical or handling details are copied into the asset."
+        },
+        {
+          "title": "Cornish Mining World Heritage — Explosives and the Safety Fuse",
+          "url": "https://www.cornishmining.org.uk/about/mining-in-cornwall-and-west-devon/inventions-and-technology/explosives-and-the-safety-fuse",
+          "claim": "Supports tarred fibre cord with outer twine and international nineteenth-century use; same documented material as the existing fuse line."
+        }
+      ],
+      "uncertainties": [
+        "Box proportions, board joints, paper colour and lid arrangement are restrained generic reconstruction, not a named manufacturer's shipping crate.",
+        "A loose decorative coil is a game symbol. Nothing depicts a functional explosive assembly or asserts that dynamite was a customary way to expel people."
+      ],
+      "resolution_brief": "A few amber fuse sparks remain local to the crate; no rocket launcher, launched shell or explosion is needed to announce this scheme. Canonical removal still follows its chosen public target."
+    },
+    {
+      "card_id": "curfew",
+      "name": "SM_Trouble_Curfew",
+      "title": "Curfew",
+      "date_place": "1883 small-town lighting type, documented at West Branch, Iowa",
+      "render_brief": "A plain copper lantern box on a simple post beside a short wooden boardwalk fragment. Four glazed sides expose a small kerosene reservoir and amber flame; a restrained sloping copper rain cap shelters the top. No electric bulb, wiring, gas mantle, ornate Victorian scrollwork or police emblem. Natural copper brown, dark metal fittings, clear glass and warm timber at full natural colour. The post, cap, framing and small reservoir shape are disclosed generic reconstruction; this is not an exact copy of the NPS replica. Treat the lamp as a nighttime/closing-time symbol, without asserting a specific curfew ordinance.",
+      "history": "Kerosene lamps lit West Branch streets by 1883.\nA copper lantern box stood near its church.\nThis lamp symbolizes closing time, not a law.",
+      "sources": [
+        {
+          "title": "NPS — Methodist Church Site, Herbert Hoover NHS",
+          "url": "https://www.nps.gov/places/methodist-church-site.htm",
+          "claim": "Documents an 11-foot reconstruction of a copper lantern box and post, original kerosene use and eleven town lamps by 1883. Establishes type and material, not exact fabrication or a curfew."
+        },
+        {
+          "title": "NPS — Simple Beginnings",
+          "url": "https://www.nps.gov/articles/simple-beginnings.htm",
+          "claim": "Documents 1880 wooden sidewalks in West Branch and street lighting in 1883. Supports the adjoining plank fragment as setting context."
+        },
+        {
+          "title": "Smithsonian — Kerosene Lantern, nmah_678838",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_678838",
+          "claim": "Catalog identifies a circa-1870 kerosene lantern of metal and glass. Used only to corroborate period lantern materials, not as visual proof of a streetlamp's precise shape."
+        }
+      ],
+      "uncertainties": [
+        "NPS text authenticates the copper box, post and fuel; the available 1915 church photo does not resolve the lamp. Simple framing, post material, cap and reservoir are generic reconstruction, not copied details.",
+        "Amber light is the natural flame cue. The miniature does not depict actual night conditions, a marshal, or an enacted curfew."
+      ],
+      "resolution_brief": "A small local amber light pulse at the lamp, then existing public return-to-hand departures. No green healing effect or white surrender flag."
+    }
+  ]
+}

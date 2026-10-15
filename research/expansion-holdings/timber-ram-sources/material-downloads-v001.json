@@ -1,0 +1,20 @@
+[
+  {
+    "file": "USDA-Ponderosa-Wood-1984.pdf",
+    "url": "https://research.fs.usda.gov/download/treesearch/32194.pdf",
+    "sha256": "8ad2301d88a57b258138208dc078b278fd3e32294b78d2a5c2b3e43d2ff49f92",
+    "bytes": 151526
+  },
+  {
+    "file": "USDA-Ponderosa-Silvics.html",
+    "url": "https://research.fs.usda.gov/silvics/ponderosa-pine",
+    "sha256": "3926ac19a80aa8e902f34f5dd79370f6d2649e382cbe57c2d21a09782349f8d4",
+    "bytes": 109927
+  },
+  {
+    "file": "USDA-Ponderosa-Identification.pdf",
+    "url": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr390.pdf",
+    "sha256": "3abbb7b0f08577dd4e1c120c207d23b04b678bb9f46f0c1f6673ef6f21db78c0",
+    "bytes": 2358721
+  }
+]

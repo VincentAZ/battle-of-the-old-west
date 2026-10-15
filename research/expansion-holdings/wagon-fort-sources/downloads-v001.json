@@ -1,0 +1,37 @@
+[
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/NPS-Traveling-Emigrant-Trails.html",
+    "url": "https://www.nps.gov/articles/000/traveling-emigrant-trails.htm",
+    "bytes": 44787,
+    "sha256": "db033e008250abb1993687f72e206b2dda2b39dc6378234158cbb3f03019042a",
+    "status": "downloaded"
+  },
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/NPS-Wagons-on-Trails.html",
+    "url": "https://www.nps.gov/articles/000/wagons-on-the-trails.htm",
+    "bytes": 42118,
+    "sha256": "1b4ad3e80fcc2bd46f1770c5603826cb800694a9d2364edd6e53132af7ab9af1",
+    "status": "downloaded"
+  },
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/NPS-Overland-Wagon.html",
+    "url": "https://www.nps.gov/jeff/planyourvisit/overland-wagon.htm",
+    "bytes": 37923,
+    "sha256": "ac92a567da7dce8ff40b310f350262b1b925bec1c447903c59e9e37632da7a6d",
+    "status": "downloaded"
+  },
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/BLM-Wagon-FAQ.pdf",
+    "url": "https://www.blm.gov/es/sites/default/files/learn_interp_nhotic_faqwagons.pdf",
+    "bytes": 420460,
+    "sha256": "e7d3dea445e293458cb21a6bc65d231fabab9c53dcec83b51e6ae06a014bd6d4",
+    "status": "downloaded"
+  },
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/NPS-California-Trail-Accessible-Brochure.pdf",
+    "url": "https://www.nps.gov/cali/planyourvisit/upload/CALI_LFT_ADA_Map-guide012813.pdf",
+    "bytes": 284875,
+    "sha256": "27186d22f05a0588aea925d1d2c703365a9f4eeec891a2779e8f0fc8df865558",
+    "status": "downloaded"
+  }
+]

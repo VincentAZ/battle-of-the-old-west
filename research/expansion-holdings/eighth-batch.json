@@ -1,0 +1,47 @@
+{
+  "wanted-poster-board": {
+    "subject": "Wanted Poster Board",
+    "canonical_card_id": "wanted_poster_board",
+    "identity_type": "historical_building_type",
+    "date_scope": "1881-1882, using documented 1871 American bill-posting construction as precedent",
+    "location_scope": "A reconstructed small-town American notice stand in a Western border-state setting; Missouri reward typography supplies the paper reference, not evidence of a particular surviving stand",
+    "documented_features": [
+      "The State Historical Society of Missouri holds Governor Crittenden's 1881 reward proclamation concerning Frank and Jesse James [S1].",
+      "The surviving broadside uses black display headings, horizontal rules and smaller paragraphs. The inspected sheet contains no portrait or gun border [S2].",
+      "An April 8, 1871 New York Clipper account describes carpenters supplying lumber and erecting temporary circus billboards, with advance workers pasting up bills. This supports a wooden posting surface and pasted paper, not the precise dimensions or purpose of this reconstructed stand [S3]."
+    ],
+    "documented_colors": [
+      "The inspected reward broadside has dark ink on light paper. Its present yellowing and tears are aging evidence, not an original paper-colour specification; reconstruct fresh warm-white stock with black printed marks [S2].",
+      "Lumber is documented for the posting structure [S3]. Exposed brown timber is a disclosed unpainted material reconstruction: neither wood species nor an original paint scheme is claimed. Render its natural colour at full strength and use the light paper for crisp contrast."
+    ],
+    "render_brief": "A compact unoccupied wooden notice stand for an 1881-1882 Western town, explicitly a composite reconstruction. Make one flat rectangular face of closely joined vertical brown timber boards, with two square posts extending into the ground and two plain horizontal rear rails. Its complete rear reveals ordinary timber support rather than a second display face. Paste three separate rectangular warm-white paper bills to the front, with straight cut edges, bold black heading-shaped marks, thin horizontal rules and smaller paragraph-shaped marks; Only the generic historical headings PROCLAMATION, REWARDS and STATE OF MISSOURI may be legible; smaller paragraph marks remain unreadable and name no Crew. Keep the papers distinct and attached, with only slight edge lift. Use full natural wood colour, strong black-on-white contrast and clear warm light. The exact post spacing, panel size and joinery are restrained reconstruction choices. No cork, glass cabinet, metal office frame, pushpins, portraits, skulls, crossed guns, bullet holes, decorative sheriff star, people, animals or invented criminal accusations. No roof or surrounding building. The separate Town setting base will be reviewed independently.",
+    "history_lesson": "Missouri's governor issued a reward proclamation for Frank and Jesse James in 1881. Period American bill posters also pasted printed sheets onto structures built from lumber. This small notice stand combines those documented practices as a reconstruction, not a replica of a known site.",
+    "sources": [
+      {
+        "url": "https://collections.shsmo.org/manuscripts/columbia/c2875",
+        "title": "State Historical Society of Missouri — Thomas Theodore Crittenden Proclamation, 1881 (C2875)",
+        "supports": "Catalog establishes the proclamation's date, issuer and reward-for-arrest subject; it does not document a posting board."
+      },
+      {
+        "url": "https://historicmissourians.shsmo.org/wp-content/uploads/2020/12/proclamation_lg.jpg",
+        "title": "State Historical Society of Missouri — photograph of the Crittenden reward proclamation",
+        "supports": "Actually inspected typography, paper shape, dark ink and absence of portraits. The aged paper colour is explicitly excluded as evidence for fresh 1881 stock."
+      },
+      {
+        "url": "https://classic.circushistory.org/Clipper/Clipper1870-71.htm",
+        "title": "Circus Historical Society — transcription of New York Clipper, April 8, 1871, tenting-season account",
+        "supports": "Period account of carpenter-built lumber billboards and pasted bills. Read as a historical-society transcription, not an inspected original newspaper scan; its large circus-board dimensions are not copied."
+      }
+    ],
+    "uncertainties": [
+      "No source establishes this exact small stand, its original location, dimensions, post joinery, timber species or paint. It is a disclosed composite from documented materials and practices, not a claim that Crittenden's proclamation appeared on this particular structure.",
+      "The circus source establishes a posting method, not a Western sheriff's standard notice-board design. Small scale and two-post support are reconstruction choices; do not add unsupported ornate architecture.",
+      "The historical image was inspected locally at /tmp/oldwest-crittenden-proclamation-1881.jpg, SHA256 85d503fc99356441d0aa475884cd310454a1d30aa209cf30998d74a2c84aefa8. Preserve a source copy with any rendered asset.",
+      "The static stand must not portray arbitrary Crew as wanted criminals. Public reveal may change an authorized character model; a private inspection must never alter the public poster, bandana, portrait or History identity.",
+      "This research does not submit a paid generation job, approve artwork or change frozen mechanics. Reference, mesh, setting-base and native reveal reviews remain necessary.",
+      "Local print revision uses three generic headings from the inspected broadside in a reconstructed arrangement. Liberation Serif supplies approximate letterforms, not an authenticated original typeface; no named reward subject is placed on the game stand."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Actually viewed the complete surviving 1881 broadside before writing this brief. The 1871 posting-construction evidence is textual; panel/post arrangement is explicitly reconstructed rather than claimed as visible archival evidence."
+  }
+}

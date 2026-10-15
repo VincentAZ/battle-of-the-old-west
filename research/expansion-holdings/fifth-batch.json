@@ -1,0 +1,39 @@
+{
+  "pony-express-station": {
+    "subject": "Pony Express Station",
+    "canonical_card_id": "pony_express_station",
+    "identity_type": "historical_building_type",
+    "date_scope": "1890-1899 stage-station reuse at a former Pony Express site (building form informed by the documented 1975 reconstruction)",
+    "location_scope": "Simpson Springs, western Utah",
+    "documented_features": [
+      "The BLM historical study records refurbishment of the rock station for Walters and Mulliner stage service in the 1890s [S1]. This supplies a later use within the game's period, without pretending the Pony Express remained active.",
+      "BLM says the 1975 reconstructed building drew on excavation and oral testimony [S1]. NPS cautions that the precise building used by the Express is uncertain [S2]. The model represents this reconstructed station type, not certified original fabric.",
+      "The NPS colour photograph and BLM's 1978 photo show a low rectangular single-storey rubble-stone building, two-plane pitched roof, gable-end entrance and small side opening [S1] [S2]."
+    ],
+    "documented_colors": [
+      "The NPS colour view shows mixed dark brown and grey masonry, light mortar joints, warm timber roof and frame, and natural green shrubs and gold grass nearby [S2]. These support natural material colours; they do not measure an 1890s paint scheme. Keep those colours at full natural strength without archival grading."
+    ],
+    "render_brief": "An unoccupied small rock stage station at a former Pony Express site in western Utah. Reconstruct the documented Simpson Springs station type: one low rectangular room, irregular dark brown and grey fieldstone walls with visible pale mortar joints, a modest pitched wood-shingle roof with short timber eaves, one plain dark wooden doorway in the gable end and a small rectangular side window. Show all walls and close the far gable, using restrained reconstruction for the unseen rear. Keep the roof simple and intact, with warm natural brown shingles and timber, no invented painted finish. Show the building alone so its Range base can provide natural green shrubs, grass and warm earth at full colour. No people, horses, active Express rider, company logo, lettering, interpretive marker, stone memorial, plaque, metal survey pole, modern trail furniture, modern lights, chimney, fanciful stockade or extra outbuilding. The 1975 replica informs the form; it is not an assertion of exact original openings, dimensions or original 1890s fabric.",
+    "history_lesson": "Simpson Springs served the Pony Express and later stage traffic. A BLM study records renewed stage use in the 1890s. This stone station follows a documented reconstruction, not a proven original Express building.",
+    "sources": [
+      {
+        "url": "https://npshistory.com/publications/blm/cultresser/ut/2/sec2c.htm",
+        "title": "Bureau of Land Management — The Pony Express Stations of Utah in Historical Perspective, Simpson Springs section (archived publication)",
+        "supports": "Documents 1890s refurbishment and stage use, excavation/oral-history basis of the 1975 reconstruction, and a 1978 photograph. The historical publication is hosted by NPSHistory, not the current NPS website. Exclude the pictured twentieth-century commemorative marker."
+      },
+      {
+        "url": "https://www.nps.gov/places/simpson-springs-station.htm",
+        "title": "National Park Service — Simpson Springs Pony Express Station",
+        "supports": "Confirms later Overland Stage use, identifies the current building as a 1975 BLM-directed replica, and explicitly notes uncertainty about the original Express structure. Colour photograph provides the visible reconstructed masonry, pitched roof, doorway, small side opening and natural material palette."
+      }
+    ],
+    "uncertainties": [
+      "The nineteenth-century station's exact footprint and identity remain uncertain. Do not label the miniature a measured restoration of an identified original Express building.",
+      "The 1890s use is documented; the model's visible architecture follows a later evidence-based reconstruction. Exact original door/window placement, shingles, rear wall, dimensions and material hues remain reconstruction.",
+      "The sources differ on early development dates and station numbering; neither disputed number nor early founding date is asserted in the brief.",
+      "No historical claim links a station to the game's return-to-hand restriction. The name is presentation only; canonical Pony Express Station mechanics remain frozen."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Actually viewed NPS colour photograph /tmp/oldwest-simpson-springs-nps.jpg and BLM Photo 23 /tmp/oldwest-simpson-springs-blm.jpg before briefing. The large adjacent stone pillar is a modern memorial and must be omitted."
+  }
+}

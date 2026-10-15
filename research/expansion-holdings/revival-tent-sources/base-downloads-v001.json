@@ -1,0 +1,20 @@
+[
+  {
+    "file": "NPS-California-grasses.html",
+    "url": "https://www.nps.gov/goga/learn/nature/grasses.htm",
+    "sha256": "68e4ac3629b3e4bd9365eab0d04a330dfc5f3515944bb0d9d51e693bc8788821",
+    "bytes": 37515
+  },
+  {
+    "file": "CA-Austin-Creek-plants.html",
+    "url": "https://www.parks.ca.gov/?page_id=22561",
+    "sha256": "009d04928a48655451d679cbbd8c8e7624665cd27ee96ab79d638d4eccb366dc",
+    "bytes": 52279
+  },
+  {
+    "file": "USDA-Yolo-soil.html",
+    "url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/Y/YOLO.html",
+    "sha256": "de5ee856ddd06981f87cd85f684c303473f6ec7bd6e8f159fc715cae59f5f835",
+    "bytes": 8219
+  }
+]

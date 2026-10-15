@@ -1,0 +1,27 @@
+{
+  "retrieved_at": "2026-10-09T17:44:01.664472+00:00",
+  "records": [
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-SCM072.html",
+      "url": "https://history.santacruzpl.org/omeka/items/show/10189",
+      "final_url": "https://history.santacruzpl.org/omeka/items/show/10189",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 12600,
+      "sha256": "2709e12e2b44fe20e0b0ee457c3be07ea0c41c989dfc9e159177b0f91cb4e390"
+    },
+    {
+      "url": "https://content.santacruzmah.org/cdn-cgi/image/w=288,h=162,q=80,f=auto,dpr=1.5,g=0.5x0.5,fit=cover/uploads/PowderWorks.jpg",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/NPS-Hercules-Village.pdf",
+      "url": "https://npgallery.nps.gov/GetAsset/76872f52-29ef-4b2a-9fb4-48beed1c2d85",
+      "final_url": "https://npgallery.nps.gov/GetAsset/76872f52-29ef-4b2a-9fb4-48beed1c2d85",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 785654,
+      "sha256": "b27037f845dbade9f53f875424523d170fc8853e66e4b9d0b2b811ef7fc4b54e"
+    }
+  ]
+}

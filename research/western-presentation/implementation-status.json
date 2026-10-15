@@ -1,0 +1,182 @@
+{
+  "updated": "2026-10-10T01:10:46+00:00",
+  "overall": "first_playable_pass_complete",
+  "user_owned": [
+    "1: Base-34 holding appearance approval",
+    "6: Final approval and tribal review"
+  ],
+  "assistant_owned": {
+    "2_expansion_holdings": {
+      "status": "first_playable_pass_complete",
+      "required_holdings": 32,
+      "sourced_briefs": 32,
+      "agent_reviewed_static_candidates": 32,
+      "agent_reviewed_setting_bases": 32,
+      "development_imported_holdings": 32,
+      "evidence": "art/western/holdings/expansion-review-v001/roster-status.json",
+      "roster_sha256": "b517fab3617b8c115b65b75419b6162a3f1320be40242476647f1b38a80e8295",
+      "development_import_records": {
+        "gunsmith": "art/western/holdings/expansion-game-v001/gunsmith/unreal-import.json",
+        "jailhouse": "art/western/holdings/expansion-game-v001/jailhouse/unreal-import.json",
+        "robbers-roost": "art/western/holdings/expansion-game-v001/robbers-roost/unreal-import.json",
+        "smugglers-landing": "art/western/holdings/expansion-game-v001/smugglers-landing/import-v001/unreal-import.json",
+        "rockslide-ridge": "art/western/holdings/expansion-game-v001/rockslide-ridge/unreal-import.json",
+        "bounty-office": "art/western/holdings/expansion-game-v001/bounty-office/import-v001/unreal-import.json",
+        "courthouse": "art/western/holdings/expansion-game-v001/courthouse/unreal-import.json",
+        "post-office": "art/western/holdings/expansion-game-v001/post-office/unreal-import.json",
+        "army-surgeons-tent": "art/western/holdings/expansion-game-v001/army-surgeons-tent/import-v001/unreal-import.json",
+        "free-homestead": "art/western/holdings/expansion-game-v001/free-homestead/unreal-import.json",
+        "gallows": "art/western/holdings/expansion-game-v001/gallows/unreal-import.json",
+        "wanted-poster-board": "art/western/holdings/expansion-game-v001/unreal-import.json",
+        "chuckwagon": "art/western/holdings/expansion-game-v001/chuckwagon/unreal-import.json",
+        "pony-express-station": "art/western/holdings/expansion-game-v001/pony-express-station/unreal-import.json",
+        "lookout-ridge": "art/western/holdings/expansion-game-v001/lookout-ridge/unreal-import.json"
+      },
+      "static_only_native_pending": [],
+      "unmodeled_holdings": [],
+      "remaining": [
+        "Optional cosmetic refinement and broader regression, listed in follow-up polish."
+      ],
+      "integration_export_block": "resolved_by_20261009_user_instruction_and_successful_exports",
+      "final_user_approval": false,
+      "historical_summary_replaced": "research/western-presentation/status-history/implementation-status-47708a5d4116248a5cfdcc13dec3ea79494d1b81b6ad90e2ff0dc746ff0be7aa.json",
+      "setting_and_ruin_pending": [],
+      "agent_reviewed_ruins": 21,
+      "integration_export_block_resolved": "Coal Yard export succeeded after October 9 user instruction to proceed.",
+      "native_authored_ruin_meshes": 31,
+      "packaged_portraits": "tests/runs/western-completion-20261009/portraits-v2/result.json",
+      "follow_up_polish": "research/western-presentation/follow-up-polish-20261009.json"
+    },
+    "3_fuse_and_trouble": {
+      "status": "first_playable_pass_complete",
+      "fuse_evidence": "art/western/trouble/fuse-v001/runtime-v004/1280x720/result.json",
+      "trouble_types_with_models_and_history": 10,
+      "native_prop_evidence": [
+        "art/western/trouble/landscapes-v002/runtime-v005/result.json",
+        "art/western/trouble/objects-v002/runtime-v004/result.json",
+        "art/western/trouble/schemes-v003/runtime-town-v002/result.json",
+        "art/western/trouble/schemes-v003/runtime-combat-v009/visual-review.json"
+      ],
+      "limits": "Current development build clears scenery rocks from both Trouble/fuse routes and restores all 269 on leave. Prairie Fire fuse movement passes Skip/reconnect in all three regions. All ten Trouble active resolution effects now pass Skip and guest reconnect in pine: 20 interruptions, both full peer snapshots unchanged, public damage synchronized and hidden Crew kept generic in the tested cases. Background holding texture recovery after reconnect remains open. Host rendering, other interruption timings/targets/regions, crowded queues, full wounded-pose fit, audio and packaged regression remain.",
+      "terrain_and_interruption_evidence": "art/western/trouble/fuse-v001/terrain-fit-v001/review.json",
+      "route_clearance_evidence": "art/western/trouble/route-clearance-v001/review.json",
+      "resolution_interruption_evidence": "art/western/trouble/resolution-interruptions-v001/review.json",
+      "follow_up_polish": "research/western-presentation/follow-up-polish-20261009.json",
+      "packaged_evidence": "tests/runs/western-completion-20261009/trouble-final/result.json",
+      "portrait_evidence": "tests/runs/western-completion-20261009/portraits-final/result.json"
+    },
+    "4_regional_battlefields": {
+      "status": "all_three_appearances_user_approved",
+      "evidence": "art/western/regions/runtime-v004/result.json",
+      "trouble_route_clearance_evidence": "art/western/trouble/route-clearance-v001/review.json",
+      "packaged_evidence": "tests/runs/western-completion-20261009/regions/result.json",
+      "follow_up_polish": "research/western-presentation/follow-up-polish-20261009.json",
+      "approved_appearances": {
+        "pine": "User: these are approved",
+        "river": "User: these are approved",
+        "desert": "User October 9, 2026: apprved . commit"
+      },
+      "desert_approval": "research/western-presentation/desert-approval-20261009.json"
+    },
+    "5_remaining_presentation": {
+      "status": "first_playable_pass_complete",
+      "completed_this_batch": "Wanted Poster Board imported separately from gated base holdings; native healthy/damaged/burned-out/repaired portrait review passes after collapse and consumed-paper corrections. Full 47-appearance native bandage audit completed with 145/517 intersecting samples. Five revised accessories retested: 20/55 samples still intersect, reduced from 41 for the same five; Piano Player clears all 11 sampled poses. A second Doc/Quanah fit attempt failed native clearance (7/22 versus prior 2/22); previous accessory bytes were restored and all rejected evidence preserved.",
+      "bonus_whiskey_evidence": "art/western/whiskey/bonus-v002/runtime-v004/visual-review.json",
+      "bonus_whiskey_limits": "Incremental development acceptance; Native-source, multiple-bonus, skip/reconnect and all-region regression still pending, along with packaging.",
+      "delivery_research": [
+        "research/western-presentation/delivery-wagon.json",
+        "research/western-presentation/delivery-oxen.json"
+      ],
+      "delivery_assets": {
+        "status": "development_delivery_and_history_review_passed_broader_regression_pending",
+        "wagon": "art/western/delivery/wagon-v004/unreal-import.json",
+        "oxen": "art/western/delivery/oxen-v002/unreal-import.json",
+        "source_review": "art/western/delivery/README.md",
+        "native_review": "art/western/delivery/runtime-v002/visual-review.json",
+        "validated": "Four-ox wagon with optional sourced History. Both-direction travel, cargo floor support, distance-driven gait/wheels, 1/2/3/4 public cargo counts and fully blended arrivals passed native replays. Medical crates to Quanah and Doc Holliday contain no whiskey. Ordinary moving-refill Skip/reconnect removes every tagged part/root, preserves both full peer snapshots and returns to fully rendered tactical views. Source hitch cleared 36 Walk and 90 Idle sampled poses; sampled native interior stance drift is below 0.005 cm.",
+        "remaining": "Other Native-source/target cases, hospital transport, 5/6-item capacity/reachability, continuous native transition/hitch clearance, comprehensive all-region/layout coverage, broader privacy/lifecycle regression, intermittent enter-camera investigation and packaging.",
+        "native_review_limit": "The two-peer gameplay replays completed cleanly. Earlier isolated graphical-editor asset captures retain their separately documented teardown-139 failure; no root cause claim is made.",
+        "hitch": "art/western/delivery/hitch-v005/unreal-import.json",
+        "source_team_review": "art/western/delivery/hitch-v005/visual-review.json",
+        "medical_review": "art/western/delivery/runtime-medical-v003/visual-review.json",
+        "cargo_review": "art/western/delivery/runtime-cargo-v001/visual-review.json",
+        "interruption_review": "art/western/delivery/runtime-interruptions-v003/visual-review.json",
+        "stance_review": "art/western/delivery/runtime-v002/stance-review.json",
+        "open_camera_issue": {
+          "evidence": "art/western/delivery/runtime-interruptions-v002/visual-review.json",
+          "description": "One report-time camera obstruction on Getaway Rider enter sequence 15. Not reproduced in v003; final-camera-tick telemetry added without altering camera behavior. Root cause remains unproven."
+        }
+      },
+      "remaining": [
+        "Follow-up cosmetic fit, camera/texture polish, bespoke effects/audio and broader regression; see follow-up polish record."
+      ],
+      "wounded_bandage": {
+        "status": "full_roster_capture_complete_fit_corrections_in_progress",
+        "research": "research/western-presentation/wounded-bandage.json",
+        "manifest": "art/western/bandages/current-manifest.json",
+        "source_review": "art/western/bandages/source-visual-review.json",
+        "import": "art/western/bandages/review-v008/unreal-import-992595b6ea52.json",
+        "native_review": "art/western/bandages/runtime-v001/visual-review.json",
+        "remaining": [
+          "Correct remaining native intersections; inspect additional views where body/equipment occludes the dressing; rerun sampled and transition coverage",
+          "Native optional History popup, hidden/revealed/concealed and destroyed lifecycle",
+          "Skip/reconnect, all-region regression and final package"
+        ],
+        "native_pose_pilot": "art/western/bandages/native-poses-pilot-v003/review.json",
+        "native_roster_capture": "art/western/bandages/native-poses-v001/result.json",
+        "source_candidates": "art/western/bandages/review-v007/source-visual-review.json",
+        "additional_source_candidates": "art/western/bandages/review-v008/source-visual-review.json",
+        "native_roster_review": "art/western/bandages/native-poses-v001/review.json",
+        "native_correction_review": "art/western/bandages/native-poses-corrections-v001/review.json",
+        "shutdown_issue": "All three complete editor pose captures ended with teardown exit 139; clean capture-process shutdown remains unresolved.",
+        "latest_rejected_candidates": "art/western/bandages/native-poses-corrections-v002/review.json",
+        "accessory_restore": "art/western/bandages/review-v009/rollback.json"
+      },
+      "wanted_board_reveal": {
+        "status": "public_cloth_drop_and_basic_lifecycle_development_review_passed",
+        "native_review": "art/western/drifter/reveal-bandana-v001/review.json",
+        "research": "research/western-presentation/drifter-reveal-bandana.json",
+        "source_diagnostics": "art/western/drifter/reveal-bandana-v001/components-front.json",
+        "remaining": "Other revealed identities, opposite board-owner orientation, crowded layouts, full phase coverage per region and final packaged regression.",
+        "asset_import": "art/western/drifter/reveal-bandana-v001/prop-v002/unreal-import.json",
+        "validated": "Generic private inspection and History, owner/opponent public Blacksmith reveal, natural cloth landing and cleanup, ordinary Skip and rendered-guest reconnect; both full peer snapshots unchanged by interruptions."
+      },
+      "reconnect_texture_recovery": {
+        "status": "transient_streaming_recovery_measured_initial_pop_in_remains",
+        "evidence": "art/western/trouble/resolution-interruptions-v001/objects-texture-recovery-v001/visual-review.json",
+        "description": "Two native reconnect timelines reproduce immediate 7/12 holding texture mips and visible patchiness. Surfaces are clear by the first later capture (~1.3 seconds), then stay at 8\u20139/12 through ten seconds at the distant tactical camera. Both peer states remain unchanged. Initial pop-in and packaged readiness still need review; no rendering fix claimed."
+      },
+      "completion_pass": "Delivery, bandages, reveal, whiskey and warm cosmetic effects included in verified playable package. Detailed fit, audio and camera refinements deferred by user.",
+      "follow_up_polish": "research/western-presentation/follow-up-polish-20261009.json"
+    }
+  },
+  "preservation": {
+    "mechanics_baseline": "art/western/holdings/expansion-review-v001/mechanics-baseline.json",
+    "canonical_files_unchanged": 9,
+    "protected_asset_files_unchanged": 13666,
+    "selected_package": "linux-development-desert-scenery-20261009-v3",
+    "launcher_changed": true,
+    "previous_selected_package": "linux-development-whiskey-props-20261007"
+  },
+  "latest_goal_turn": {
+    "classification": "first_playable_completion",
+    "evidence": [
+      "tests/runs/western-completion-20261009/portraits-v2/result.json",
+      "tests/runs/western-completion-20261009/portraits-final/result.json",
+      "tests/runs/western-completion-20261009/regions/result.json",
+      "game/tests/runs/oldwest-native-match-f7b84jfq/result.json",
+      "tests/runs/western-completion-20261009/trouble-final/result.json"
+    ],
+    "next": "Play and iterate; user retains items 1 and 6."
+  },
+  "completion_direction": "Finish usable playable build; improve and tweak later (user October 9).",
+  "package_candidate": {
+    "path": "dist/linux-development-desert-scenery-20261009-v3/archive",
+    "build_passed": true,
+    "runtime_verification": "passed_first_playable_scope_and_all_three_regional_checks",
+    "promoted": true
+  },
+  "packaged_multiplayer": "game/tests/runs/oldwest-native-match-ojuol0qz/result.json",
+  "follow_up_polish": "research/western-presentation/follow-up-polish-20261009.json",
+  "completion_report": "research/western-presentation/completion-delivery-20261009.json"
+}

@@ -1,0 +1,33 @@
+{
+  "status": "research_in_progress_not_render_authorization",
+  "canonical_card_id": "timber_ram",
+  "display_name": "Timber Ram",
+  "reviewed_lead": {
+    "title": "Hubert Howe Bancroft, History of Utah, 1540\u20131886, chapter on 1869\u20131877, footnote 31 (p. 666)",
+    "transcription_url": "https://www.universalfreemasonry.org/en/library/history-of-utah-1540-1886/the-last-days-of-brigham-young-1869-1877",
+    "observed_claim": "The footnote describes Governor Woods, Major Gordon and troops breaking a jail wall with a battering ram to release a soldier.",
+    "cited_source_to_locate": "Woods\u2019 Recollections, manuscript, pp. 53\u201355",
+    "limits": [
+      "Modern transcription has not yet been checked against a digitized original.",
+      "The passage does not specify ram material, dimensions, fittings, supports or an exact date.",
+      "No physical form is approved from this lead.",
+      "Partisan descriptions of the arrest and release must not be copied as neutral facts."
+    ]
+  },
+  "rejected_as_form_evidence": [
+    {
+      "url": "https://catalog.afi.com/Film/31790-FIRING-THE-CABIN",
+      "reason": "A 1903 fictional film synopsis cannot authenticate an 1865\u20131890 Western ram."
+    },
+    {
+      "url": "https://www.battlefields.org/learn/battles/siege-pueblo-de-taos",
+      "reason": "The inspected summary supports artillery destruction, not a specific timber ram."
+    }
+  ],
+  "next_steps": [
+    "Locate original Bancroft scan and cited manuscript or contemporary newspaper account.",
+    "Confirm the event date and actual ram construction before modelling.",
+    "Find period visual evidence or a documented simple reconstruction; do not invent a medieval wheeled siege engine."
+  ],
+  "generated_or_rendered": false
+}

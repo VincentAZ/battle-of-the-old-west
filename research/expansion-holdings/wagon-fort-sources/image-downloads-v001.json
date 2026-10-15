@@ -1,0 +1,14 @@
+[
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/NPS-Murphy-1979-replica.jpg",
+    "url": "https://www.nps.gov/articles/000/images/1998-Wagons-Murphy-Eagle-Rock-2.jpg?maxwidth=650&autorotate=false",
+    "sha256": "c66be3f025b82d8b56ce5a3d70208ba66d97855ddef6a9b69bdbae8e85a5cdac",
+    "bytes": 133679
+  },
+  {
+    "file": "research/expansion-holdings/wagon-fort-sources/NPS-Overland-Wagon-museum.jpg",
+    "url": "https://www.nps.gov/jeff/learn/photosmultimedia/images/Overland-Wagon.jpg?maxwidth=650&autorotate=false",
+    "sha256": "0005d07751619d1b06ca86303c18b59959b0aacf2dd0b3e78b45f89f54c768a2",
+    "bytes": 124311
+  }
+]

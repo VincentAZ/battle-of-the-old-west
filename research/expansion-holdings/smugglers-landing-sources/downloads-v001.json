@@ -1,0 +1,10 @@
+{
+  "brownsville-boats-1865.jpg": {
+    "url": "https://tile.loc.gov/storage-services/service/pnp/stereo/1s00000/1s04000/1s04600/1s04688v.jpg",
+    "sha256": "623938677d36f296fe95a955b1fd6c1ef4efab8817a2a21196fcfe5ccb23b967"
+  },
+  "wittick-ferry-1885.jpg": {
+    "url": "https://southwestferryproject.com/wp-content/uploads/2017/09/22Rio-Grande-Crossing-at-Paso-del-Norte-Mexico22-Photographer-Ben-Wittick.jpg",
+    "sha256": "fb6e5923d19fefbf56a35aa1d1a2168531a5da411ac5beb0d37a27ebfefa4dcf"
+  }
+}

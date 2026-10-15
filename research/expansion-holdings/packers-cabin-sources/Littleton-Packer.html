@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+<!--<![endif]-->
+<head>
+	<!-- Published by OpenCities, 1.38.0.1 -->
+
+    
+        
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="theme-color" content="#FFFFFF"/>
+    <title>Alfred Packer Littleton Museum</title>
+	<meta name="generator" content="OpenCities - https://granicus.com/product/opencities" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Using mobile-web-app-capable for now to enable full-screen experience on supported platforms -->
+    <!-- Note: This tag works mainly on Android Chrome. It does NOT enable full-screen mode on iOS Safari. -->
+    <!-- For iOS, the correct tag is: <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- TODO: Monitor for updated meta tag standards from Apple or other browser vendors -->
+    <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="description" content="Famous cannibal in Colorado history; he is buried in the Littleton Cemetery." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer" />
+    <meta property="og:title" content="Alfred Packer" />
+    <meta property="og:description" content="Famous cannibal in Colorado history; he is buried in the Littleton Cemetery." />
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:title" content="Alfred Packer" />
+    <meta property="twitter:description" content="Famous cannibal in Colorado history; he is buried in the Littleton Cemetery." />
+    <link rel="canonical" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer" />
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/files/ocfavicon/Museum/apple-touch-icon.png?V=638054920581698345">
+<link rel="icon" type="image/png" sizes="32x32" href="/files/ocfavicon/Museum/favicon-32x32.png?V=638054920581698345">
+<link rel="icon" type="image/png" sizes="16x16" href="/files/ocfavicon/Museum/favicon-16x16.png?V=638054920581698345">
+<link rel="manifest" href="/files/ocfavicon/Museum/site.webmanifest?V=638054920581698345">
+<link rel="shortcut icon" href="/files/ocfavicon/Museum/favicon.ico?V=638054920581698345">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-config" content="/files/ocfavicon/Museum/browserconfig.xml?V=638054920581698345">
+    <script>
+        (function () {
+            if (window.__UNLOAD_LAZY_PATCH__) return;
+            window.__UNLOAD_LAZY_PATCH__ = true;
+
+            var supportsPageHide = ("onpagehide" in window);
+            var mappedType = supportsPageHide ? "pagehide" : "beforeunload";
+            var nativeAdd = window.addEventListener;
+            var nativeRemove = window.removeEventListener;
+            var unloadMap = null;
+            var patched = false;
+
+            function ensurePatched() {
+                if (patched) return;
+                unloadMap = new WeakMap();
+
+                window.addEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = function (evt) {
+                            if (supportsPageHide && evt.persisted) return;
+                            listener.call(this, evt);
+                        };
+                        unloadMap.set(listener, wrapped);
+                        return nativeAdd.call(this, mappedType, wrapped, options);
+                    }
+                    return nativeAdd.call(this, type, listener, options);
+                };
+
+                window.removeEventListener = function (type, listener, options) {
+                    if (type === "unload") {
+                        var wrapped = unloadMap.get(listener);
+                        if (wrapped) {
+                            nativeRemove.call(this, mappedType, wrapped, options);
+                            unloadMap.delete(listener);
+                        }
+                        return;
+                    }
+                    return nativeRemove.call(this, type, listener, options);
+                };
+
+                var orig = null;
+                Object.defineProperty(window, "onunload", {
+                    configurable: true, enumerable: true,
+                    get: function () { return orig; },
+                    set: function (h) {
+                        orig = h;
+                        if (typeof h === "function") window.addEventListener("unload", h);
+                    }
+                });
+                patched = true;
+            }
+
+            window.addEventListener = function (type, listener, options) {
+                if (type === "unload") {
+                    ensurePatched();
+                    return window.addEventListener(type, listener, options);
+                }
+                return nativeAdd.call(this, type, listener, options);
+            };
+
+            window.removeEventListener = function (type, listener, options) {
+                if (type === "unload" && !patched) {
+                    return;
+                }
+                return nativeRemove.call(this, type, listener, options);
+            };
+
+            function patchTelerik() {
+                ensurePatched();
+                var ns = window.RadAjaxNamespace;
+                if (!ns || !ns.EventManager || !ns.EventManager.Add || ns.EventManager.__UnloadPatched) return;
+                var origAdd = ns.EventManager.Add;
+                ns.EventManager.Add = function (el, evtName, handler, clientId) {
+                    if (el === window && evtName === "unload") {
+                        return window.addEventListener("unload", handler);
+                    }
+                    return origAdd.call(this, el, evtName, handler, clientId);
+                };
+                ns.EventManager.__UnloadPatched = true;
+            }
+
+            if (window.RadAjaxNamespace)
+                patchTelerik();
+            else (window.requestIdleCallback || function (cb)
+            {
+                setTimeout(cb, 120);
+            })(patchTelerik);
+        })();
+    </script>
+    <!-- Preconnecting to Google Fonts servers -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Defer Roboto font loading to avoid render-blocking -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const robotoLink = document.createElement('link');
+            robotoLink.rel = 'stylesheet';
+            robotoLink.href = 'https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap';
+            document.head.appendChild(robotoLink);
+        });
+    </script>
+
+    <style>
+        .gm-style, .gm-style * {
+            font-family: 'Roboto', system-ui, -apple-system, "Segoe UI", Arial, sans-serif !important;
+        }
+    </style>
+
+    <script>
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, "js");
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    
+        
+            <script type="text/javascript">
+                window.__oc_flags_ImprovedBreakpointEventHandling = true;
+            </script>
+            
+        
+    
+    
+    
+        <script type="text/javascript">
+            var __metaQueryBreakpoints = {
+                'sc-size-4': '(max-width: 480px)',
+                'sc-size-3': '(min-width: 480px) and (max-width: 768px)',
+                'sc-size-2': '(min-width: 768px) and (max-width: 992px)',
+                'sc-size-1': '(min-width: 992px)'
+            }
+
+            var __ocSizePoints = [
+                { min: 0, name: 'sc-size-4' },
+                { min: 480, name: 'sc-size-3' },
+                { min: 768, name: 'sc-size-2' },
+                { min: 992, name: 'sc-size-1' }
+            ];
+
+        </script>
+    
+
+    <!-- Framework Section -->
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/files/templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/jquery-3.7.1.min.js?seamlessts=639263245306458099" ><\/script>')</script>
+
+    <!--Google Maps API Loader – Improved Version to avoid Warning
+    This script loads the Google Maps JavaScript API using a dynamic and async method.
+    It replaces the old static <script> tag to avoid performance warnings from Google.
+
+    Dynamically creates the <script> tag with loading = async for better performance
+    Builds the API URL with required libraries(places, geometry, marker, geocoding)
+    Uses a Promise and callback(google.maps.__ib__) to confirm when the script is ready
+
+    It Avoids Google’s warning about direct script loading
+    Improves page load speed by loading the API asynchronously-->
+
+    
+        <script>
+            (function (root) {
+                root.OpenCities = root.OpenCities || {};
+                if (!root.OpenCities.GoogleMapsLoader) {
+                    root.OpenCities.GoogleMapsLoader = {
+                        _cbs: [],
+                        _ready: false,
+                        onReady: function (cb) {
+                            if (this._ready) { try { cb(); } catch (e) { console.error(e); } }
+                            else if (typeof cb === 'function') this._cbs.push(cb);
+                        },
+                        _fire: function () {
+                            if (this._ready) return;
+                            this._ready = true;
+                            var q = this._cbs.splice(0);
+                            for (var i = 0; i < q.length; i++) {
+                                try { q[i](); } catch (e) { console.error(e); }
+                            }
+                        }
+                    };
+                }
+            })(window);
+
+            (g => {
+                var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__",
+                    m = document, b = window;
+                b = b[c] || (b[c] = {});
+                var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams,
+                    u = () => h || (h = new Promise(async (resolve, reject) => {
+                        a = m.createElement("script");
+                        e.set("libraries", [...r] + "");
+                        for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]);
+                        e.set("callback", c + ".maps." + q);
+                        a.src = "https://maps." + c + "apis.com/maps/api/js?" + e.toString();
+                        a.loading = "async";
+                        a.async = true;
+                        a.defer = true;
+                        d[q] = resolve;
+                        a.onerror = () => reject(Error(p + " could not load."));
+                        a.nonce = m.querySelector("script[nonce]")?.nonce || "";
+                        m.head.append(a);
+                    }));
+                if (d[l]) {
+                    console.warn(p + " only loads once. Ignoring duplicate load.");
+                } else {
+                    d[l] = (f, ...n) => (r.add(f), u().then(() => d[l](f, ...n)));
+                }
+            })({
+                key: "AIzaSyAjwD-jzJq452HlqkcNCJ8tBOd-bZ36vsI",
+                v: "3.65"
+            });
+
+            (async () => {
+                try {
+                    if (!google?.maps?.importLibrary) return;
+
+                    if (!window.OpenCities.__mapsLibsPromise) {
+                        window.OpenCities.__mapsLibsPromise = Promise.all([
+                            google.maps.importLibrary('maps'),
+                            google.maps.importLibrary('places'),
+                            google.maps.importLibrary('geocoding'),
+                            google.maps.importLibrary('marker'),
+                            google.maps.importLibrary('geometry')
+                        ]);
+                    }
+                    await window.OpenCities.__mapsLibsPromise;
+
+                    if (window.OpenCities?.GoogleMapsLoader) {
+                        window.OpenCities.GoogleMapsLoader._fire();
+                    }
+                } catch (err) {
+                    console.error('Google Maps failed to initialise', err);
+                }
+            })();
+        </script>
+    
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/modernizr.custom.710f3bf.js?seamlessts=639263245306458099" defer></script>
+    
+    <!--// End Framework Section -->
+    <!-- OpenCities Section -->
+    <script>
+        var OpenCities = OpenCities || {};
+        OpenCities.Paths = {
+            SiteTemplate: '/files/templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/',
+            ThemePath: '/files/templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/'
+        };
+    </script>
+    <script src='/ocapi/5d08be39-25ca-491b-a373-438d4bd8b450/en-US/websitesettings.js'></script>
+    <script src="/files/templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/oc_head.js?applied=20221130062500"></script>
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/oc_grid.css~oc_style.css~oc_wizard_style.css~oc_main.css~oc_forms.css~oc_wizard.css~oc_wizard_menu.css~oc_main_s1.css~oc_wizard_s1.css~oc_wizard_menu_s1.css~oc_grid_s1.css~OcScriptCombine_Minify0?uniqueid=20221130062500" rel="stylesheet" type="text/css">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/client_style.css~client.css~client_menu.css~client_s1.css~client_menu_s1.css~client_forms.css~OcScriptCombine_Minify0?uniqueid=20221130062500" rel="stylesheet" type="text/css">
+    <script>
+(function (BackgroundSettings, $, undefined) {
+    BackgroundSettings.initialise = function () {
+        this.Application = {"CSSSelector":".content-outer-container","EnableFade":true,"MediaType":"image"};
+    };
+} (OpenCities.BackgroundSettings = OpenCities.BackgroundSettings || {}, jQuery));
+OpenCities.BackgroundSettings.initialise();
+</script>
+    
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<link href="/files/oc-templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/oc_print.css~client_print.css~OcScriptCombine_Minify0?uniqueid=20221130062500" rel="stylesheet" type="text/css" media="print">
+    <!-- Script Combine. To enter debug mode for this browser session, enter OcScriptCombineDebug=true as a querystring -->
+<script src="/files/oc-templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/164/external_plugins.js~oc_form_helper.js~oc_main.js~plugins.js~oc_main_init.js~OcScriptCombine_Minify0?uniqueid=20221130062500" defer="true"></script>
+    
+    
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYTCK-JM9C8-ED4EP-C3GGK-Z575H",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"DYTCK-JM9C8-ED4EP-C3GGK-Z575H";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eyaiqafwqajsajqacqcyiaaaa5vmsfyz-f-cc37f19d2-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"41","ak.cp":"1700625","ak.ai":parseInt("1075935",10),"ak.ol":"0","ak.cr":5,"ak.ipv":6,"ak.proto":"http/1.1","ak.rid":"6a45e1be","ak.r":46469,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.cport":55404,"ak.gh":"23.201.193.137","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1791563545","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==fvvSBY+myqNYYX0fToxPert6juwW7v5W1pT6hXBD3ZGfgBEQxBfFFFuddoW5VdGshO0GdkR5QERL1IBv9ZGeR/sNPk1ts8DPF7+VXnZtcv7LPZgb1lC7tJgOhEJpmcBmHNTFljsT7af7xUaD84qA9xoJNd+4lYL3nqedUCgkiM2IK1UNWOZumLDGPh5RCefihI2Ip+Au052kNRnOwpgw/FPFxLii9KiG4JWWABlkXTFCyYfdKrbrdeTRMJO88NcVcTRyxZxnL1TbuS9AfSfNqrNBGneWdxLESeDlyAeg+vO+cBZH9bAkRUQcvRgOvfBOqQP88RvkcqhBgkXc7CMochUcSFBidYyheF18ORtGE+zr9Ikz5dKPgiMNLusF0qYiolSRlsDP5T92B7IBG0z8fYmuGDGCOs+PweXRipPa7vo=","ak.pv":"354","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="body layout-modern  site-search-always-visble  content-type-oc-general content-template-oc-full-width group-template-oc-full-width-with-default-header page-name-packer page-sequence-30 page-depth-4 page-section-13 website-type-defaultsubsite device-desktop " id="body-top">
+    <div id="skip-to-content-container">
+        <a href="#main-content" class="visuallyhidden focusable" id="skip-to-content-link">Skip to main content</a>
+    </div>
+    <script>
+        // OCNOW-11988 (Cursor): Proactively focus skip link when returning from browser chrome.
+        // Must run inline (not deferred oc_main.js) so focus is intercepted before NVDA speaks footer.
+        (function () {
+            var awaitingReentry = false;
+            var inertSupported = 'inert' in HTMLElement.prototype;
+
+            function isExplicitlyOutsideDocument(node) {
+                return node != null && !document.documentElement.contains(node);
+            }
+
+            function getSkipContainer() {
+                return document.getElementById('skip-to-content-container');
+            }
+
+            function getSkipLink() {
+                return document.getElementById('skip-to-content-link');
+            }
+
+            function applyGuard() {
+                awaitingReentry = true;
+                if (!inertSupported) {
+                    return;
+                }
+                var skipContainer = getSkipContainer();
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    if (children[i] !== skipContainer) {
+                        children[i].setAttribute('inert', '');
+                    }
+                }
+            }
+
+            function clearGuard() {
+                awaitingReentry = false;
+                if (!inertSupported) {
+                    return;
+                }
+                var children = document.body.children;
+                for (var i = 0; i < children.length; i++) {
+                    children[i].removeAttribute('inert');
+                }
+            }
+
+            function isSkipLinkElement(target) {
+                if (!target) {
+                    return false;
+                }
+                var skipContainer = getSkipContainer();
+                return target.id === 'skip-to-content-link' ||
+                    (skipContainer && skipContainer.contains(target));
+            }
+
+            function focusSkipLink() {
+                var skipLink = getSkipLink();
+                if (!skipLink) {
+                    return;
+                }
+                if (window.scrollY > 0) {
+                    window.scrollTo(0, 0);
+                }
+                skipLink.focus({ preventScroll: true });
+            }
+
+            function scheduleGuardIfDocumentLostFocus() {
+                window.setTimeout(function () {
+                    if (!document.hasFocus()) {
+                        applyGuard();
+                    }
+                }, 0);
+            }
+
+            document.addEventListener('focusout', function (e) {
+                if (isExplicitlyOutsideDocument(e.relatedTarget)) {
+                    applyGuard();
+                }
+            }, true);
+
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Tab') {
+                    scheduleGuardIfDocumentLostFocus();
+                } else if (e.key === 'F6' || (e.key === 'l' && e.ctrlKey)) {
+                    scheduleGuardIfDocumentLostFocus();
+                }
+            }, true);
+
+            window.addEventListener('focus', function () {
+                if (!awaitingReentry) {
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+            }, true);
+
+            document.addEventListener('focusin', function (e) {
+                var reentryFromChrome = awaitingReentry || isExplicitlyOutsideDocument(e.relatedTarget);
+                if (!reentryFromChrome) {
+                    return;
+                }
+                if (isSkipLinkElement(e.target)) {
+                    clearGuard();
+                    return;
+                }
+                applyGuard();
+                focusSkipLink();
+                clearGuard();
+            }, true);
+        })();
+    </script>
+    <form name="mainForm" method="post" action="/Research/Littleton-History/Biographies/Packer" id="mainForm">
+<input type="hidden" name="ctl04_seamless_script_manager_TSM" id="ctl04_seamless_script_manager_TSM" value="" />
+<input type="hidden" name="__SEAMLESSVIEWSTATE" id="__SEAMLESSVIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_seamless_script_manager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-GB%3add3ac3d5-1e29-4112-8fed-529caffa8f24%3aea597d4b%3bOpenCities.CustomControls%3aen-GB%3a7197b077-b068-4a69-9481-a6cf2e7718f9%3a8e1d32bf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EYVjNsQ7oYmzBqCI0dkEyYe0LYmPcVFL4WPcQCXhKfQwUqkAT7lLra0za-OLMuUUcCyPINdTVMHIWti96-8R_oN-trjXUUZnJRzckxTjid4ecctwwEJyNI-05jZYvXHBRiEKL0MUQMEyEJ2FXanyE1uBk88RxZ1wVK6AUn9D4v8rW-LNx2OOtB8vE3hC8P0jk4XZt7GAPiCeYQolxUlwFZA8cuOfgd4u08OASxFdh8mChz3A0YHhuwRrXGVlulfs9SJVkAvulhjdHYIIp1SRohDxt9acTwxUQrOlxuxC847b00zOOWg9SlpwD_iBuQQ1rOK9WH9O_wN9c2TXm4GeXaQHHT4yQ9IlzZXw6th8ch3f-k_n1yYeeurDMbwChXW1Vh_7rpu00kgmegsg9w2J3ququXIPfy2Gq8IscVTmtwouupfmUzAOicU_yESgQ-dG0" type="text/javascript"></script>
+    
+<script type="text/javascript">
+    try{
+        function SeamlessEndRequestHandler(sender, args) {
+            try {
+                var dataItems = args.get_dataItems();
+                if(dataItems.ctl04_seamless_script_manager)
+                    document.getElementById('__SEAMLESSVIEWSTATE').value = dataItems.ctl04_seamless_script_manager;
+            }
+            catch (e) { }
+        }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(SeamlessEndRequestHandler);
+    }
+    catch (e) { }
+</script>
+
+    <div class="unsupported-browser-warning js-element"></div>
+    
+    <div hidden>
+        <span id="new-window-0">opens in new tab or window </span>
+    </div>
+    <div class="overlay-container"></div>
+    
+    <div class="background-container">
+        <div class="page-container">
+            <!-- OC Layout Element GROUP TEMPLATE -->
+            <!--groupTemplateStart--><header><div class="print-header-outer-container print-element">
+<img src="/files/templates/00000000-0000-0000-0000-000000000000/f1cd007a-6e64-44bc-b8ac-75e134fbfe33/v/163/print-header.png" alt="Littleton Museum - City of Littleton CO - Logo" />
+</div>
+            <div class="toolbar-outer-container">
+  <div class="toolbar-inner-container clearfix">
+    <div class="toolbar-item toolbar-language notranslate toolbar-display-dropdown"><div class="no-js-element">
+		  <ul>
+		    <li id="toolbar-language-option-en-us-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-es-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="es">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-zh-cn-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=zh-CN" class="lang-item lang-zh-cn" data-translate-to="zh-cn" lang="zh-CN">Chinese (Simplified)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-ko-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=ko" class="lang-item lang-ko" data-translate-to="ko" lang="ko">Korean<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-ru-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=ru" class="lang-item lang-ru" data-translate-to="ru" lang="ru">Russian<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-vi-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=vi" class="lang-item lang-vi" data-translate-to="vi" lang="vi">Vietnamese<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li id="toolbar-language-option-ar-noscript"><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=ar" class="lang-item lang-ar" data-translate-to="ar" lang="ar">Arabic<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+          </ul>
+		</div>
+	<button type="button" role="combobox" aria-controls="toolbar-language-drop-down" aria-expanded="false" aria-haspopup="listbox" aria-autocomplete="none" aria-labelledby="toolbar-language-label" class="toolbar-button toolbar-button-language js-element">  
+        <span class="toolbar-language-globe-icon" aria-hidden="true"></span>
+        <span id="toolbar-language-label" class="current-language">
+            Select a language to translate to
+		</span>
+		<i aria-hidden="true"></i>
+	</button>
+	<div id="toolbar-language-drop-down" role="listbox" aria-label="Available languages" class="toolbar-drop-down toolbar-language-drop-down js-element clearfix">
+		<ul role="group">
+		    <li role="presentation"><a id="toolbar-language-option-en-us" role="option" aria-selected="true" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=en-US" class="lang-item lang-en-us" data-translate-to="en-us" lang="en-US">English<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-es" role="option" aria-selected="false" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=es" class="lang-item lang-es" data-translate-to="es" lang="es">Spanish<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-zh-cn" role="option" aria-selected="false" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=zh-CN" class="lang-item lang-zh-cn" data-translate-to="zh-cn" lang="zh-CN">Chinese (Simplified)<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-ko" role="option" aria-selected="false" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=ko" class="lang-item lang-ko" data-translate-to="ko" lang="ko">Korean<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-ru" role="option" aria-selected="false" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=ru" class="lang-item lang-ru" data-translate-to="ru" lang="ru">Russian<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-vi" role="option" aria-selected="false" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=vi" class="lang-item lang-vi" data-translate-to="vi" lang="vi">Vietnamese<span class="visuallyhidden"> Select this as your preferred language</span></a></li><li role="presentation"><a id="toolbar-language-option-ar" role="option" aria-selected="false" href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer?oc_lang=ar" class="lang-item lang-ar" data-translate-to="ar" lang="ar">Arabic<span class="visuallyhidden"> Select this as your preferred language</span></a></li>
+        </ul>
+	</div></div>
+  </div>
+</div>
+            <div class="header-outer-container">
+    <div class="header-container header-layout-4  clearfix">
+			<div class="header-site-logo">
+				<a href="https://www.museum.littletonco.gov/Home" lang="en-US" aria-label="Littleton Museum - City of Littleton CO - Home - Logo">
+				</a>
+			</div>
+      
+		    <div class="mobile-search-btn js-element">
+		        <button><i aria-hidden="true"></i><span class="mobile-search-btn-text"><span class="visuallyhidden">Open </span>Search</span></button>
+		    </div>
+		    <div class="header-website-settings">
+                <button id="btn-mob-nav" type="button" aria-expanded="false" aria-controls="nav">
+                    <i aria-hidden="true"></i><span class="side-menu-btn-text">Menu</span>
+                </button>
+        	</div>
+          <div class="navigation-outer-container">
+	<div id="nav" role="navigation" class="navigation-container  navigation-container-option-8" data-menu-type="horizontal" aria-label="primary">
+        <div class="grid">
+            <div class="col-xs-12">              
+                <ul class="sf-menu mega-menu" id="sc-main-menu"><li class="nav-section-quarters-1   first-item nav-item-seq-1">
+<a href="https://www.museum.littletonco.gov/Visit" class="nav-level-1 nav-has-children"  target="">
+	<i class="item-icon" aria-hidden="true"></i><span class="item-text">Visit</span>
+</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-1" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-1" class="second-level-container ch-4">
+
+          
+            <li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Plan-Your-Visit" class="nav-has-children"  target="">Plan Your Visit</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-1" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Plan-Your-Visit/Littleton-Museum-at-a-Glance"  target="">Littleton Museum at a Glance</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Plan-Your-Visit/Museum-Map"  target="">Museum Map</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Plan-Your-Visit/Museum-Store"  target="">Museum Store</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Plan-Your-Visit/Rules-and-Guidelines"  target="">Rules and Guidelines</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Groups-and-Field-Trips" class=""  target="">Groups and Field Trips</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Location-Hours" class="nav-has-children"  target="">Location & Hours</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-1-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-1-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Location-Hours/Map-to-Littleton-Museum"  target="">Map to Littleton Museum</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Location-Hours/Hours-of-Operation"  target="">Hours of Operation</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Visit/Accessibility" class=""  target="">Visitor Accessibility</a></li></ul></li>
+          
+            <li class="nav-section-quarters-1   nav-item-seq-2">
+<a href="https://www.museum.littletonco.gov/Exhibits" class="nav-level-1 nav-has-children"  target="">Exhibits</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-2" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-2" class="second-level-container ch-3">
+
+          
+            <li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Outside-Exhibits-Living-History" class=""  target="">Outside Exhibits (Living History)</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Inside-Exhibits" class="nav-has-children"  target="">Inside Exhibits</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-2" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-2" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Inside-Exhibits/History-Gallery"  target="">History Gallery</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Inside-Exhibits/Art-Gallery"  target="">Art Gallery</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Inside-Exhibits/Culture-Gallery"  target="">Culture Gallery</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Past-Exhibits" class="nav-has-children"  target="">Past Exhibits</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-2-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-2-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Past-Exhibits/Previous-Exhibits"  target="">Previous Exhibits</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Past-Exhibits/Own-an-Original"  target="">Own an Original</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Exhibits/Past-Exhibits/Eye-of-the-Camera"  target="">Eye of the Camera</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-2   nav-item-seq-3">
+<a href="https://www.museum.littletonco.gov/Events-Programs" class="nav-level-1 nav-has-children"  target="">Events & Programs</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-3" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-3" class="second-level-container ch-4">
+
+          
+            <li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/History-Adventures" class=""  target="">History Adventures 2026</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/Daily-Farm-Programs" class=""  target="_blank">Daily Farm Programs</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/Learning-Resources" class="nav-has-children"  target="">Learning Resources</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-3-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-3-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/Learning-Resources/Museum-at-Home"  target="">Museum at Home</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/Learning-Resources/Interpretive-Videos"  target="">Interpretive Videos</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/Learning-Resources/Teacher-Resources"  target="">Teacher Resources</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Events-Programs/Hands-On-History-Day" class=""  target="">Hands-On History Day</a></li></ul></li>
+          
+            <li class="nav-section-quarters-2 nav-active-path  nav-item-seq-4">
+<a href="https://www.museum.littletonco.gov/Research" class="nav-level-1 nav-has-children"  target="">Research</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-4" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-4" class="second-level-container ch-3">
+
+          
+            <li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Research/Research-Center" class=""  target="">Museum Research Center</a></li><li class="second-level-item nav-active-path "><a href="https://www.museum.littletonco.gov/Research/Littleton-History" class="nav-has-children"  target="">Littleton History</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-4-nav-item-seq-2" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-4-nav-item-seq-2" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Research/Littleton-History/General-History"  target="">General History</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Chronology-of-Littleton-History"  target="">Chronology of Littleton History</a></li><li  class="third-level-item nav-active-path "><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies"  target="">Biographies</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Other-Topics"  target="">Other Topics</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Littleton-History-Videos"  target="">Littleton History Videos</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Research/Littleton-History/Historic-Littleton-Buildings"  target="_self">Historic Littleton Buildings</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Research/Museum-Collections" class="nav-has-children"  target="_blank">Museum Collections</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-4-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-4-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/Research/Museum-Collections/Search-the-Collection"  target="_blank">Search the Collection</a></li></ul></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-5">
+<a href="https://www.museum.littletonco.gov/About-Us" class="nav-level-1 nav-has-children"  target="">About Us</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-5" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-5" class="second-level-container ch-7">
+
+          
+            <li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Exhibitor-Information" class=""  target="">Exhibitor Information</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Museum-Feedback" class=""  target="">Museum Feedback</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/About-the-Museum" class="nav-has-children"  target="">About the Museum</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-3" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/About-the-Museum/Smithsonian-Affiliation"  target="">Smithsonian Affiliation</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Support-Us" class="nav-has-children"  target="">Support Us</a><button aria-label="Expand" aria-controls="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" class="mobnav-subarrow-child"><i aria-hidden="true"></i>
+              </button>
+<ul  id="sc-menu-third-level-nav-item-seq-5-nav-item-seq-4" class="third-level-container">
+          
+            <li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Support-Us/Volunteering"  target="">Volunteering</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Support-Us/Donations"  target="">Donations</a></li><li  class="third-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Support-Us/Friends-of-the-Littleton-Library-and-Museum"  target="_blank">Friends of the Littleton Library and Museum</a></li></ul></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Newsletter-Signup" class=""  target="_blank">Newsletter Signup</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/FAQs" class=""  target="">FAQs</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/About-Us/Get-Involved" class=""  target="">Get Involved</a></li></ul></li>
+          
+            <li class="nav-section-quarters-3   nav-item-seq-6">
+<a href="https://www.museum.littletonco.gov/Public-Art" class="nav-level-1 nav-has-children"  target="">Public Art</a>
+<button aria-label="Expand" aria-controls="sc-menu-second-level-nav-item-seq-6" aria-haspopup="true" class="mobnav-subarrow" ><i aria-hidden="true"></i></button>
+<ul id="sc-menu-second-level-nav-item-seq-6" class="second-level-container ch-8">
+
+          
+            <li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/The-History-of-Public-Art-in-Littleton" class=""  target="">The History of Public Art in Littleton</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/Littleton-Arts-Culture-Board" class=""  target="">Littleton Arts & Culture Board</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/Littleton-Culture-Arts-Partners-Group-CAP" class=""  target="">Littleton Culture & Arts Partners Group (CAP)</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/Arts-Culture-Grants" class=""  target="">Arts & Culture Grants</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/Opportunities-for-Artists" class=""  target="">Opportunities for Artists</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/State-of-the-Arts-in-Littleton" class=""  target="">State of the Arts</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/Mural-Program" class=""  target="">Mural Program</a></li><li class="second-level-item  "><a href="https://www.museum.littletonco.gov/Public-Art/Arts-Culture-Directory" class=""  target="">Arts & Culture Directory</a></li></ul></li>
+          
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+			
+			<div class="header-search-control-container" id="header-search">
+				<div class="search-inner-container">
+					<div class="sc-search-panel">
+	<label for="ctl08_txtSearch" id="ctl08_lblSearch" class="sc-search-label">Search</label><input name="ctl08$txtSearch" type="text" id="ctl08_txtSearch" class="sc-search-text" placeholder="Find almost anything on our website" /><input type="submit" name="ctl08$btnSearch" value="Search" id="ctl08_btnSearch" class="sc-search-button" />
+</div>
+					<div role="status" id="predictiveResults"></div>
+				</div>
+			</div>
+    </div>
+</div>
+
+            
+            </header>
+            <div class="content-outer-container">
+                <div id="main" role="main" class="main-outer-container clearfix">
+                        
+                        <div class="content-main-container">
+                            <div class="grid">
+					            <div class="col-xs-12">
+						            <nav id="breadcrumbs-container" aria-label="You Are Here :">
+							            <span role="list">
+<span role="listitem">
+	<a href="https://www.museum.littletonco.gov/Home"  lang="en-US">Home</a>
+	<span class="nav-separator" aria-hidden="true" role="presentation">/</span>
+</span>
+          <span role="listitem"><a href="https://www.museum.littletonco.gov/Research" >Research</a><span class='nav-separator' aria-hidden="true" role="presentation">/</span></span><span role="listitem">
+	<a href="https://www.museum.littletonco.gov/Research/Littleton-History" >
+		Littleton History
+	</a>
+	<span class='nav-separator' aria-hidden="true" role="presentation">/</span>
+</span>
+<span role="listitem">
+	<a href="https://www.museum.littletonco.gov/Research/Littleton-History/Biographies" >
+		Biographies
+	</a>
+	<span class='nav-separator' aria-hidden="true" role="presentation">/</span>
+</span>
+<span class="current-page" role="listitem" aria-current="page" >Alfred Packer</span>
+          
+          </span>
+						            </nav>
+					            </div>
+                      
+					            <div class="col-xs-12">
+						            <div class="main-inner-container">
+							            <div id="main-content" class="main-container clearfix">
+							              
+                            <!-- OC Layout Element Conent Template -->
+							              <!--normalTemplateStart--><div class="grid">
+    <div class="col-xs-12">
+        <h1 class='oc-page-title '>Alfred Packer</h1>
+        
+        
+        <p><img alt="Alfred Packer in prison." src="/files/sharedassets/museum/v/1/littleton-history/images/packer.jpg?w=198&amp;h=256" /><br />
+<em>Alfred Packer in prison.</em></p>
+<p>The only man in United States history ever convicted of a crime related to cannibalism lies buried in the southwest quarter of lot 65 in the <a href="https://www.museum.littletonco.gov/Research/Littleton-History/Other-Topics/Littleton-Cemetery" target="_self">Littleton Cemetery</a> with a tombstone placed over his head at the expense of the U.S. government.</p>
+<p>Alfred G. Packer was born in Pennsylvania in 1842. His chosen occupation of shoe-making was quickly interrupted by the outbreak of the Civil War. He enlisted in Company F, 16th U.S. Infantry in April of 1862, but his epilepsy resulted in a disability discharge the following December. Evidently liking army life, he soon reenlisted in an Iowa regiment, only to be discharged for the same reason. He then went West to try his hand in the gold fields and by 1873 he was working as a guide in the Utah and Colorado wilderness.</p>
+<p>In November of that year, in Bingham Canyon, Utah, he was employed to lead twenty-one men seeking their fortunes in the gold fields near Breckenridge, Colorado. After an arduous three months in unrelenting winter weather, they located the camp of the Ute leader Ouray, of the Tabeguache (Uncompahgre)<span style="font-size: 1em;">, near present-day Montrose, and were provided food and shelter. Against the advice of Ouray, Packer and five other men continued their trek eastward, not wishing to lose further time waiting for a break in the weather.</span></p>
+<p>Sixty-six days later, only Packer emerged from the mountains &mdash;looking more fit than he should. He first claimed that he had become separated from his companions in the blinding snow and had survived on rabbits and rose buds. But when confronted about having a lot of money and personal possessions of the missing men, he finally admitted his tale of cannibalism: how four of the men had died in turn from the extreme conditions and been eaten by the rest, and how he killed the fifth crazed companion, Shannon Bell, in self-defense before devouring him, as well. This might have been the end of it, but the five skeletons were soon discovered at a single campsite, not strung out along the trail as he had claimed, and Packer was charged with a single count of murdering Israel Swan, whose remains allegedly showed signs of a bitter hand-to-hand struggle. That very night, someone passed a key to Packer in his jail cell and he made his escape.</p>
+<p>He remained at large for nine years, living in Arizona, Montana and Colorado under an assumed name &mdash;until someone recognized his laugh in a saloon in Fort Fetterman, Wyoming. He was arrested and returned to Colorado. At this point, driven by nine years of guilt, he made a second signed confession. What really happened, he now claimed, was that all six men were still alive, but had become too weak to continue. Packer left camp for several hours looking for the trail, and when he returned Shannon Bell had gone mad and killed the other four with a hatchet and was boiling the flesh from one of them. Upon Packer's approach to the fire, Bell charged with the hatchet and Packer was forced to shoot him twice in the belly. Only after several days did Packer resort to cannibalism to stay alive.</p>
+<p>Having changed his story twice and with no corroboration available from the now-buried corpses, the jury convicted Packer of the single murder and he was sentenced to hang. Three years later the conviction was overturned, however, due to a legislative error made in the criminal codes when Colorado changed from a territory to a state in 1876.</p>
+<p>Packer was tried again, charged with five counts of manslaughter and was convicted and sentenced to forty years in prison. He was remanded to the State Prison in Canon City in 1886. Due to the efforts of <em>Denver Post</em> editors and reporter Polly Pry, who were convinced of his innocence, he was paroled in 1901 and went to work briefly as a guard at the <em>Post</em> building in downtown Denver.</p>
+<p>He spent the final years of his life living in and around Littleton &mdash;on Harrison Avenue and on west Hampden. His last address was the Van Alstine ranch in Deer Creek Canyon. "He was described as a kindly man who would take children on his lap and tell them of his early days in the <em>old west</em>," according to Littleton historian Dave Hicks. He died April 24, 1907, evidently of liver and stomach troubles. Because he was a Civil War veteran, the military paid for the funeral and provided the tombstone, which reads: "Alfred Packer, Co. F, 16 U.S. Inf." His dying words, according to the <em>Littleton Independent</em>, were "I'm not guilty of the charge."</p>
+<p>In recent years, forensic science has allowed a closer examination of the evidence. Exhumation of the remains of the Packer party and the recent discovery of Packer's revolver in the collection of the Museum of Western Colorado have tended to corroborate many of the details of Packer's second confession. No one will ever prove what really happened on "Cannibal Plateau" near present-day Lake City, but in a modern court of law Alfred might easily have established reasonable doubt.</p>
+<p>Finally, what about the name "Alferd", whose spelling in itself has become a legend? It seems that during his army days he got a tattoo on his arm in which the artist misspelled his name. Taking a liking to the error, he oftentimes went by "Alferd" as something of a joke. On legal documents, however, he called himself and was referred to as "Alfred".</p>
+<h2>Bibliography</h2>
+<p>Kushner, Ervan F. <em>Alferd G. Packer: Cannibal! Victim?</em> Frederick, CO: Platte 'N Press, 1980.</p>
+<p><em>Littleton Independent</em>. Littleton Independent Publishers, 1888- .</p>
+<p>Littleton Independent. <em>Sixtieth Anniversary Edition, 1888-1948.</em> Littleton: Littleton Independent Publishers, 1948.</p>
+<p>Littleton Museum. Photographic Archives.</p>
+<p>____. Vertical File: Alfred Packer.</p>
+<p>Starr, James E. <em>Victims Exhumation Project, Lake City, Colorado, July 17, 1989.</em> Washington: Scientific Sleuthing, 1989.</p>
+<p><em>Photographs courtesy of the Littleton Museum unless otherwise noted. To order copies, contact the museum at <a href="tel:3037953950">303-795-3950</a>.</em></p>
+<hr />
+<p><strong><em>Compiled by Pat Massengill</em></strong></p>
+<p>Updated April 2021 by Phyllis Larison</p>
+
+
+      
+        
+            
+        
+    </div>
+    
+    
+</div><!--normalTemplateEnd-->
+                            
+                            
+                            
+							            </div>
+						            </div>
+					            </div>
+                        
+                            </div>
+                        </div>
+                        <div class="back-to-top-container text-center">
+                            <a href="#body-top" id="back-to-top"><i aria-hidden="true"></i><span class="js-visuallyhidden">Back to top</span></a>
+                        </div>
+                </div>
+            </div><!--groupTemplateEnd-->
+            <footer>
+                
+                    <div class="footer-outer-container footer-first-row">
+                        <div class="footer-container clearfix">
+                            <div class="grid grid-pad">
+                                <div class="col-xs-12 col-s-6 col-m-6 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Contact Us</h3>
+			
+	<p>Littleton Museum<br />
+6028 S. Gallup Street<br />
+Littleton, CO 80120<br />
+<a href="https://www.google.com/maps/place/Littleton+Museum/@39.6067145,-105.0038898,17z/data=!3m1!4b1!4m5!3m4!1s0x876c81b0e995588f:0x1f8438efa846e01c!8m2!3d39.606723!4d-105.0017472" target="_blank">View on Map</a><br />
+T <a href="tel:3037953950">303-795-3950</a></p>
+
+
+	
+	
+</div><div class="col-xs-12 col-s-6 col-m-6 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Visit Other Littleton Sites</h3>
+			
+	
+	<ul class="footer-links without-icons ">  <li>
+<a href="https://www.littletonco.gov/Home" target="_blank"  >City of Littleton</a>
+</li>
+          <li>
+<a href="https://visitlittleton.org/" target="_blank"  >Visit Littleton</a>
+</li>
+          <li>
+<a href="https://www.library.littletonco.gov/Home" target="_self"  >Bemis Public Library</a>
+</li>
+          <li>
+<a href="https://www.police.littletonco.gov/Home" target="_blank"  >Littleton Police</a>
+</li>
+           </ul>
+	
+</div><div class="col-xs-12 col-s-6 col-m-6 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Share &amp; Connect</h3>
+			
+	
+	<ul class="footer-links with-icons social-media-links">  <li class="footer-link-facebook">
+	<a href="https://www.facebook.com/LittletonMuseum/" target="_blank"  >
+<i aria-hidden="true"></i>Like Us on Facebook
+</a>
+</li>
+          <li class="footer-link-twitter">
+	<a href="https://twitter.com/CityofLittleton?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"  >
+<i aria-hidden="true"></i>Follow us on twitter
+</a>
+</li>
+          <li class="footer-link-youtube">
+	<a href="https://www.youtube.com/channel/UCQwavY7HdcFs7bIucBHVynw" target="_blank"  >
+<i aria-hidden="true"></i>Watch our YouTube Channel
+</a>
+</li>
+          <li class="footer-link-instagram">
+	<a href="https://www.instagram.com/littletonmuseum/?hl=en" target="_blank"  >
+<i aria-hidden="true"></i>Follow Us on Instagram
+</a>
+</li>
+           </ul>
+	<p><img alt="American Alliance of Museums." src="/files/sharedassets/museum/v/3/images/american-alliance-of-museums.png?w=100&amp;h=95" /></p>
+<p><a href="https://www.si.edu/" target="_blank"><img alt="Smithsonian Affiliate." src="/files/sharedassets/museum/v/1/images/smithsonian-affiliate.png" /></a></p>
+
+
+</div><div class="col-xs-12 col-s-6 col-m-6 col-lg-3" >
+	
+			<h2 class="visuallyhidden">Site Footer</h2>
+			<h3 class="footer-title">Museum Hours of Operation</h3>
+			
+	<p>Tuesday - Saturday:&nbsp;9 am - 5 pm<br />
+Sunday: 11 am - 5 pm<br />
+<em>Last entry at 4:30 pm</em></p>
+<p>Closed Monday and holidays</p>
+<p>&nbsp;</p>
+
+
+	<ul class="footer-links with-icons ">   </ul>
+	<p><a href="https://www.littletonco.gov/Government/City-Policies/Digital-Accessibility-Statement" target="_blank" style="font-size: 1em;">Digital Accessibility Statement</a></p>
+
+
+</div>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="footer-outer-container footer-second-row">
+                    <div class="footer-container clearfix">
+                        <div class="grid grid-pad footer-secondary-links">
+                            <div class="col-xs-12 col-m-7">
+                                
+                                    
+                                
+                            </div>
+                            <div class="col-xs-12 col-m-5 powered-by">
+                                <div class="right">
+                                    &copy; 2026 Littleton Museum - City of Littleton CO&nbsp;|&nbsp;<span class="powered-by">Powered by <a href="https://granicus.com/solution/govaccess/opencities/" target="_blank">Granicus</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="/files/oc-resources/514d4465-7a9f-45fe-86df-0916eab33af7/JsTextSnippets.js?ocsvclang=en-US" type="text/javascript"></script><script></script>
+    
+    
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-20754110-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1N91DYVWYC');
+gtag('config', 'UA-20754110-4');
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+window.__TsmHiddenField = $get('ctl04_seamless_script_manager_TSM');//]]>
+</script>
+</form>
+</body>
+</html>

@@ -1,0 +1,47 @@
+{
+  "status": "references_actually_inspected_before_authoring",
+  "date": "2026-10-09T15:57:30.624674+00:00",
+  "observations": [
+    {
+      "file": "MVMuseum-canvas-tabernacle-page49.png",
+      "pdf_page": 49,
+      "printed_page": 47,
+      "seen": "Monochrome photograph captioned Worshipers under the canvas Tabernacle: broad sloping fabric roof with radial seam/tension lines, tall round supports, broad open perimeter and seated congregation. Lantern posts and people will not be modeled.",
+      "limits": "Eastern Massachusetts analogue; no original hue, outer guy layout, exact roof diameter, or measured pole schedule can be inferred. Text dates recurring giant tent to 1870; NPS nomination gives 1869. Use circa 1869–70 without resolving that discrepancy."
+    },
+    {
+      "file": "Manship-white-canvas-page22.png",
+      "pdf_page": 22,
+      "printed_page": 19,
+      "seen": "Original printed text describes canvas white tabernacles in the 1853 Philadelphia narrative.",
+      "limits": "Earlier Eastern material/colour analogue, not a colour measurement of Windsor in 1872."
+    }
+  ],
+  "additional_text_read": [
+    {
+      "file": "03980991.pdf",
+      "pdf_pages": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "claims": "Bench and pulpit/stand at tent meetings; 1853 Philadelphia context and white canvas."
+    },
+    {
+      "file": "NPS-Wesleyan-Grove-Nomination.pdf",
+      "pdf_pages": [
+        23,
+        24
+      ],
+      "claims": "Large canvas tent on tall poles in 1869; old benches made in 1846/1851 were reused in the 1879 iron building. Do not copy later iron roof."
+    }
+  ],
+  "not_retried": [
+    {
+      "url": "https://washingtongrovemd.gov/history-features/sheltering-the-faithful-at-camp-meeting/",
+      "access": "Read through web in preceding goal turn; direct download returned 403. No retry or local HTML claimed.",
+      "scope": "Eastern camp-meeting shelter context only."
+    }
+  ]
+}

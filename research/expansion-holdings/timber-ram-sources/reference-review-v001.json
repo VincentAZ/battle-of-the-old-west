@@ -1,0 +1,25 @@
+{
+  "status": "references_actually_inspected_before_authoring",
+  "actually_viewed": [
+    {
+      "file": "Stevens-1904-ram-page.png",
+      "pages": "printed 88 / PDF 118",
+      "observation": "Original scan attributes a recollection to Mr. Rickey: in 1879 a handy tree trunk was used by several people to force a burning jail’s door and rescue a prisoner.",
+      "limits": "Retrospective recollection published in 1904; no drawing, species, measurements, handles or frame. Do not reproduce people, attributed arson allegation or hostile period language."
+    },
+    {
+      "file": "USDA-Ponderosa-plates.png",
+      "pages": "printed 4–5 / PDF 6",
+      "observation": "Actually viewed colour trunk photographs and description: orange/cinnamon flaky bark with irregular plates and dark fissures; lower trunk relatively free of branches.",
+      "limits": "Modern material analogue, not the original ram. Original tree species unknown."
+    },
+    {
+      "file": "USDA-Ponderosa-colour.png",
+      "pages": "printed/PDF 5",
+      "observation": "Read heartwood yellowish to light reddish/orange brown; sapwood near white/pale yellow.",
+      "limits": "Material hues, not measured historical RGB."
+    }
+  ],
+  "additional_read": "USDA Silvics distribution explicitly includes mountains of Washington. County history title-page OCR identifies Western Historical Publishing Company, 1904.",
+  "excluded": "Calaveras use remains occurrence-only and is not used to justify a wheeled or suspended ram."
+}

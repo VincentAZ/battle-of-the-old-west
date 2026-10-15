@@ -1,0 +1,469 @@
+[
+  {
+    "slug": "quanah-parker",
+    "identity_type": "real_person",
+    "historical_basis": "Quanah was a Comanche leader; the model chooses the 1870s before his later public life as a rancher and political intermediary.",
+    "history_lesson": "Quanah Parker brought his remaining Comanche followers to Fort Sill in 1875. He later negotiated reservation life and developed cattle-ranching interests; his career spans resistance and adaptation.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/people/quanah-parker.htm",
+        "title": "NPS: Quanah Parker",
+        "supports": "Comanche identity, 1875 surrender and subsequent ranching/leadership."
+      },
+      {
+        "url": "https://npg.si.edu/object/npg_NPG.96.178",
+        "title": "Smithsonian National Portrait Gallery: Quanah Parker, 1890",
+        "supports": "A dated later portrait documents likeness context; it does not prove the model’s earlier red-shirt ensemble."
+      }
+    ],
+    "issues": [
+      "Current plain red trade shirt, leggings and braids are a reconstruction, not a verified 1870s outfit worn by Quanah.",
+      "A later portrait cannot establish exact youthful face, colors or every garment. Separate tribal review remains required."
+    ],
+    "decision": "retain",
+    "revision_brief": "Preserve the previously approved identity and mesh; attach sourced history and keep costume interpretation/tribal-review caveat. Do not certify exact reconstruction.",
+    "date_scope": "1870s; later biography identified separately",
+    "location_scope": "Comanche homelands and Fort Sill, Indian Territory",
+    "mesh_observation": "Braided hair, plain clay-red shirt and tan leggings; no generic warbonnet or regalia. Simplified leggings need tribal clothing review.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "railroad-saboteur",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "A fictional rail outlaw; documented explosives damage at the Wilcox train robbery supports a late-1890s Wyoming setting. Chinese railroad labor is documented but is not evidence of this invented sabotage role.",
+    "history_lesson": "This is a fictional rail outlaw, not a named robber. In June 1899, robbers at Wilcox, Wyoming, damaged a train’s express car with explosives; the incident brought a major pursuit.",
+    "sources": [
+      {
+        "url": "https://www.wyohistory.org/encyclopedia/outlaw-and-his-lawyer-butch-cassidy-and-douglas-preston",
+        "title": "Wyoming Historical Society: The Outlaw and His Lawyer",
+        "supports": "Wilcox robbery on June 2, 1899 and destruction of the express car; contextualizes the fictional role, not a specific likeness."
+      },
+      {
+        "url": "https://home.nps.gov/gosp/learn/historyculture/chinese-labor-and-the-iron-road.htm",
+        "title": "NPS: Chinese Labor and the Iron Road",
+        "supports": "Chinese construction workers and their June 1867 strike; does not support depicting a Chinese saboteur."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      },
+      {
+        "url": "https://ticcih.org/wp-content/uploads/2021/01/TICCIH-Bulletin-91-FINAL.pdf",
+        "title": "TICCIH Bulletin 91: The Rise of the Denim Work Jacket, Z. P. Liollio",
+        "supports": "Industrial-heritage research illustrates a circa-1870 work blouse and 1860s portrait; cotton work outerwear predates this 1899 character. Does not authenticate every seam of the generated jacket."
+      }
+    ],
+    "issues": [
+      "Current brief explicitly invents a Chinese American saboteur without evidence tying that demographic choice to this role. This is a missing basis, not proof Chinese people could never occupy such a role.",
+      "Changing ethnicity alone would not establish accuracy. Date and geography must match the documented rail-outlaw context.",
+      "Loose exposed blasting sticks on belt are a game convention, not documented everyday railroad-worker dress."
+    ],
+    "decision": "revise",
+    "revision_brief": "New distinct fictional white male rail outlaw, Wyoming 1899, about 45, long narrow face and reddish sideburns; low navy cloth work cap, faded blue cotton sack jacket, cream collarless shirt, narrow rust neckerchief, gray wool trousers, lace-up leather boots. Closed brown canvas tool satchel; no visible explosive bundle, fuses or machinery. Colors and individual face are clearly fictional reconstruction.",
+    "date_scope": "1899",
+    "location_scope": "Wyoming, United States",
+    "mesh_observation": "Actual mesh shows narrow dark-moustached man in blue work cap/jacket, gray trousers and belt pouches; this is the requested demographic/role correction, not a mesh-quality defect.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "regulator",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "A fictional member of the armed faction known as the Regulators in the Lincoln County War; not Billy the Kid or another named member.",
+    "history_lesson": "In 1878, followers of John Tunstall and Alexander McSween became the Regulators after Tunstall’s murder. Rival factions claimed legal authority while escalating the Lincoln County War.",
+    "sources": [
+      {
+        "url": "https://nmhistoricsites.org/fort-stanton/the-apache-and-lincoln-county-wars-1870-1896",
+        "title": "New Mexico Historic Sites: Apache and Lincoln County Wars",
+        "supports": "1878 Regulator faction, deputization and opposing commercial interests."
+      },
+      {
+        "url": "https://www.nps.gov/pisp/learn/photosmultimedia/cowboy-gear.htm",
+        "title": "NPS: Cowboy Gear",
+        "supports": "Functional felt hats, kerchiefs, leather riding equipment; individual colors and cuts remain reconstruction."
+      }
+    ],
+    "issues": [
+      "Role title must not imply neutral or universally lawful policing.",
+      "Hat, kerchief, jacket and chaps are plausible civilian ranch clothing, not a documented Regulator uniform."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain fictional male; label 1878 Lincoln County faction and reconstructed clothing.",
+    "date_scope": "1878",
+    "location_scope": "Lincoln County, New Mexico Territory",
+    "mesh_observation": "Broad male face, weathered hat/jacket/kerchief, leather riding protection and holstered revolver; no false uniform badge.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "revival-sister",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Women preached and organized evangelical missions. Salvation Army women entered the US in 1880 and the movement reached California in 1883; this figure is not a portrait or uniformed member.",
+    "history_lesson": "This fictional revival organizer reflects documented women’s religious leadership. Seven women accompanied the Salvation Army’s official US mission in 1880, and its work reached California in 1883.",
+    "sources": [
+      {
+        "url": "https://ctri.salvationarmy.org/usn/news/an-enduring-commitment",
+        "title": "Salvation Army: An Enduring Commitment",
+        "supports": "Seven women and one man arrived in New York on March 10, 1880."
+      },
+      {
+        "url": "https://southernusa.salvationarmy.org/santaclara/news/history-of-the-salvation-army",
+        "title": "Salvation Army: History",
+        "supports": "1883 California expansion."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      }
+    ],
+    "issues": [
+      "Date western setting 1883 or later if using Salvation Army as local precedent; its 1880 arrival was in New York.",
+      "Fictional game cult/sacrifice mechanics must not be represented as historical behavior of these religious women.",
+      "Dress is a plausible plain ensemble, not a Salvation Army uniform; face, age and color are invented."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain supported female archetype with 1883–1890s western date and explicit fictional status; do not identify her as a named officer or claim an exact uniform.",
+    "date_scope": "1883–1890s",
+    "location_scope": "Western United States, with documented California precedent",
+    "mesh_observation": "Older woman in high-necked dark-plum long dress, gray braided hair and book, broadly plausible plain civilian clothing.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "ringleader",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "A fictional male trail-outfit organizer grounded in documented cattle-crew management, not a named person or claim about a historical gang leader.",
+    "history_lesson": "This fictional organizer reflects the practical work of assembling and managing cattle crews. Thomas Hooban’s 1880–81 ranch ledger records workers’ wages, cattle and supplies.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/common/uploads/teachers/lessonplans/CSI%20Teachers%20Background.pdf",
+        "title": "NPS Grant-Kohrs Ranch: Cowboy Scene Investigation",
+        "supports": "Thomas Hooban’s 1880–81 ledger records cattle operations, crew wages and purchases, supporting trail-crew organization and recordkeeping."
+      },
+      {
+        "url": "https://www.nps.gov/pisp/learn/photosmultimedia/cowboy-gear.htm",
+        "title": "NPS: Cowboy Gear",
+        "supports": "Functional felt hats, kerchiefs, leather riding equipment; individual colors and cuts remain reconstruction."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      },
+      {
+        "url": "https://www.thehenryford.org/collections/explore/artifact/340153",
+        "title": "The Henry Ford: Men’s Suit, circa 1880",
+        "supports": "Surviving wool suit provides additional period tailoring context; generated color and face remain fictional."
+      }
+    ],
+    "issues": [
+      "Current female armed recruiter/ringleader has no identified specific historical basis; this does not establish that women never led groups.",
+      "Recruitment combat powers and stockwhip are game characterization, not biographical evidence."
+    ],
+    "decision": "revise",
+    "revision_brief": "Fictional white male cattle-outfit organizer around 1881, age 42, broad square face, cropped sandy hair and thick blond moustache. Muted tan short sack coat, charcoal wool waistcoat, cream work shirt, red neckerchief, brown wool trousers and plain leather riding boots. Low-crowned brown felt hat, folded paper roster tucked securely in waistcoat. No whip, giant buckle, badge or weapon. Keep a broad stocky silhouette distinct from other men.",
+    "date_scope": "1880–1881",
+    "location_scope": "Montana cattle country",
+    "mesh_observation": "Current actual mesh is a slim woman in tan jacket, neckerchief, trousers and riding boots; replacement should preserve useful palette but establish distinct male head/build.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "rustler",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Fictional cattle thief in the late nineteenth-century range economy. The record distinguishes actual theft from accusations used by powerful cattlemen against competitors.",
+    "history_lesson": "This is a fictional cattle thief. In 1880s–1890s Wyoming, disputes over unbranded cattle and accusations of rustling helped drive conflict; an accusation did not itself prove theft.",
+    "sources": [
+      {
+        "url": "https://wyohistory.org/encyclopedia/johnson-county-war-1892-invasion-northern-wyoming",
+        "title": "Wyoming Historical Society: The Johnson County War",
+        "supports": "Contested rustling accusations and power struggles among large cattlemen and smaller operators."
+      },
+      {
+        "url": "https://www.nps.gov/pisp/learn/photosmultimedia/cowboy-gear.htm",
+        "title": "NPS: Cowboy Gear",
+        "supports": "Functional felt hats, kerchiefs, leather riding equipment; individual colors and cuts remain reconstruction."
+      }
+    ],
+    "issues": [
+      "Prompt says medium-brown skin, not a named race or ethnicity; skin tone alone cannot establish identity.",
+      "Costume is civilian reconstruction, not proof of criminal conduct."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain generic fictional man and plausible ranch clothing; do not infer ethnicity from a rendered tan or claim all rustlers had one ethnicity.",
+    "date_scope": "1880s–1890s",
+    "location_scope": "Wyoming range country",
+    "mesh_observation": "Adult moustached/stubbled man with brown jacket, dark shirt, kerchief and riding trousers; no distinctive cultural claim visible.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "sarah-winnemucca",
+    "identity_type": "real_person",
+    "historical_basis": "Northern Paiute interpreter, educator and activist; current model depicts a provisional late-1870s travel ensemble rather than her later staged lecture costume.",
+    "history_lesson": "Sarah Winnemucca worked as an interpreter and advocate for Northern Paiute people. After the 1878 Bannock War, Paiutes were forcibly removed from Malheur to Yakama; she campaigned for their return and rights.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/people/sarah-winnemucca.htm",
+        "title": "NPS: Sarah Winnemucca",
+        "supports": "Northern Paiute identity, interpretation and advocacy; explains that the 1883 lecture costume was a nontraditional stage presentation."
+      }
+    ],
+    "issues": [
+      "Indigo bodice, brown skirt and satchel are interpreted travel clothing; the source does not verify every garment or its color.",
+      "Keep Native identity and separate tribal review; do not replace with white male."
+    ],
+    "decision": "retain",
+    "revision_brief": "Preserve approved Sarah mesh and attach accurate late-1870s context; keep interpretation and tribal-review caveats.",
+    "date_scope": "Late 1870s",
+    "location_scope": "Nevada, Oregon and Washington Territory",
+    "mesh_observation": "Model uses high-necked indigo bodice, long skirt and document satchel; no princess-stage dress, generic feathers or warbonnet.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "sharpshooter",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Fictional civilian marksman in the age of metallic-cartridge sporting rifles. Smithsonian holds a Sharps Model 1874 sporting rifle; this is equipment-era context, not identification of the exact rendered gun.",
+    "history_lesson": "Sharps sporting rifles were used for hunting and competitive shooting in the nineteenth century. The company’s 1879 catalog offered several iron-sight options, including open, globe and vernier sights. This marksman is fictional; his rifle is an interpretation of that documented equipment.",
+    "sources": [
+      {
+        "url": "https://www.americanhistory.si.edu/collections/object/nmah_1253086",
+        "title": "Smithsonian: Sharps Model 1874 Falling Block Centerfire Sporting Rifle",
+        "supports": "Surviving rifle dated circa 1875, with an overall length of 115.57 cm. Supports rifle type and scale, not ownership by this fictional character."
+      },
+      {
+        "url": "https://centerofthewest.org/2016/07/14/sharps/",
+        "title": "Cody Firearms Museum: The Sharps Legacy",
+        "supports": "Museum discussion of Sharps sporting rifles and the 1879 catalog’s open, globe, vernier and peep sights. Supports period sight options; it does not establish the rejected short brass telescope."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "National Park Service: Gilded Age Fashion",
+        "supports": "General late nineteenth-century male coats, waistcoats and trousers; specific person, color palette and ensemble are reconstructed."
+      }
+    ],
+    "issues": [
+      "Rendered short brass sight is not verified against an identified period optic; avoid describing weapon as an exact museum reproduction.",
+      "Long coat, color and face are fictional; the firearm needs artifact-level sight confirmation before strict historical art lock."
+    ],
+    "decision": "revise",
+    "revision_brief": "Root owns v003 refinement: replace unsourced brass optical tube and oversized rifle with artifact-grounded Model 1874-style sporting rifle, about 115.57 cm overall, with plain documented period iron sights. Keep distinct fictional marksman identity; inspect actual generated equipment.",
+    "date_scope": "Late 1870s–1880s",
+    "location_scope": "Western United States",
+    "mesh_observation": "Long tobacco coat, hat and slung wood-stock single-shot-style rifle. Scope is simplified and disproportionately short; no claim of exact type is warranted.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval.",
+    "revision_outcome": "Completed static v003 revision; see its historical-review.json and current mesh views. Original audit observations remain recorded below."
+  },
+  {
+    "slug": "tom-horn",
+    "identity_type": "real_person",
+    "historical_basis": "Tom Horn worked in livestock and army-support roles before becoming a detective; current mature stock-detective portrayal is explicitly about 1895.",
+    "history_lesson": "Tom Horn worked as a freighter, cowboy and army scout before detective work. He joined the Pinkerton agency around 1890 and later worked for Wyoming cattle interests; the figure represents that later period.",
+    "sources": [
+      {
+        "url": "https://wyohistory.org/blog/tom-horn-artifacts-wyoming-state-museum",
+        "title": "Wyoming State Historical Society: Tom Horn Artifacts at the Wyoming State Museum",
+        "supports": "Earlier occupations, 1880s army service, Pinkerton work circa 1890 and Wyoming stock-detective employment from the 1890s."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      }
+    ],
+    "issues": [
+      "Cannot represent a mature Wyoming stock detective in 1880; current brief correctly chooses about 1895.",
+      "Exact birth year varies among sources; avoid unnecessary precise age assertions.",
+      "Civilian suit and moustache are plausible but not an exact photographed ensemble; game assassination power is not proof of any specific killing."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain with visible date about 1895; preserve identity, avoid transferring later activities into 1880.",
+    "date_scope": "About 1895",
+    "location_scope": "Wyoming",
+    "mesh_observation": "Mature moustached man in brown civilian jacket/waistcoat, necktie and hat. Clothing reads late-nineteenth-century civilian rather than uniform.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "town-avenger",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Fictional town resident engaged in personal/extralegal retaliation; Montana’s documented vigilantism supplies context, not proof of a specific righteous avenger.",
+    "history_lesson": "This is a fictional avenger, not a documented hero. Western vigilante groups sometimes imposed punishments outside courts; their actions could include coercion and murder as well as claims of protecting communities.",
+    "sources": [
+      {
+        "url": "https://mhs.mt.gov/education/StoriesOfTheLand/Part2/Chapter6/Ch6Educators/vigilantes",
+        "title": "Montana Historical Society: Vigilantes and Vigilantism",
+        "supports": "Self-appointed groups used extralegal trials, killings and banishment; motives and legitimacy remain contested."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      },
+      {
+        "url": "https://collections.lacma.org/object/4243",
+        "title": "LACMA: Routzahn & Gilkey, Man’s Suit, 1885–1895",
+        "supports": "Surviving Los Angeles wool frock coat, waistcoat and trousers; comparative construction context, not an exact color or tailoring copy."
+      }
+    ],
+    "issues": [
+      "Current invented armed female avenger has no identified specific supporting case; lack of a source does not establish impossibility.",
+      "Avoid portraying vengeance as normal lawful policing or describing a fictional biography as fact."
+    ],
+    "decision": "revise",
+    "revision_brief": "Fictional older white male town avenger, Montana 1880s, age 58, tall spare frame, clean-shaven long lined face, close-cropped silver hair. Gray felt hat, worn muted burgundy knee-length wool frock coat, mustard waistcoat, cream collared shirt with small dark necktie, olive-gray wool trousers over plain black ankle boots. Single closed holster on conventional belt; no badge, caped fantasy duster or tactical accessories.",
+    "date_scope": "1880s",
+    "location_scope": "Montana Territory",
+    "mesh_observation": "Current mesh depicts silver-haired woman in burgundy coat, mustard shirt and tall boots. Preserve color distinction while grounding replacement coat/shirt/trouser ensemble.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "trail-organizer",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Black women demonstrably organized frontier communities. Jenny Fletcher taught at Nicodemus in winter 1877–78, helped found its AME church in 1879, and organized events; current figure is an older fictional composite, not Fletcher.",
+    "history_lesson": "This fictional community organizer reflects a documented role for Black women in the West. Jenny Fletcher helped build Nicodemus, Kansas, teaching its first school and participating in its AME congregation from 1879.",
+    "sources": [
+      {
+        "url": "https://home.nps.gov/people/jenny-fletcher.htm",
+        "title": "NPS: Jenny Fletcher",
+        "supports": "1877 arrival, 1877–78 school, 1879 AME church and community organization. Undated portrait provides high-necked civilian dress context, not exact model clothing."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      }
+    ],
+    "issues": [
+      "Do not rename this 50-year-old figure Jenny Fletcher: Fletcher was born around 1854 and was in her twenties during the settlement’s founding.",
+      "Game recruitment function is fictional; community organization is supported, not armed posse leadership.",
+      "Waistcoat, striped blouse, glasses and ledger are interpreted details rather than documented Fletcher possessions."
+    ],
+    "decision": "retain",
+    "revision_brief": "Preserve supported fictional Black female community-organizer archetype; identify Nicodemus evidence and separate it from the imagined person, age and outfit.",
+    "date_scope": "Late 1870s–1890s",
+    "location_scope": "Kansas frontier community context",
+    "mesh_observation": "Actual mesh shows older Black woman, spectacles, bun, restrained waistcoat/shirt, long skirt and ledger. It reads civilian organization, not an armed gang leader.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "vigilante",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Fictional male participant in a self-appointed vigilante group; no claim to be an identified member.",
+    "history_lesson": "This fictional vigilante represents extralegal frontier organization. Montana vigilante committees acted outside ordinary courts, with punishment that included banishment and killing; their claimed motives remain debated.",
+    "sources": [
+      {
+        "url": "https://mhs.mt.gov/education/StoriesOfTheLand/Part2/Chapter6/Ch6Educators/vigilantes",
+        "title": "Montana Historical Society: Vigilantes and Vigilantism",
+        "supports": "Self-appointed groups used extralegal trials, killings and banishment; motives and legitimacy remain contested."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      },
+      {
+        "url": "https://www.thehenryford.org/collections/explore/artifact/340153",
+        "title": "The Henry Ford: Men’s Suit, circa 1880",
+        "supports": "Period civilian wool suiting context; not a vigilante uniform or exact replica."
+      }
+    ],
+    "issues": [
+      "Current invented armed female vigilante lacks an identified specific historical case for this portrayal; this is an evidence gap, not proof women were absent.",
+      "Vigilante is not interchangeable with sheriff, marshal or court-appointed deputy."
+    ],
+    "decision": "revise",
+    "revision_brief": "Fictional white male vigilante, Montana 1880s, age 48, lean angular face, receding dark hair and short iron-gray chin beard. Brown felt hat, navy cotton shirt, fitted brown wool waistcoat, charcoal straight wool trousers, worn plain ankle boots. Conventional gun belt with single closed holster; folded leather gloves secured at belt. No badge, skirt, modern gunfighter drop holster or oversized cartridge gear.",
+    "date_scope": "1880s",
+    "location_scope": "Montana Territory",
+    "mesh_observation": "Current mesh is middle-aged woman in navy blouse, brown waistcoat and divided long skirt. Replace identity while retaining the compact waistcoat silhouette distinct from Town Avenger’s long coat.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "widow-with-a-shotgun",
+    "identity_type": "fictional_archetype",
+    "historical_basis": "Fictional widowed homesteader, explicitly retained by user. Federal homesteading law admitted eligible women and provided widow inheritance; this does not document a specific shotgun incident.",
+    "history_lesson": "This is a fictional widowed homesteader. The Homestead Act of 1862 allowed eligible women to claim land and protected a widow’s rights when a claimant died; frontier landholding was not exclusively male.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/home/homestead-act-of-1862.htm",
+        "title": "NPS: Homestead Act of 1862, statutory text",
+        "supports": "Eligibility language and provisions for a widow/heirs; supports female homesteading, not a specific armed episode."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      }
+    ],
+    "issues": [
+      "Shotgun defense is fictional character context; no actual widow or incident is claimed.",
+      "Plain blouse/skirt/apron is interpreted work clothing; firearm fittings are simplified, not an identified museum shotgun."
+    ],
+    "decision": "retain",
+    "revision_brief": "Preserve the user-liked widow; attach fictional-archetype label and factual homestead-law lesson.",
+    "date_scope": "About 1880",
+    "location_scope": "Western United States homestead context",
+    "mesh_observation": "Older woman in charcoal high-necked blouse, long black skirt, gray apron, boots and slung double-barrel-style shotgun; ordinary workwear rather than theatrical costume.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "wild-bill-hickok",
+    "identity_type": "real_person",
+    "historical_basis": "James Butler Hickok was a Kansas lawman, scout and performer; the figure belongs to his early-1870s lifetime, not 1880.",
+    "history_lesson": "Wild Bill Hickok served as a lawman in Kansas cattle towns before his death in Deadwood in 1876. His reputation grew through performance and popular storytelling, so later legends should not be treated as eyewitness history.",
+    "sources": [
+      {
+        "url": "https://www.kansashistory.gov/kansapedia/james-b-wild-bill-hickok/16518",
+        "title": "Kansas Historical Society: James B. Wild Bill Hickok",
+        "supports": "Kansas lawman career and death at Deadwood in 1876."
+      },
+      {
+        "url": "https://www.kansashistory.gov/archives/474207",
+        "title": "Kansas Historical Society: James Butler Wild Bill Hickok portrait",
+        "supports": "Archival likeness, long hair and moustache; born 1837, died 1876. Does not establish an exact buckskin outfit or holster configuration."
+      }
+    ],
+    "issues": [
+      "Dead by 1880; use a dated legend roster rather than imply all figures coexisted.",
+      "Prompt’s late-thirties age better fits 1873–76 than circa 1870.",
+      "Fringed coat and twin revolvers are interpretive iconic cues; do not assert exact daily costume or every legendary duel."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain as circa 1873–1876, with death date explicit and iconic outfit caveat.",
+    "date_scope": "1873–1876",
+    "location_scope": "Kansas / Deadwood, Dakota Territory lifetime context",
+    "mesh_observation": "Long hair, drooping moustache, fringed tan coat and two holsters are recognizable; stylized face and costume are not certified portrait accuracy.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  },
+  {
+    "slug": "wyatt-earp",
+    "identity_type": "real_person",
+    "historical_basis": "Wyatt Earp was one of the Earp brothers involved in Tombstone’s 1881 gunfight; Virgil, not Wyatt, held the town marshal post then.",
+    "history_lesson": "Wyatt Earp took part in Tombstone’s October 26, 1881 gunfight alongside Virgil and Morgan Earp and Doc Holliday. Virgil was the town marshal; Wyatt’s role should not be inflated into sole lawman leadership.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/home/learn/historyculture/virgil-earp.htm",
+        "title": "NPS: Virgil Earp",
+        "supports": "Tombstone arrival in 1879, Virgil as marshal and brothers as part-time deputies; use only these supported facts."
+      },
+      {
+        "url": "https://azmemory.azlibrary.gov/nodes/view/164513",
+        "title": "Arizona State Library: Gunfight at the O.K. Corral",
+        "supports": "October 26, 1881 event and participants, archival context."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "NPS: Gilded Age Fashion",
+        "supports": "Period sack/frock coats and waistcoats; long high-necked dresses. General clothing context, not this exact costume."
+      }
+    ],
+    "issues": [
+      "Badge must read generic deputy context; do not claim Wyatt was Tombstone town marshal.",
+      "Charcoal frock coat, waistcoat, tie and moustache are plausible reconstruction, not a verified ensemble worn at the gunfight.",
+      "No Buntline Special legend or invented biography is needed."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain and explicitly date 1881; correct any text calling him Tombstone marshal.",
+    "date_scope": "1881",
+    "location_scope": "Tombstone, Arizona Territory",
+    "mesh_observation": "Tall moustached man in black hat, charcoal coat and waistcoat with small badge and holster; plausible civilian lawman interpretation.",
+    "audit_scope": "Current review-v002 selection, actual three-quarter mesh contact sheets 01–04 inspected; historical plausibility assessment, not an exact artifact reconstruction or user approval."
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "free-homestead": {
+    "subject": "Free Homestead",
+    "canonical_card_id": "free_homestead",
+    "identity_type": "historical_building_type",
+    "date_scope": "1868-1874",
+    "location_scope": "Southeastern Nebraska; a reconstructed homestead cabin based on the Palmer-Epard building type",
+    "documented_features": [
+      "Palmer built a 14-by-16-foot mixed-hardwood cabin in 1867. A rear lean-to was added only in 1875-1880 [S1].",
+      "The NPS account identifies homemade brick and lime mortar alongside hardwoods, and occupation from spring 1868 [S2].",
+      "Modern photographs show hewn horizontal logs, pale chinking, notched corners, a steep gable, brick-filled timber gable framing and small glazed windows. The 2024 restoration replaced damaged logs, so photographs are construction references, not untouched 1867 fabric [S3]."
+    ],
+    "documented_colors": [
+      "Brown to gray unpainted wood, red-brown brick and pale mortar are visible in the restoration photograph [S3]. Exact original colours are not measured; render natural materials at full strength, with green cultivated ground rather than invented paint."
+    ],
+    "render_brief": "A compact unoccupied Nebraska homestead cabin, representing 1868-1874 before a later rear addition. Rectangular 14-by-16-foot footprint, one principal room, irregular hewn horizontal hardwood logs with notched corners and broad pale chinking. A steep dark wooden shingle gable roof shelters a warm red-brown brick-and-timber gable infill. Give the long wall one plain plank entrance; small multi-pane glazed windows break the otherwise solid log walls, with a smaller loft window in the gable. Natural wood, cream mortar and red brick remain distinct in clear warm light. A narrow bare-earth approach meets green grass and the edge of a small cultivated patch. Complete all four walls. No porch, rear lean-to, modern concrete pad, paved path, utility lines, restoration equipment, signs, people or invented paint. This is a carefully disclosed reconstruction of a homestead type; the restored museum cabin informs construction but is not presented as an exact untouched 1868 appearance.",
+    "history_lesson": "George Palmer built his Nebraska cabin in 1867 and moved in with his family the next spring. A home and land improvements formed part of proving a homestead claim; the miniature reconstructs this dwelling type.",
+    "sources": [
+      {"url": "https://www.nps.gov/home/planyourvisit/p-ecabin.htm", "title": "NPS — Palmer-Epard Cabin", "supports": "Construction date, dimensions, mixed hardwoods, later lean-to, and repeated twentieth-century relocation and rehabilitation. Modern fog photograph supports overall silhouette only."},
+      {"url": "https://www.nps.gov/media/video/view.htm?id=9BC4DD0C-8E8F-434C-A9D4-73D0B11AFCB9", "title": "NPS — Brief History of the Palmer-Epard Cabin, transcript", "supports": "Homemade brick in lime mortar, hardwood species, occupation in 1868, cultivation and improvements involved in proving the claim. Does not specify each opening or gable's original arrangement."},
+      {"url": "https://www.nps.gov/home/learn/news/restored-historic-palmer-epard-cabin-reopens-to-the-public.htm", "title": "NPS — Palmer-Epard restoration, December 19, 2024", "supports": "Restoration used matching local logs and period-style tool marks. Attached colour photograph supports the current log, mortar, brick-gable and window forms; it also demonstrates that the visible building contains modern repairs."}
+    ],
+    "uncertainties": [
+      "Opening placement, original roof and gable details, chinking condition and landscaping are reconstruction informed by a repeatedly restored building. No claim of an exact 1868 replica.",
+      "The original foundation is not established here: conceal it at earth level rather than copying the modern concrete base.",
+      "The two NPS narratives differ on the precise May 1875 patent date; this brief makes no day-specific claim."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Viewed the actual NPS fog and 2024 restoration photos locally before authoring: /tmp/oldwest-free-homestead-reference.jpg and /tmp/oldwest-free-homestead-restoration.jpg. Modern workers, tools, hardscape and infrastructure are excluded."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-09T17:11:04.637871+00:00",
+  "results": [
+    {
+      "url": "https://archive.legmt.gov/content/Committees/Interim/2013-2014/EQC/Meetings/September-2013/MHC-structural-repair-report.pdf",
+      "final_url": "https://archive.legmt.gov/content/Committees/Interim/2013-2014/EQC/Meetings/September-2013/MHC-structural-repair-report.pdf",
+      "status": 200,
+      "bytes": 21546958,
+      "local": "research/expansion-holdings/vigilance-committee-sources/MHC-structural-repair-2013.pdf",
+      "sha256": "dce68adf9198ff9fe782ff9604f5c55f07e1a44667a74bb5bc3be2ec012c5edb"
+    },
+    {
+      "url": "https://mhs.mt.gov/education/StoriesOfTheLand/Part2/Chapter6/Ch6Educators/vigilantes",
+      "final_url": "https://mhs.mt.gov/education/StoriesOfTheLand/Part2/Chapter6/Ch6Educators/vigilantes",
+      "status": 200,
+      "bytes": 40124,
+      "local": "research/expansion-holdings/vigilance-committee-sources/MHS-Vigilantism.html",
+      "sha256": "da744ab18c7dc6858ad31a3ba45600b34475c714c989973d869d2a64ce19a3de"
+    },
+    {
+      "url": "https://ellenbaumler.blogspot.com/2014/06/mining-camp-architecture.html",
+      "final_url": "https://ellenbaumler.blogspot.com/2014/06/mining-camp-architecture.html",
+      "status": 200,
+      "bytes": 43250,
+      "local": "research/expansion-holdings/vigilance-committee-sources/Baumler-Mining-Camp-Architecture.html",
+      "sha256": "33b6d2e2780ff3e142ab7379680f9934563ed752197d3a744337aa6d5ada5ce5"
+    }
+  ]
+}

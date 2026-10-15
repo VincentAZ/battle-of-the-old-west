@@ -1,0 +1,17 @@
+{
+  "retrieved_at": "2026-10-09T18:13:28.916676+00:00",
+  "records": [
+    {
+      "file": "research/expansion-holdings/crimp-house-sources/Oregon-Skidmore-Old-Town-74001706.pdf",
+      "url": "https://heritagedata.prd.state.or.us/historic/index.cfm?do=main.loadFile&load=NR_Noms%2F74001706.pdf",
+      "status": 200,
+      "sha256": "f0683ce208450b471dc6a91db7ec2ff13a1b043de644f0bbb44d58ea2aa96380"
+    },
+    {
+      "file": "research/expansion-holdings/crimp-house-sources/NPS-Cast-Iron-27.pdf",
+      "url": "https://home.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf",
+      "status": 200,
+      "sha256": "c4f99da60e5e00b30035df5826ed2b5854f3d3ce213bbbdaf325d5f8a7f9ec0d"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "evidence": "research/western-presentation/bonus-whiskey.json",
+  "purpose": "Native material interpretation of colourless glass and reconstructed amber whiskey; no new historical colour claim.",
+  "revision": 2,
+  "clear_glass": {"linear_rgb": [0.95, 0.985, 0.98], "roughness": 0.08, "opacity": "0.6 times Fresnel(exponent4, base0.08)", "lighting": "surface per pixel", "two_sided": false},
+  "amber_liquid": {"linear_rgb": [0.22, 0.055, 0.002], "roughness": 0.12, "opacity": 0.72, "lighting": "surface per pixel", "two_sided": false},
+  "limits": "Game-scale translucent approximation, not spectral absorption or a claim of measured historical whiskey colour. Source render uses a refractive material; native appearance requires its own actual visual review."
+}

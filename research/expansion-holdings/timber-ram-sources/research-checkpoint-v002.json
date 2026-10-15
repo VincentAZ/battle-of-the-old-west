@@ -1,0 +1,14 @@
+{
+  "status": "plain_trunk_form_resolved_with_limits",
+  "selected_source": "Stevens-County-History-1904.pdf",
+  "claim": "Printed page 88 attributes a retrospective account of a handy tree trunk used as a ram during an 1879 rescue.",
+  "species": "Ponderosa pine is a disclosed regional reconstruction, not identified in the historical account.",
+  "construction": "Plain trunk only; no supported wheels, gantry, ropes, cap or handles.",
+  "reference_review_sha256": "287c39ebe99961ed56a1046d21a1a3e608cbc8c993cd13b0d4fa7cfc48c40caf",
+  "previous_checkpoint_preserved": "research-checkpoint-v001.json",
+  "unresolved": [
+    "Original species, dimensions and surface unknown.",
+    "Retrospective account, not contemporary measured documentation."
+  ],
+  "updated": "2026-10-09T16:27:01.386239+00:00"
+}

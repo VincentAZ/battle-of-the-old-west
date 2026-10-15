@@ -1,0 +1,41 @@
+{
+  "status": "research_in_progress_not_authoring_approval",
+  "updated": "2026-10-09T16:14:13.824443+00:00",
+  "read_sources": [
+    {
+      "url": "https://tile.loc.gov/storage-services/service/gdc/gdclccn/rc/01/00/15/33/rc01001533/rc01001533.pdf",
+      "title": "Albert D. Richardson, Western states and territories tour; title/catalogue transcription still to verify",
+      "access": "Web PDF text successfully opened and searched. Copyright page OCR says 1866; catalogue page returned 403. Direct PDF download returned 403; screenshots of title/page 52 returned cache miss. No local PDF or actual page image inspected.",
+      "location": "printed page 52 / zero-based PDF page 53",
+      "supports": "Period text reports a Calaveras Grove sequoia remained standing after cutting and was brought down with a wedge and battering ram.",
+      "limits": "Establishes a reported Western use, not the ram\u2019s dimensions, material details, frame, wheels, suspension, handles, iron cap or construction. Author\u2019s direct witnessing of the earlier event is not established. Unrelated obsolete scientific claims and prejudicial prose are not imported into game history."
+    }
+  ],
+  "unverified_leads": [
+    {
+      "url": "https://www.parks.ca.gov/pages/551/files/northgrove.pdf",
+      "status": "Search excerpt only; web open internal error.",
+      "lead": "Official guide describes Discovery Tree cutting in 1853 with pump augers and wedges. Excerpt supplies no ram construction."
+    },
+    {
+      "url": "https://cousinsam.blogspot.com/2012/04/stevens-county-ch-2-pt-1-pp-85-90.html",
+      "status": "Search excerpt only, not an accepted source.",
+      "lead": "Transcription attributes a 1879 jail-rescue account to Mr. Rickey, using a tree trunk as a ram. Find and inspect the original county history before using; do not copy unsourced names or hostile period characterizations."
+    },
+    {
+      "url": "https://environmentalhistory.org/about/events/mother-of-the-forest/",
+      "status": "Search excerpt only; not selected.",
+      "lead": "Mentions crude ram but appears to conflate the 1853 felled tree with Mother of the Forest. Resolve identity/date against primary or park records before use."
+    }
+  ],
+  "limits": [
+    "No asset has been rendered or brief marked complete.",
+    "Do not invent a wheeled medieval siege engine from an occurrence-only reference.",
+    "Six-person requirement and holding-destruction ability remain fictional mechanics, not historical operating specifications."
+  ],
+  "next": [
+    "Find a period account or image describing the Western ram\u2019s actual timber form. Prefer a plain documented beam/log if supported; remove unsupported distinctive hardware.",
+    "Verify full bibliographic title and publication date from an accessible catalogue or actual scan.",
+    "If construction remains unverified, preserve this checkpoint and continue another of the eight unmodeled holdings."
+  ]
+}

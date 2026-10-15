@@ -1,0 +1,19 @@
+{
+  "retrieved_at": "2026-10-09T17:43:23.068824+00:00",
+  "records": [
+    {
+      "url": "https://history.santacruzpl.org/omeka/files/original/bcc92636bf211e9be7f579b90628529d.jpg",
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-SCM072.jpg",
+      "sha256": "2b4849603f1e671996e5ba788c885e9e4ec0d21a130cb844c0d91864abe9fece",
+      "bytes": 71921,
+      "http_status": 200
+    },
+    {
+      "url": "https://history.santacruzpl.org/omeka/files/original/1abc891c5c6460e97d3e2429ec1a961e.PDF",
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071.pdf",
+      "sha256": "5d1f53687171b84025ce49151c2277f70d261eba8989d161fa7511dfeb308418",
+      "bytes": 43326042,
+      "http_status": 200
+    }
+  ]
+}

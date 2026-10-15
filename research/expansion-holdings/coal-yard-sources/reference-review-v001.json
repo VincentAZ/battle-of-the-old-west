@@ -1,0 +1,36 @@
+{
+  "status": "reviewed_before_modeling",
+  "source_records": {
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-sheet-3.jpg": "cb6f7a8ebe095979616bdd68cbe177af02e734c737565093e3bdd26822323bb0",
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-sheet-35.jpg": "d0d41fead87d7cd7e259d8387d407bb63d828f311db0992817f655d385dfcfd3",
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-title.jpg": "90678a778449d2cd35157597a196416edd4d4294c946c5d68be5735acbd7177e",
+    "research/expansion-holdings/coal-yard-sources/Jefferson-description.png": "a05422f5d115e65b7942fd34d9a94b06444c9b0bb86c09aa47b101e95ec06d57",
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-catalog.json": "1640c261aa785ff18e44be8b9609cbda7b9ac0885b7cad110af4dfebf7378a0b",
+    "research/expansion-holdings/coal-yard-sources/NYPL-Forks-G90F028_066ZF.jpg": "d0085b4c4fddf1dab0d87e9d8bc0059f159751f7f9308b5c04424def7efd7566",
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-sheet-36.jpg": "a99a8fbb0a4e1a8c3c954cdb689268228f99ec1f02e29b0266a4cccbb8e8f277",
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-sheet-34.jpg": "492b967751b095703b91eb3a0ef5d2accbf3537f98eb1e0a99a8da37f46426d8",
+    "research/expansion-holdings/coal-yard-sources/NPS-Jefferson-Depot.pdf": "303978680084ccacb8750266564bbe7008b172bf32ea0d82a1788a62540b0fb0",
+    "research/expansion-holdings/coal-yard-sources/Fort-Point-1878-inventory.png": "59f5db4e19913de08bfaf32a4de231626da2ee313a9a81c3c9f39964ce865bb9",
+    "research/expansion-holdings/coal-yard-sources/LOC-Denver-1887-sheet-1.jpg": "beba1e1fd4fbb1a13c425268b89a2955a5bf23b7a7c9147fbbcdbe575e4bb537",
+    "research/expansion-holdings/coal-yard-sources/NPS-Fort-Point-HSR-2006.pdf": "1d7335e242a959ae26c91316f2f68decf7fc76a597f73533f0e703b8d908954f",
+    "research/expansion-holdings/coal-yard-sources/NYPL-Forks-G90F028_067ZF.jpg": "c98479946264c285f8cc79e7bb0bf241972851339cf0dec42b914c4afbe5ce26",
+    "research/expansion-holdings/coal-yard-sources/FRASER-Chronicle-1889-12-28.html": "c012e9629b36914d3c813424aa0c92a37971db6ff830eef23c6fcdfc581d2697"
+  },
+  "observations": {
+    "completed": true,
+    "actual_images_inspected": [
+      "LOC title and sheets 1,3,34,35,36",
+      "NYPL G90F028_066ZF and 067ZF",
+      "NPS Jefferson PDF page 3",
+      "NPS Fort Point PDF page 37 / printed 38"
+    ],
+    "observations": "Sheet 36 directly labels coal yards at the railway. NPS pages verify construction analogues. NYPL pictures are depot views and are explicitly not accepted as coal-shed elevation evidence."
+  },
+  "rejected_or_unverified_leads": [
+    "DPL X-11622 legacy URL returns 404; image not inspected.",
+    "HMDB Forks Creek marker photograph could not be retrieved.",
+    "Blog Denver terminal plans are secondary leads; not copied or used as geometry.",
+    "LOC sheet 2 request timed out; no image inspected.",
+    "NYPL t=g download returned 404; t=w copies are preserved."
+  ]
+}

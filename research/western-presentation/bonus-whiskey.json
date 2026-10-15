@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-08",
+  "asset": "SM_Action_BonusWhiskeyGlass",
+  "scope": "Presentation-only bonus resource token; no consumption, new rules or persistent bonus counter.",
+  "date_location": "United States, 1868-1884; bar glassware sold nationally, with Western saloon context from Virginia City, Nevada.",
+  "sources": [
+    {"title": "McKee & Brothers, Prices of Glass Ware, Pittsburgh, 1868", "url": "https://archive.org/details/pricesofglasswar00mcke", "claim": "BAR TUMBLERS lists a pressed gill Plain Bar and both rough and ground bottoms. This supports a small plain pressed tumbler, without embossed branding or invented decoration.", "consulted": "Downloaded catalogue OCR, BAR TUMBLERS section. Exact profiles and dimensions are not supplied by this text."},
+    {"title": "Albert Barnes, The Complete Bartender, 1884", "url": "https://archive.org/details/completebartende00barn", "claim": "Straight whiskey uses a small bar glass; established in whiskey-kit-evidence.json S11. This is use context, not evidence for the exact reconstructed profile."},
+    {"title": "Smithsonian NMAH, glass, whiskey, CE.389177", "url": "https://americanhistory.si.edu/collections/object/nmah_587823", "claim": "Colorless transparent US tumbler, 7.14375 cm high by 6.35 cm wide. UNDATED and mold-blown: used only for plausible proportions, not to date this object or authenticate a McKee pressed profile.", "consulted": "Museum metadata retrieved in search; direct page/photo requests returned access errors. No photograph claimed reviewed."}
+  ],
+  "related_evidence": "art/action_props/whiskey-kit-evidence.json: glass, S5/S6 Virginia City, S11, S15, S16",
+  "render_brief": {
+    "form": "Plain, slightly flared hollow tumbler, smoothly rounded lip, thick closed transparent base. No stem, handle, cuts, flutes, modern logo, printed graduations or invented brand.",
+    "size_cm": [6.3, 6.3, 7.1],
+    "reconstruction": "Precise profile, wall thickness, 1.4 cm inner floor height, fill level and numeric colour values are reconstructions. Nominal gill size is period terminology, not a claim of a calibrated modern measure.",
+    "colour": "Colourless transparent glass, warm full-colour amber liquid at roughly one-third of the inner height. Amber is an interpretation supported by the existing period whiskey-colouring research; no colourimetry claim.",
+    "presentation": "Enlarged 4.5x as a readable currency game piece, resting on an existing sourced whiskey barrel at the supply line. Enlargement is game convention, not historical scale. No character drinks or holds it.",
+    "native_guard": "Any source or recipient with a public Native visual uses the existing plain-crate supply scene and neutral caption instead. Never read hidden identity."
+  },
+  "history_lines": [
+    "McKee's 1868 list sold small plain bar tumblers.",
+    "An 1884 bar manual used a small glass for whiskey.",
+    "This plain profile and amber fill are reconstructed."
+  ],
+  "implementation": {
+    "trigger": "Existing public water event with empty detail; numeric-detail turn refill remains the ordinary delivery.",
+    "mechanics": "No modification to Core, canonical counts, commands, logs, saves or network state.",
+    "remaining": "Authoring, actual source render review, native integration/history access and legal-action runtime verification."
+  }
+}

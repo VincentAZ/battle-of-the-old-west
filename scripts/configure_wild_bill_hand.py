@@ -1,0 +1,5 @@
+"""Bind Wild Bill Hickok's right hand coherently without altering approved appearance."""
+import json
+from pathlib import Path
+root=Path(__file__).resolve().parents[1];out=root/'art/western/crew/playable-v001/wild-bill-hickok';c=json.loads((out/'components.json').read_text());p=out/'rig-settings.json';s=json.loads(p.read_text()) if p.exists() else {};ids=[55,75,93,95,96,102,104,109,116,141];indices=sorted({i for n in ids for i in c['components'][n]['indices']});s['source_geometry_uv_sha256']=c['geometry_uv_sha256'];s['rigid_regions']=[dict(name='FreeHand',parent='RightHand',vertex_indices=indices)];s['freeze_bones']=['FreeHand'];s['motion_constraints']=[dict(type='preserve_bind_local_transform',bones=['FreeHand'],reason='Right hand retains approved finger shape while following animated RightHand.')];s['hand_mask_provenance']=dict(component_ids=ids,notes=['Ten complete palm/finger UV islands; torso/arm and skirt geometry preserved.'])
+p.write_text(json.dumps(s,indent=2)+'\n');print(len(indices))

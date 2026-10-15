@@ -1,0 +1,38 @@
+{
+  "recorded": "2026-10-08",
+  "status": "research_incomplete_not_generation_evidence",
+  "canonical_card_id": "wanted_poster_board",
+  "subject": "Wanted Poster Board",
+  "findings": [
+    "The State Historical Society of Missouri catalogs Thomas Theodore Crittenden’s 1881 proclamation offering rewards for the arrest of Frank and Jesse James (C2875). The linked broadside was actually viewed.",
+    "The actual broadside is typographic: a large condensed heading, contrasting display type, horizontal rules and smaller paragraphs. It contains no portrait, no decorative gun border and no dead-or-alive slogan. Preserve this distinction from modern souvenir posters.",
+    "The photograph shows age-darkened paper; that is not evidence that newly printed 1881 stock had this yellow colour. A future period reconstruction should distinguish paper/ink from later damage and aging.",
+    "The proclamation supports a reward-notice object, but does not establish the design of a freestanding Western notice board. Board construction and period posting context remain unsourced; no completed render brief or asset is claimed.",
+    "Any future reveal effect must wait for authoritative public reveal. A private Wanted Poster Board peek must not change a face-down model, public poster, portrait or History identity. The generic holding scene must not imply that every revealed historical crew member was wanted as a criminal."
+  ],
+  "sources": [
+    {
+      "url": "https://collections.shsmo.org/manuscripts/columbia/c2875",
+      "role": "Primary-object catalog and 1881 date."
+    },
+    {
+      "url": "https://historicmissourians.shsmo.org/jesse-james/",
+      "role": "State Historical Society contextual essay and link to the actual proclamation; use arrest/reward wording from the object rather than assuming the section heading describes its text."
+    },
+    {
+      "url": "https://historicmissourians.shsmo.org/wp-content/uploads/2020/12/proclamation_lg.jpg",
+      "role": "Actually viewed colour photograph of the surviving broadside; typography only, no board depicted."
+    }
+  ],
+  "inspected_image": {
+    "path": "/tmp/oldwest-crittenden-proclamation-1881.jpg",
+    "sha256": "85d503fc99356441d0aa475884cd310454a1d30aa209cf30998d74a2c84aefa8"
+  },
+  "next_evidence_needed": "A documented nineteenth-century American posting surface/board with visible construction; then compose a conservative reconstruction with explicit limits. No art generation or reveal code change was made.",
+  "followup_2026_10_08": {
+    "brief": "research/expansion-holdings/eighth-batch.json",
+    "construction_evidence": "1871 New York Clipper account, transcribed by the Circus Historical Society: lumber boards erected by carpenters, bills pasted onto them.",
+    "interpretation": "A compact two-post stand is explicitly reconstructed, not a discovered photograph or exact replica. Prior findings above record the earlier research state.",
+    "retained_reference": "art/western/holdings/expansion-review-v001/wanted-poster-board/source-references/crittenden-proclamation-1881.jpg"
+  }
+}

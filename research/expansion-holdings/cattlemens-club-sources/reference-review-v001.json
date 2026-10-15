@@ -1,0 +1,55 @@
+{
+  "status": "research_in_progress_no_model_authorized_by_this_record",
+  "actually_viewed": [
+    {
+      "file": "UW-AHC-Cheyenne-Club-1884.jpg",
+      "sha256": "a4980174942c825a6a9afeb42cc7011d721334994dd167dd281b0ef29e940b68",
+      "caption": "University caption dates photograph to 1884; reproduced in American Cattle Producer, July 1947, Benjamin F. Davis papers, Box 9, UW American Heritage Center.",
+      "observed": [
+        "Long elevated porch across front and around right side, broad front steps and narrower side steps.",
+        "Single main wall storey below a steep mansard roof with four front dormers; a taller central square tower has paired narrow windows and its own mansard cap with a front dormer.",
+        "Bracketed eaves, tall chimneys, sash windows and diagonal braces at porch posts.",
+        "Unpaved foreground; rocking chairs present but not yet a proposed model feature."
+      ],
+      "limits": [
+        "Monochrome print reproduction does not establish colours, exact materials, dimensions, rear elevation or detailed joinery.",
+        "Do not infer a roof material solely from the dark printed tone.",
+        "No people to copy or invent."
+      ]
+    }
+  ],
+  "sources_read": [
+    {
+      "file": "UW-AHC-Cheyenne-Club.html",
+      "supports": "Cattlemen founded a social club in 1880 with dining, reading, billiard and lodging spaces; establishes institution and function."
+    },
+    {
+      "file": "WyoHistory-Cattle-Boom.html",
+      "supports": "Wyoming cattle-boom context and club mansard roof."
+    },
+    {
+      "file": "PHMC-Second-Empire.html",
+      "supports": "Period Second Empire forms: mansard, dormers, brackets, tower and porch."
+    },
+    {
+      "file": "NPS-Preservation-Brief-29.pdf",
+      "supports": "Late nineteenth-century slate distribution, roofs with staggered joints, patterned/coloured slates suitable for Second Empire mansards. Natural slate colours include blue-grey, green, purple and red.",
+      "limits": "Period material/type analogue; not proof of Cheyenne Club’s exact covering or colours."
+    }
+  ],
+  "rejected_or_unavailable": [
+    {
+      "url": "https://www.plancheyenne.org/wp-content/uploads/2020/08/PlanCheyenne-County-Version-April-2014-Final-Clean.pdf",
+      "status": "HTTP 403; no local PDF, no retry or access workaround."
+    },
+    {
+      "item": "Cheyenne Club, 1617 Capitol Avenue, 1982, in modern district inventory",
+      "status": "Different later property; excluded as a reference for the 1880 institution."
+    }
+  ],
+  "date_uncertainty": "Sources variously describe establishment/opening/building in 1880 or 1881. Use the 1884 photograph for visible form and an 1880s fictional setting, without claiming an exact completion date.",
+  "next": [
+    "Finish regional masonry/material evidence and document palette limits.",
+    "Save historical evidence, History note and complete pre-modeling brief before authoring."
+  ]
+}

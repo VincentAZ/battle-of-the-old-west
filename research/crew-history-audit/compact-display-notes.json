@@ -1,0 +1,375 @@
+{
+  "schema_version": 1,
+  "purpose": "Authored three-line in-game summaries. Full lessons and source attribution remain in the history audit, gallery, and generated source tooltip.",
+  "maximum_utf8_bytes_per_line": 52,
+  "notes": {
+    "annie-oakley": {
+      "lines": [
+        "Oakley joined Buffalo Bill's Wild West in 1885.",
+        "Her marksmanship was a professional exhibition.",
+        "Stage dress was not everyday frontier clothing."
+      ],
+      "history_lesson_sha256": "52b318730c8216d579fb0dec0e4944419c9de683fe12f7afc613d759c9c1af1a"
+    },
+    "assayer": {
+      "lines": [
+        "Assayers measured precious metals in mine samples.",
+        "Denver had a U.S. assay office by 1870.",
+        "This linked mining with bullion valuation."
+      ],
+      "history_lesson_sha256": "6b8e3462b233ff0964ad842cfae1185b2997a5bcb90ab7dd3dcf98c40c959872"
+    },
+    "augustus-powder-pike": {
+      "lines": [
+        "Alfred Nobel patented dynamite in 1867.",
+        "Its manufacture expanded in the following years.",
+        "Powder Pike is a fictional blasting worker."
+      ],
+      "history_lesson_sha256": "f41bf84b6266da27a1a17c3bcd041eedd03a7758a472057c91bc2b56dc3e85ec"
+    },
+    "barn-burner": {
+      "lines": [
+        "In 1878, a Lincoln County War faction burned",
+        "Alexander McSween's house in New Mexico.",
+        "This fictional arsonist is not a documented person."
+      ],
+      "history_lesson_sha256": "cfe0bfb3dcfc60822b8069aaae99283f68f92d039f618f588b8c8f6a5edb5d5e"
+    },
+    "bartender": {
+      "lines": [
+        "Bartenders learned a wide range of mixed drinks.",
+        "Jerry Thomas's guide records period recipes",
+        "and skilled professional drink preparation."
+      ],
+      "history_lesson_sha256": "65697ed11c8de61f1d18e0ee0471e0e8bee28b89f5b2205d55928a70d1106cac"
+    },
+    "bass-reeves": {
+      "lines": [
+        "Born enslaved, Reeves became a deputy in 1875.",
+        "He served in Indian Territory and Arkansas.",
+        "Popular arrest and killing totals are disputed."
+      ],
+      "history_lesson_sha256": "ae0c3ef5a88ab8286ccfa6c62f60ac8770f3b84b1cc5baef2c225396cf9559e7"
+    },
+    "billy-the-kid": {
+      "lines": [
+        "Billy the Kid died in New Mexico in 1881.",
+        "Court, government and newspaper records survive.",
+        "These outweigh later screen portrayals and myths."
+      ],
+      "history_lesson_sha256": "27f9b58234b7cda6f8e1a2ed9b16caa9280996d4b9d29af7380ec3299952bbe6"
+    },
+    "blacksmith": {
+      "lines": [
+        "Louis Southworth worked as a blacksmith in",
+        "Buena Vista, Oregon, in 1870. He documents Black",
+        "skilled work; this composite is not his portrait."
+      ],
+      "history_lesson_sha256": "a665d13b1eac1410edf9c30400a8051b0217468ef446047eef3bce66d33980c4"
+    },
+    "bounty-hunter": {
+      "lines": [
+        "Express companies offered rewards for criminals.",
+        "Wells Fargo agents worked with sheriffs.",
+        "Their role differed from statutory arrest powers."
+      ],
+      "history_lesson_sha256": "be3166fc9229f74d505b3f842c333c3563ebc1fec3a95442038830d01cecfe5e"
+    },
+    "buffalo-soldier-veteran": {
+      "lines": [
+        "Black Army regiments were established in 1866.",
+        "They guarded travel routes at Western posts",
+        "and enforced U.S. expansion against Native peoples."
+      ],
+      "history_lesson_sha256": "e2f1c5a83a0d05875c346b6fc1527aa8e4c198c1b19d3f4bbe301749408ff790"
+    },
+    "carpenter": {
+      "lines": [
+        "An 1874 print shows builders using hand tools.",
+        "Folding measuring rules also predate this era.",
+        "Carpentry required measurement and joinery."
+      ],
+      "history_lesson_sha256": "5ba22c42a8d546e449e4ac33cf1d9f9bbd8411760a87486243039b7fa8d3deb0"
+    },
+    "charles-goodnight": {
+      "lines": [
+        "Goodnight and Loving drove cattle from Texas",
+        "toward Fort Sumner in 1866. Goodnight later",
+        "established ranches in the Texas Panhandle."
+      ],
+      "history_lesson_sha256": "db16a36e389c86c69056e96da397e7946a28ffb6fcc59d581376814cee8f407f"
+    },
+    "civil-war-veteran": {
+      "lines": [
+        "Union veterans founded the Grand Army of the",
+        "Republic in 1866 to support fellow veterans.",
+        "A blue coat alone cannot prove wartime service."
+      ],
+      "history_lesson_sha256": "d9184fe9acab7398c07eca443955c8cde070598382096bc9b4f28d07c05d0183"
+    },
+    "claim-jumper": {
+      "lines": [
+        "The Mining Law of 1872 formalized mineral claims.",
+        "Discovery, location and surveys mattered legally.",
+        "A paper or pistol does not prove claim jumping."
+      ],
+      "history_lesson_sha256": "83b822860b7fd8af8285aa5781415fe98eee1d01cb327ee52784f7e9596de85d"
+    },
+    "coach-guard": {
+      "lines": [
+        "Express messengers guarded stagecoach valuables.",
+        "They commonly rode beside the driver.",
+        "Guarding cargo distinguished their work."
+      ],
+      "history_lesson_sha256": "9184f15fed0aab7b91df31dde07a535617eb87c60dfaec2420a443325dc82db5"
+    },
+    "con-man": {
+      "lines": [
+        "Soapy Smith's gang operated in Skagway during",
+        "the Klondike rush. In 1898 he used the building",
+        "now preserved as Jeff. Smiths Parlor."
+      ],
+      "history_lesson_sha256": "b9c7d1f051bd30e48ca8969ca9d35f95ad945057af8059e87a95201ee7ba4b24"
+    },
+    "cornelius-ashby": {
+      "lines": [
+        "Ashby is fictional. Executives such as Stanford",
+        "directed rail expansion. Southern Pacific's",
+        "southern transcontinental line was complete in 1883."
+      ],
+      "history_lesson_sha256": "0e8ac003c48cf4fd245565672ed9b9c3f6a580465e1d29f13823e48947741369"
+    },
+    "doc-holliday": {
+      "lines": [
+        "Doc Holliday trained as a dentist and moved west",
+        "with tuberculosis. He became a gambler and",
+        "joined the Earps in the 1881 Tombstone gunfight."
+      ],
+      "history_lesson_sha256": "b32dc96d17067dfc3716e1183357de28619655ad3cb15ed4fd51d16740cc555b"
+    },
+    "drover": {
+      "lines": [
+        "Black cowboys worked cattle after emancipation.",
+        "Nat Love and Bose Ikard rode Western trails.",
+        "This drover is a fictional composite."
+      ],
+      "history_lesson_sha256": "6c8dc9771e5207cc9361236676dc7d33c78e4d06f4b312dd7bbefc330a072cfe"
+    },
+    "duelist": {
+      "lines": [
+        "Hickok fought Davis Tutt in Springfield in 1865.",
+        "Formal quick-draw showdowns were rare.",
+        "Later fiction made them seem more typical."
+      ],
+      "history_lesson_sha256": "f208aab207fe6b9261dab6a347712ca31118c70eff6bcc7bac1ba21d72d344a6"
+    },
+    "gatling-gunner": {
+      "lines": [
+        "This fictional gunner depicts a frontier crewman.",
+        "Period Gatling guns used wheeled field carriages.",
+        "Hand cranking drove their rotating barrel cluster."
+      ],
+      "history_lesson_sha256": "e2030784c8f9149c6dcc56942489a89b39d81c41d19fcb7fde8edf29fa01e42b"
+    },
+    "getaway-rider": {
+      "lines": [
+        "Mounted contract carriers served postal routes.",
+        "Horseback mail outlasted the Pony Express.",
+        "This courier and the rescue ability are fictional."
+      ],
+      "history_lesson_sha256": "966a08e811e05a6078163f131a5a2db8cbd9b54482c8bd8968f780a81fa9aeab"
+    },
+    "hellfire-preacher": {
+      "lines": [
+        "Protestant ministers founded Western churches.",
+        "Sheldon Jackson's papers document mission work.",
+        "This preacher's violent card ability is fiction."
+      ],
+      "history_lesson_sha256": "33e9ac3e23882f66d1aa19079521a487e3de10e059b86cec53ffdb22d3982003"
+    },
+    "homestead-defender": {
+      "lines": [
+        "Hispano families settled Colorado's San Luis Valley.",
+        "The Trujillo homesteads preserve their ranching",
+        "history and adobe and log-building traditions."
+      ],
+      "history_lesson_sha256": "304f78454ae01665578ccbb8e831875aa19e0cd26a79f6fe88d30150f54101b1"
+    },
+    "jesse-james": {
+      "lines": [
+        "James was a former Confederate guerrilla who",
+        "robbed banks, trains and stagecoaches.",
+        "His crimes harmed civilians despite heroic myths."
+      ],
+      "history_lesson_sha256": "f253cd9d169562b7eb5e4f6876bd6d0bc2006f9e25484a78d011fa05bf0d7964"
+    },
+    "laudanum-doctor": {
+      "lines": [
+        "Physicians used opium preparations for pain.",
+        "In the 1876 Little Bighorn campaign, Henry Porter",
+        "treated wounded men with laudanum and morphine."
+      ],
+      "history_lesson_sha256": "136caf1565fe82bb9ec2efc2f90c607f95eb0c82a38b98551f318ec7d2952376"
+    },
+    "lozen": {
+      "lines": [
+        "Lozen, a Chiricahua Apache warrior, was",
+        "Victorio's sister. After his death she resisted,",
+        "then surrendered with Geronimo's band in 1886."
+      ],
+      "history_lesson_sha256": "15eefa624a00de1c28fd799ed746492b7e63a16a5fac07a45b975272fc07c6be"
+    },
+    "piano-player": {
+      "lines": [
+        "Blind Boone played with Black saloon musicians",
+        "in 1870s Missouri. Around 1880 he began touring",
+        "with John Lange Jr. This pianist is fictional."
+      ],
+      "history_lesson_sha256": "2f2be8965205e1f27df2faf3ed3133b914545d48403d3f4caf15292cba5ef5c7"
+    },
+    "pinkerton-agent": {
+      "lines": [
+        "Pinkerton agents investigated robberies and",
+        "worked for railroads and other private clients.",
+        "Some work involved labor disputes and spying."
+      ],
+      "history_lesson_sha256": "0fa0f0ace201aaad053ec52fdec089309db8d1b4f9386e2be3705ab8b7618621"
+    },
+    "poker-alice": {
+      "lines": [
+        "Alice Ivers Tubbs made her living by gambling",
+        "in Western towns. Her career led from Colorado",
+        "mining communities to Deadwood by 1892."
+      ],
+      "history_lesson_sha256": "88e77f5b28abb42ff5668a263af09b1697bd90adb248b7f166029ddf21d777ee"
+    },
+    "prospector": {
+      "lines": [
+        "Placer miners panned stream deposits for gold.",
+        "An 1889 photograph records this work at",
+        "Rockerville, Dakota Territory."
+      ],
+      "history_lesson_sha256": "644b4cfaeb330de94a23d7f3f6a5e28eaee35a98c6e327879c6d2289cc921aac"
+    },
+    "quanah-parker": {
+      "lines": [
+        "Quanah brought his Comanche followers to Fort Sill",
+        "in 1875. He later negotiated reservation life",
+        "and developed cattle-ranching interests."
+      ],
+      "history_lesson_sha256": "0847989ccbb7b57804761c4c15f7b80f3835814afa234f23d0a3067ab117cfec"
+    },
+    "railroad-saboteur": {
+      "lines": [
+        "At Wilcox, Wyoming, in June 1899, robbers used",
+        "explosives on a train's express car.",
+        "A major pursuit followed. This outlaw is fictional."
+      ],
+      "history_lesson_sha256": "a3ea587ca7ab75f8b33f8a2f1df9629e0bf0915ee9df3e1ecb36c8d3543195a7"
+    },
+    "regulator": {
+      "lines": [
+        "After Tunstall's murder in 1878, his followers",
+        "and McSween's became the Regulators.",
+        "Rival factions escalated the Lincoln County War."
+      ],
+      "history_lesson_sha256": "5da291cf7e7b4debe541c916988953115a8849e2ffd1ad8cc26b1cfe9de6c185"
+    },
+    "revival-sister": {
+      "lines": [
+        "Seven women joined the Salvation Army's official",
+        "U.S. mission in 1880; it reached California in 1883.",
+        "This organizer reflects women's religious work."
+      ],
+      "history_lesson_sha256": "af2563d3ff3d13c5c7892e872aa806eb995d6540048a9c22d3d954415400ec1b"
+    },
+    "ringleader": {
+      "lines": [
+        "Managing cattle crews required practical work.",
+        "Thomas Hooban's 1880-81 ranch ledger records",
+        "workers' wages, cattle and supplies."
+      ],
+      "history_lesson_sha256": "86d058c5fe563ef90b620b911bb5d5969de6a03dcdf159771f81aca7d8b11997"
+    },
+    "rustler": {
+      "lines": [
+        "Disputes over unbranded cattle fueled conflict",
+        "in 1880s-1890s Wyoming. An accusation of rustling",
+        "did not prove theft. This cattle thief is fictional."
+      ],
+      "history_lesson_sha256": "235f41ab3dc106effa8b4515041ffd01be10c5be21f394acdcb1de57feb8eecc"
+    },
+    "sarah-winnemucca": {
+      "lines": [
+        "Winnemucca interpreted and advocated for Paiutes.",
+        "After forced removal from Malheur to Yakama,",
+        "she campaigned for their return and rights."
+      ],
+      "history_lesson_sha256": "cf34b32fec3e8dcf247a1de332183bdf535937ebfacbc97952f2a3f67ac765a6"
+    },
+    "sharpshooter": {
+      "lines": [
+        "Sharps rifles served hunters and target shooters.",
+        "The 1879 catalog offered open, globe and vernier",
+        "iron sights. This marksman is fictional."
+      ],
+      "history_lesson_sha256": "e1f0bcc4b569cbf31cad0b369b228fbfbba794c253ef72eb7040dda5b4672162"
+    },
+    "tom-horn": {
+      "lines": [
+        "Horn was a freighter, cowboy and army scout.",
+        "He joined Pinkerton around 1890, then worked",
+        "for Wyoming cattle interests in the 1890s."
+      ],
+      "history_lesson_sha256": "2181d757c923b1d62bb6cda3096ed88db4a40fe795978e531695e1e2002cf5d0"
+    },
+    "town-avenger": {
+      "lines": [
+        "This avenger is fictional, not a documented hero.",
+        "Vigilantes punished people outside courts.",
+        "Their acts could include coercion and murder."
+      ],
+      "history_lesson_sha256": "387caf540b83ef6fac2b713ac48f1edb372348e7c43cd2006e92fde150a266f8"
+    },
+    "trail-organizer": {
+      "lines": [
+        "Jenny Fletcher helped build Nicodemus, Kansas.",
+        "She taught its first school and joined its AME",
+        "congregation from 1879. This organizer is fictional."
+      ],
+      "history_lesson_sha256": "e83bc2ce11a29c667384674c1842ac775e178e0e8471c12f933f60a48ea928fa"
+    },
+    "vigilante": {
+      "lines": [
+        "Montana vigilantes acted outside ordinary courts.",
+        "Punishments included banishment and killing.",
+        "Their claimed motives remain debated."
+      ],
+      "history_lesson_sha256": "c8de351deff16247beb3cd18bbce83a60002791cfb804ca68231f21a2a9a2fdb"
+    },
+    "widow-with-a-shotgun": {
+      "lines": [
+        "The Homestead Act of 1862 let eligible women",
+        "claim land and protected a claimant's widow.",
+        "Frontier landholding was not exclusively male."
+      ],
+      "history_lesson_sha256": "947b4f5b24c8142ebb42470bbffebe406bf79d4792346911e28da8f945287439"
+    },
+    "wild-bill-hickok": {
+      "lines": [
+        "Hickok served as a Kansas lawman and died in",
+        "Deadwood in 1876. Performance and storytelling",
+        "grew his legend beyond eyewitness history."
+      ],
+      "history_lesson_sha256": "d29b3dcaf03f4352b9c46fe782ec88f7747fef54fd3cbbd67f1b7d5d3d485c70"
+    },
+    "wyatt-earp": {
+      "lines": [
+        "Wyatt joined Virgil, Morgan and Doc Holliday in",
+        "Tombstone's October 26, 1881 gunfight.",
+        "Virgil was marshal; Wyatt was not sole leader."
+      ],
+      "history_lesson_sha256": "98cecb821e651e939e7463058706e1836352509df551654d7e64b9c5587e3ad7"
+    }
+  }
+}

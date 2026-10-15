@@ -1,0 +1,33 @@
+{
+  "status": "research_in_progress_no_modeling_brief",
+  "findings": [
+    "Littleton Museum biography places parole in 1901 and the Van Alstine ranch among Packer’s final addresses. It supplies no 1870s–1880s cabin architecture.",
+    "Do not convert a later residence into a period cabin or claim an authenticated surviving Packer cabin. Historical association and building form need separate evidence."
+  ],
+  "source": {
+    "url": "https://www.museum.littletonco.gov/Research/Littleton-History/Biographies/Packer",
+    "local": "Littleton-Packer.html",
+    "sha256": "5851e67df9b834b6aeeb7b63d5bc679ee2fc14d38c75edf97f9989cad88156c2",
+    "actually_read": "Saved HTML paragraphs about parole and final addresses."
+  },
+  "unselected_leads": [
+    {
+      "url": "https://www.historycolorado.org/location/frank-silence-cabin",
+      "status": "County listing read; detail web fetch returned internal error. No construction date or image inspected yet.",
+      "possible_use": "Regional period cabin analogue only, never Packer’s actual property."
+    },
+    {
+      "url": "https://www.museum.littletonco.gov/Exhibits/Outside-Exhibits-Living-History/Historic-Farm-Sites/1860s-Living-History-Farm",
+      "status": "Search excerpt only; actual building photos not inspected.",
+      "possible_use": "Original McBroom cabin analogue, not Packer property."
+    }
+  ],
+  "access_limits": [
+    {
+      "domain": "archives.colorado.gov",
+      "status": "web tool reported non-retryable robots exclusion; do not retry through other routes."
+    }
+  ],
+  "next": "Read and inspect a dated Colorado mountain cabin reference; make any fictional architectural reconstruction explicit before modeling.",
+  "updated": "2026-10-09T16:33:03.649871+00:00"
+}

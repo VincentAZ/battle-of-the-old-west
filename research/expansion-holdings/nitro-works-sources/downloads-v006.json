@@ -1,0 +1,12 @@
+{
+  "retrieved_at": "2026-10-09T17:45:23.293030+00:00",
+  "records": [
+    {
+      "url": "https://research.fs.usda.gov/download/treesearch/32202.pdf",
+      "local": "research/expansion-holdings/nitro-works-sources/USDA-Redwood.pdf",
+      "sha256": "7a5dc98d655922584b6543bd6117220c38b3689b934deaad832ea9f948c89651",
+      "bytes": 235831,
+      "http_status": 200
+    }
+  ]
+}

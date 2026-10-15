@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "status": "research_in_progress_not_a_render_brief",
+  "purpose": "Replace the remaining industrial supply cart, rails and powered winch with a documented period delivery presentation.",
+  "candidate": "Straight-box freight wagon, with a carefully sourced Murphy-type interpretation; no manufacturer logo or claim of an exact surviving vehicle yet.",
+  "sources": [
+    {"url": "https://www.nps.gov/articles/000/wagons-on-the-trails.htm", "title": "NPS, Wagons on the Emigrant Trails", "consulted": "Article and linked Murphy replica photograph inspected.", "claims": "Murphy wagons used straight boxes, with a roughly12ft bed and9ft overall height; contrasted with the curved Conestoga. The illustrated Murphy wagon was built in1979, so it is a modern reconstruction rather than a period photograph.", "image_url": "https://www.nps.gov/articles/000/images/1998-Wagons-Murphy-Eagle-Rock-2.jpg?autorotate=false&maxwidth=1200", "local_review_copy": "/tmp/oldwest-murphy-replica-reference.jpg", "observations": "Larger rear wheels, smaller front wheels, wooden spokes and hubs, narrow iron tires, a straight board box and tied canvas over bows. Display ageing is not colour direction."},
+    {"url": "https://www.nps.gov/articles/000/transportation-on-the-santa-fe-trail.htm", "title": "NPS, Transportation on the Santa Fe Trail", "consulted": "Article and loading-dock photograph inspected.", "claims": "Freight wagons varied. The article reproduces an1858 description of heavy wagons with64in rear wheels and13ft tongues; those dimensions are not automatically Murphy dimensions. The loading-dock image is explicitly undated.", "image_url": "https://www.nps.gov/fols/learn/historyculture/images/Men-with-Wagon.jpg?autorotate=false&maxwidth=1200", "local_review_copy": "/tmp/oldwest-freight-wagon-reference.jpg", "observations": "Large spoked rear wheels, smaller front wheels, open wagon bows and hanging running-gear fittings. Monochrome photo does not establish paint colours; do not reproduce the pictured people without individual historical treatment."},
+    {"url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/64500348_text", "title": "NPS/Montana SHPO, Whoop-Up Trail documentation,1991", "consulted": "Previously sourced in art/action_props/whiskey-kit-evidence.json S24; not freshly re-read in this pass.", "candidate_claim": "Existing research records Murphy wagon red running gear, blue box and white top. Re-read the relevant passage and its citations before rendering."}
+  ],
+  "remaining": [
+    "Choose the precise1865-1890 regional/type interpretation and establish a complete claim-to-source render brief.",
+    "Resolve running-gear geometry, brake, axle, tongue and wheel proportions without mixing unrelated wagon types.",
+    "Reverify the documented paint scheme; render full-strength natural colour.",
+    "Design the actual supply action, preserving public quantity, timing, Native plain-crate filtering, collision clearance and hidden-card privacy.",
+    "Do not simply attach period wheels to the old powered rail/winch assembly or imply an unhitched wagon is historically self-powered."
+  ]
+}

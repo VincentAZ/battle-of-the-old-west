@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://exhibits.usu.edu/files/original/ce3ef478a67e17069a34c89096c1d3c9.pdf",
+    "local": "research/expansion-holdings/packers-cabin-sources/USU-1874-Mancos-Cabin.pdf",
+    "status": 200,
+    "bytes": 2572112,
+    "sha256": "ca5c9eae376db6565f07e75f53ae723aed5cb31da2f9fa470b87d8d189284dc6"
+  },
+  {
+    "url": "https://exhibits.usu.edu/files/fullsize/ce3ef478a67e17069a34c89096c1d3c9.jpg",
+    "local": "research/expansion-holdings/packers-cabin-sources/USU-1874-Mancos-Cabin.jpg",
+    "status": 200,
+    "bytes": 62383,
+    "sha256": "805666568032f10519f0b93a0dd9efa77792ac8aecd2d008ab9115efbf1b14fa"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "reviewed_utc": "2026-10-09T19:03:36.188921+00:00",
+  "package": "dist/linux-development-western-completion-20261009/archive",
+  "reviewer": "assistant",
+  "evidence": "research/western-presentation/completion-review-20261009.jpg",
+  "region_captures": [
+    "tests/runs/western-completion-20261009/regions/0/1600x900/02-region-wide.png",
+    "tests/runs/western-completion-20261009/regions/1/1600x900/02-region-wide.png",
+    "tests/runs/western-completion-20261009/regions/2/1600x900/02-region-wide.png"
+  ],
+  "observations": [
+    "Winter, pine and river environments are distinct, rendered and readable.",
+    "Crimp House, Rustlers Corral, Quaker Settlement, Dance Hall, Vigilance Committee and Coal Yard appear with their Western geometry and natural colours in packaged portraits.",
+    "Simple ruins and minor building trim/sign refinement remain follow-up polish.",
+    "Old Trouble portraits detected and corrected in the next package; the old event screenshots do not establish Western portrait acceptance."
+  ],
+  "user_final_art_approval": false
+}

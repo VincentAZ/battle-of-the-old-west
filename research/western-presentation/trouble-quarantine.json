@@ -1,0 +1,20 @@
+{
+  "recorded": "2026-10-08",
+  "card_id": "cholera",
+  "title": "Cholera",
+  "date_place": "San Diego, California, 1888",
+  "render_brief": "A conspicuous plain yellow cloth quarantine flag on a simple unpainted wooden pole, fixed beside a small wooden doorway fragment on a brown ground slice. Cloth has a sewn edge and hangs in shallow folds. No biohazard symbol, radiation markings, hospital cross, skull, medicine bottles, people or corpses. Bright natural yellow is essential; wood remains natural brown. This is a reconstructed warning-marker type, not a replica of a photographed house.",
+  "history": "San Diego's 1888 rules marked infected premises\nwith a yellow flag or a posted warning.\nCholera was among the diseases covered.",
+  "sources": [
+    {
+      "title": "San Diego Ordinance No. 193, approved February 20, 1888; transcription by San Diego History Center",
+      "url": "https://sandiegohistory.org/journal/2002/october/ord193/",
+      "claim": "Section 34 directs the health officer to mark premises with a conspicuous yellow/quarantine flag or a doorway placard following reports of smallpox, varioloid or cholera. Section 35 prohibits unauthorized removal. Supports a yellow land-based warning, not just maritime use."
+    }
+  ],
+  "uncertainties": [
+    "The ordinance fixes the yellow warning function but not flag dimensions, fabric weave, pole species, mounting hardware, exact yellow dye or doorway design. These are restrained reconstruction choices.",
+    "No claim that the same sign was used at every Western trail camp or that the symbol uniquely meant cholera. No actual outbreak at a named address is depicted."
+  ],
+  "status": "evidence_ready_before_authoring"
+}

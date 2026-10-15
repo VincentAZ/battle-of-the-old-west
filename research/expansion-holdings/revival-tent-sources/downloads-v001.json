@@ -1,0 +1,27 @@
+[
+  {
+    "file": "NCC-California-Conference-History.html",
+    "url": "https://nccsda.com/about-us/california-conference-history/",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "EGW-Windsor-1872-context.html",
+    "url": "https://text.egwwritings.org/read/672.2818",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "Emory-Manship-1884-catalogue.html",
+    "url": "https://digital.pitts.emory.edu/s/masquerade/item/13315",
+    "status": "downloaded",
+    "bytes": 26846,
+    "sha256": "a5ec57c0653229f48d68ca02ff485fd32ea9185e2dddda4c048a5f6f1942c3af"
+  },
+  {
+    "file": "FHSU-Halstead-Revival-catalogue.html",
+    "url": "https://scholars.fhsu.edu/halstead/31/",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

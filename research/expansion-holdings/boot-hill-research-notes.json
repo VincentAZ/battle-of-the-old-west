@@ -1,0 +1,20 @@
+{
+  "recorded": "2026-10-08",
+  "status": "research_incomplete_not_generation_evidence",
+  "canonical_card_id": "boot_hill",
+  "subject": "Boot Hill",
+  "findings": [
+    "The Hays municipal visitor bureau dates the cemetery's recorded burials to 1867-1874 and explicitly says early deaths included accidents and natural causes. Do not describe every person buried there as an outlaw or gunfighter.",
+    "Kansas Historical Society item 214513 is an 1885 excavation photograph, not a clear view of the cemetery during use. Actually viewed its 500-pixel archival image: disturbed open earth, workers, animals and wagons, with handwritten retrospective text. It does not resolve original grave-marker profiles well enough to brief a replica.",
+    "Modern Boot Hill displays and replacement markers cannot alone authenticate nineteenth-century grave forms or inscriptions. The 2021 Ogallala image from the Library of Congress is a candidate material reference, not period evidence; its image has not yet been visually reviewed.",
+    "Clement Wood's 1947 retrospective, republished by the Tombstone site, discusses wooden grave markers and later cemetery changes. It is not a contemporaneous 1880 image and must be identified as later testimony."
+  ],
+  "sources": [
+    {"url": "https://www.visithays.com/191/Boot-Hill-Cemetery", "role": "Municipal historical context; 1867-1874 and varied causes of death."},
+    {"url": "https://www.kansashistory.gov/archives/214513", "role": "State archive catalogue of the 1885 excavation photograph."},
+    {"url": "https://images.kansasmemory.gov/thumb500/00114553.jpg", "role": "Actually viewed archival image; downloaded to /tmp/oldwest-hays-boot-hill-1885.jpg."},
+    {"url": "https://www.loc.gov/pictures/item/2021758034/", "role": "Modern Ogallala marker photograph, candidate only."},
+    {"url": "https://discoverboothill.com/history-clement-wood/", "role": "Later testimony, published February 13, 1947."}
+  ],
+  "next_evidence_needed": "Find an adequately resolved period cemetery/marker image or a documented surviving marker, establish its region and materials, then write a conservative cemetery-type brief with reconstruction limits. No art job is authorized by this research note."
+}

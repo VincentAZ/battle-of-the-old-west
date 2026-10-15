@@ -1,0 +1,73 @@
+# Local tooling and generated distributions
+/.agents/
+/.codex/
+/dist/
+/tmp/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.local.ini
+
+# Unreal build/cache output
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/.vs/
+*.sln
+*.suo
+*.blend1
+
+# This initial repository contains code/docs; 3D assets remain local.
+/art/
+/game/OldWest/Content/*
+!/game/OldWest/Content/Data/
+
+# Machine-local test captures, profiles and historical snapshots
+/game/tests/runs/
+/game/tests/reports/
+/output/qa/
+/game/OldWest/Config/*.before-*.ini
+
+# Build directories created during local CMake development
+/build/
+/game/tests/core/build/
+
+# Local playtest / UX feedback — never commit
+/Feedback/
+
+# Original-game reference material, rules study, scraped sources, test-run
+# artifacts and pre-rebrand development logs stay local and out of the repo
+/book/
+/output/
+/tests/
+/research/raw/
+/research/notes/
+/research/rules-audit-20260908/
+/research/frontline-20260908/
+/research/sources.json
+/research/western-presentation/status-history/
+/game/data/sources/
+/game/data/CULT_OF_CHROME_SOURCE_AUDIT.md
+/scripts/build_book.py
+/scripts/build_game_help.py
+/scripts/fetch_publisher_photos.py
+/scripts/validate_book.py
+/game/POLISH.md
+/game/RELEASE_CHECKLIST.md
+/game/BUILD_NOTES.md
+/game/HANDOFF.md
+/game/IMMERSIVE_REDESIGN.md
+/game/RAIDER_REDESIGN.md
+/game/FEEDBACK_20260912.md
+/game/art/camps/CARD_SPECIFIC_SCENES.md
+/scripts/make_sources.py
+/scripts/fetch_card_photos.py
+/scripts/verify_base_images.py
+/scripts/fetch_expansion_images.py

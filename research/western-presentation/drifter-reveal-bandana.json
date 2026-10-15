@@ -1,0 +1,35 @@
+{
+  "status": "historical_basis_prepared_geometry_and_motion_review_pending",
+  "date_scope": "1870s-1880s American West; generic fictional frontier hand",
+  "identity": "The approved anonymous Drifter is a fictional composite. No named person is implied while face-down.",
+  "sources": [
+    {
+      "url": "https://www.nps.gov/pisp/learn/photosmultimedia/cowboy-gear.htm",
+      "title": "National Park Service, Pipe Spring, Cowboy Gear",
+      "supports": "Kerchief used as dust mask and neck covering. Supports lowering a face covering; does not document a particular identity-reveal ceremony."
+    },
+    {
+      "url": "https://artsandculture.google.com/story/campaigns-on-cotton-the-new-york-historical-society/lQXBHrVYdurYKQ?hl=en",
+      "title": "The New York Historical, Campaigns on Cotton",
+      "supports": "Museum account documents red cotton bandannas in 1880s American popular use. Political motifs are not transferred to this anonymous game character."
+    },
+    {
+      "url": "https://www.glasgowlife.org.uk/museums/glasgow-life-museums-blogs/legacies-of-slavery-and-empire/turkey-red-and-the-slave-economy",
+      "title": "Glasgow Museums, Turkey Red and the Slave Economy",
+      "supports": "Catalogued cotton bandanna, circa 1870-76, 1876.128.b.15, supports period red-dyed cloth. This is a material analogue, not evidence of this character owning that object."
+    }
+  ],
+  "render_direction": "Preserve the approved Drifter and Crew sources. Derive a separate transient cloth prop from the approved face bandana, with its existing material, to lower/drop during the already public reveal beat. Full natural colour and existing clear warm lighting. No new writing, insignia, weapon or fictional criminal accusation.",
+  "reconstruction_limits": [
+    "Exact knot, fall trajectory and theatrical reveal are gameplay reconstruction. Neither source establishes a real wanted-board identity ritual.",
+    "Do not infer a hidden identity from private_peek or from the notice texture. Private inspection leaves all public physical, portrait and History identity surfaces generic.",
+    "Keep the named Crew original costume and geometry unchanged. Any falling cloth is a transient presentation prop, not an alteration to a historic person outfit."
+  ],
+  "verification_required": [
+    "Read-only topology and colour inspection to isolate cloth without skin or coat triangles",
+    "Inspect actual extracted prop against approved source; preserve source hashes",
+    "Trigger only for authoritative public reveal_person, never inspect/private peek",
+    "Native before/impact/after images plus skip/reconnect cleanup and both player views",
+    "No mechanics, clip timing or network changes"
+  ]
+}

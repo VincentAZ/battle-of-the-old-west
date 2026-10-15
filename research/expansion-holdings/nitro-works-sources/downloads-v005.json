@@ -1,0 +1,16 @@
+{
+  "retrieved_at": "2026-10-09T17:45:05.618150+00:00",
+  "records": [
+    {
+      "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-04-roofing.pdf",
+      "local": "research/expansion-holdings/nitro-works-sources/NPS-Roofing-04.pdf",
+      "sha256": "ae450ad6e974307768286ad4246ec3bc7c59b8171e663d4948eb3b3297653598",
+      "bytes": 9624122,
+      "http_status": 200
+    },
+    {
+      "url": "https://www.fpl.fs.usda.gov/documnts/usda/amwood/262redwo.pdf",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  ]
+}

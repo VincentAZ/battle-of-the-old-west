@@ -1,0 +1,17 @@
+{
+  "request_date": "2026-10-05",
+  "scope": "All 46 Western Crew person-card copies, plus persistent historical accuracy rule for all future Western rendering",
+  "period_policy": "Working assumption: documented Old West roster spanning roughly 1865\u20131900, with individual dates; user was asked whether strict circa 1880 was preferred and has not selected it.",
+  "standard": [
+    "Role and identity supported by date- and place-specific evidence.",
+    "Actual saved mesh inspected; prompts alone are not the delivered asset.",
+    "Clothing and equipment references distinguished from identity evidence.",
+    "Fictional composites receive occupational history, never fabricated individual biography.",
+    "Uncertain likeness, colors, costume combinations and small props remain expressly disclosed.",
+    "Retain is a researched plausibility decision, not certification of every visible detail.",
+    "Eight initial mandatory corrections require new static mesh verification before gallery promotion."
+  ],
+  "history_delivery": "Every character has optional-to-open History in review gallery; factual content and sources mandatory. No gameplay integration before approval of all 46.",
+  "user_directed_replacement_policy": "Replace unsupported fictional demographic choices with white male alternatives; preserve documented people and supported archetypes. This is a creative direction for fictional assets, not a claim of historical impossibility.",
+  "new_animation_authorized": false
+}

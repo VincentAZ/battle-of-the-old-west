@@ -1,0 +1,44 @@
+{
+  "rockslide-ridge": {
+    "subject": "Rockslide Ridge",
+    "canonical_card_id": "rockslide_ridge",
+    "identity_type": "documented_landform",
+    "date_scope": "1872 geological context; an undated reconstructed Sierra Nevada landform type within the 1865-1900 setting",
+    "location_scope": "Yosemite Valley, Sierra Nevada, California; representative fractured granite cliff and talus, not an exact historic cliff profile",
+    "documented_features": [
+      "NPS describes granite fractures and surface-parallel sheeting joints from which rock slabs detach, leaving talus below cliffs [S1].",
+      "The March 26, 1872 Owens Valley earthquake caused rockfalls witnessed in Yosemite; NPS distinguishes those falls from much older, larger deposits [S2]. This provides period context without claiming the miniature reconstructs a particular fall.",
+      "The park geologist describes angular boulders and wedge-shaped talus accumulations at cliff feet; his photograph shows jointed steep granite above irregular debris and vegetation [S3]."
+    ],
+    "documented_colors": [
+      "NPS describes fresh pale granite scars and talus [S2]. Its modern colour photograph of the July 2006 Half Dome fall shows light grey to cream rock, warm mineral/weathering streaks and natural green vegetation [S1]. Use these as material evidence, not an 1872 colour photograph. Render natural colours at full strength; the monochrome El Capitan photograph [S3] supplies form only."
+    ],
+    "render_brief": "A compact static section of a steep Sierra Nevada granite ridge, a geological holding with no building. Form one coherent light-grey and cream granite mass with a slightly rounded crest, strong irregular vertical joints and several curved sheet fractures close to the exposed front face. One broad slab is visibly separated by a narrow dark crack but remains physically supported, never suspended in midair. At the foot, arrange angular fallen blocks in a sloping wedge, with a few smaller chips between the large boulders. Show restrained warm brown mineral and weathering streaks on older rock and clean pale grey fracture faces at full natural colour. Do not paint rock to add brightness; the separate mountain setting base will supply natural green vegetation and brown earth. Keep the geological miniature self-contained with a complete irregular rear. No people, animals, buildings, mining props, dynamite, artificial wall, fantasy crystals, snow, fire, smoke, falling animation, label or identifiable victim. This is a representative landform, not a literal scale replica of Half Dome, El Capitan or the 1872 Eagle Rock fall.",
+    "history_lesson": "An earthquake triggered major Yosemite rockfalls in March 1872. Granite fractures release slabs and angular blocks that accumulate as talus below cliffs. This miniature represents that landform type, not a particular historical collapse.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/yose/learn/nature/rockfall.htm",
+        "title": "National Park Service — Yosemite Rockfall",
+        "supports": "Explains fractured granite, sheeting joints, exfoliation and talus. Amanda Nolan's July 27, 2006 colour photograph supports the natural granite/material appearance; it is not evidence of a nineteenth-century cliff configuration."
+      },
+      {
+        "url": "https://www.nps.gov/places/000/geology-tour-john-muir-s-rockfall-experience-stop-7.htm",
+        "title": "National Park Service — Geology Tour, John Muir's Rockfall Experience",
+        "supports": "Documents rockfalls during the March 26, 1872 earthquake and distinguishes fresh light granite from older vegetated deposits. Provides historical context, not a claimed correspondence between the model and Muir's witnessed fall."
+      },
+      {
+        "url": "https://www.nps.gov/yose/learn/nature/investigating-the-el-capitan-rock-avalanche.htm",
+        "title": "Greg Stock, Yosemite park geologist — Investigating the El Capitan Rock Avalanche (2008)",
+        "supports": "Explains angular debris and talus morphology and illustrates a cliff/debris setting. Explicitly dates the large El Capitan deposit to long before 1872, preventing conflation of different falls."
+      }
+    ],
+    "uncertainties": [
+      "No exact historic slope, block dimensions or collapse sequence is reconstructed. Joints, detached slab and rubble placement are a restrained geological composition.",
+      "Modern photographs establish durable materials and geological forms; they do not authenticate the precise condition of a particular cliff in 1872.",
+      "The game destroys a holding and targets another column. This is a cosmetic metaphor, not evidence that people intentionally caused the documented natural rockfalls.",
+      "Render a stable static miniature only; no animation or mechanics change is authorized by this evidence record."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Actually viewed Amanda Nolan's modern colour rockfall photo (/tmp/oldwest-rockfall-nps.jpg) and Greg Stock's monochrome cliff/talus photo (/tmp/oldwest-rockfall-talus-nps.jpg) before briefing. Exclude the photographs' active dust plume, labels and modern geographic interpretation marks."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "status": "historical_sources_and_static_brief_prepared",
+  "classification": "progress",
+  "previous_goal_turn_classification": "no_progress",
+  "previous_turn": "Ownership confirmation only; current authoritative state rechecked before continuing.",
+  "checked_at": "2026-10-09T17:17:13.173195+00:00",
+  "actual_reference_images_inspected": 2,
+  "previous_completed_asset_check": {
+    "holding": "packers-cabin",
+    "checkpoint": "implementation-checkpoint-v002.json",
+    "pins": 205,
+    "mismatches": 0
+  },
+  "source_failures_preserved": [
+    "Earlier photograph link returned 404; a separately published newsletter reproduction was downloaded and actually viewed.",
+    "The old MHC2016 URL returned 404; the public 2013 legislative-archive report is the source used."
+  ],
+  "remaining": [
+    "Author and inspect the static candidate against this brief.",
+    "Validate geometry, transparent openings, assembly contacts and roof.",
+    "Prepare setting base and separate ruin.",
+    "Native integration remains subject to the existing unresolved expansion export hold."
+  ],
+  "file_sha256": {
+    "research/expansion-holdings/vigilance-committee-sources/download-v005.json": "188ae472ad9d9c30864df2c386dd0e2c14223c0f138f04c6e158e04eace6c09d",
+    "research/expansion-holdings/vigilance-committee-sources/Montana-Ghost-Town-Bulletin-Spring-2022.pdf": "6d682eaf331728f9fb808f57d9465f376819f969a163e28c6babc18359c0b863",
+    "research/expansion-holdings/vigilance-committee-sources/NPS-Preservation-Brief-22.pdf": "3bb355fe348c2a695b7d15a6637545f6add1c46d4cd069183246b3fc1d67d6ec",
+    "research/expansion-holdings/vigilance-committee-sources/MHC-Kiskadden-page33.png": "aa9944cb3ec4ce0b2741c5f71e64bbd7779871b0c4ba60bc5ca2c2e32543b593",
+    "research/expansion-holdings/vigilance-committee-sources/MontanaKids-Kiskadden.html": "fd32ef75395d8c2255d1f571618be498ed85e44e2f5de2b51e3e9a88b34129fd",
+    "research/expansion-holdings/vigilance-committee-sources/image-download-v001.json": "4736f3522dcd7dcfb2b4bb1042e9c7ec4ffb26036aa12c2fe03e16e3e2017847",
+    "research/expansion-holdings/vigilance-committee-sources/MHC-structural-repair-2013.pdf": "dce68adf9198ff9fe782ff9604f5c55f07e1a44667a74bb5bc3be2ec012c5edb",
+    "research/expansion-holdings/vigilance-committee-sources/download-v004.json": "4c4d1f6f3b9fb9219467cda4057ced410b5773c29d96d061285a7409428f7cc0",
+    "research/expansion-holdings/vigilance-committee-sources/NPS-Preservation-Brief-19.pdf": "6b5b576112d4dbbb610059587ce16afa7875437d62dfb402572da8776d765c60",
+    "research/expansion-holdings/vigilance-committee-sources/downloads-v002.json": "fcf36230d50f46a2502d36f4007886d76d578d507217631e0ab2b8a921bed397",
+    "research/expansion-holdings/vigilance-committee-sources/MHS-Vigilantism.html": "da744ab18c7dc6858ad31a3ba45600b34475c714c989973d869d2a64ce19a3de",
+    "research/expansion-holdings/vigilance-committee-sources/reference-review-v001.json": "a42ed774a8f88418a9864747d308a5c0971f8b7c38fabfb3cd034f4b06696882",
+    "research/expansion-holdings/vigilance-committee-sources/Baumler-Mining-Camp-Architecture.html": "33b6d2e2780ff3e142ab7379680f9934563ed752197d3a744337aa6d5ada5ce5",
+    "research/expansion-holdings/vigilance-committee-sources/Bulletin-page7.png": "74b8d24046436613e694afedf91098af796f8645a8e9f07a67c90bc07200fc1e",
+    "research/expansion-holdings/vigilance-committee-sources/download-v001.json": "8f2485fd953ba9b086e58ed384eb35f5bd93ea65a5a401faef53b80bf33c8638",
+    "research/expansion-holdings/vigilance-committee-sources/download-v003.json": "1c3720c15644f3532a9060897af749d777d2862ddfd72dad793ec65b2c41e8a8",
+    "research/expansion-holdings/timber-ram-sources/USDA-Ponderosa-Wood-1984.pdf": "8ad2301d88a57b258138208dc078b278fd3e32294b78d2a5c2b3e43d2ff49f92",
+    "art/western/holdings/expansion-review-v001/vigilance-committee/historical-evidence.json": "bca02c5737d2c870f40177c692481268fdc5e793fa73ebb4e7e5f2c53c9c7206",
+    "art/western/holdings/expansion-review-v001/vigilance-committee/local-authoring-brief-v001.json": "268bc28bff2bd877e03e4723e0795e78498cce2610729bf91ce5fe4fab472703",
+    "art/western/holdings/expansion-review-v001/vigilance-committee/history-note-v001.json": "0f62051afb8022e7257da036df4c7415387dd363323843f8a1cbd712b5d61480"
+  },
+  "final_user_approval": false
+}

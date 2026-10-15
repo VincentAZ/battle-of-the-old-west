@@ -1,0 +1,15 @@
+{
+  "direction": "User: bland. add a sand dune or two and cacti",
+  "date_place": "Sonoran Desert regional composite, Arizona/California borderlands, 1865-1890",
+  "reconstruction": "Two small wind-sculpted dunes and cacti on adjacent stable rocky ground. This combines regional habitats for a game diorama, not a surveyed location or a claim that saguaros grow on active Imperial dune crests. Supersedes the Painted Desert location of v001 to support iconic saguaros.",
+  "sources": [
+    {"url": "https://www.blm.gov/visit/imperial-sand-dunes", "claim": "Windblown sand from ancient Lake Cahuilla forms large natural dune fields; photographs support warm sand colour and curving crests."},
+    {"url": "https://www.nps.gov/sagu/learn/nature/saguaro.htm", "claim": "Saguaros belong to the Sonoran Desert. Photographs support green ribbed columns, rounded tips and variable upward arms."},
+    {"url": "https://www.nps.gov/orpi/learn/nature/saguaro-cactus.htm", "claim": "Mature saguaros can reach 45 feet; arm timing and proportions vary. Model mature plants at 5-9 metres and smaller unbranched plants."},
+    {"url": "https://www.nps.gov/sagu/learn/nature/cacti-and-desert-succulents.htm", "claim": "Prickly pears occur with Sonoran cacti; photographs support branching flattened green pads with areoles and spines."}
+  ],
+  "brief": "Two asymmetric low dunes with curved ridges, granular golden sand and wind ripples. Strong natural green saguaros with continuous ribbed stems, rounded tips and curved ascending arms. Smaller prickly-pear groups on stable margins. Full-strength colour in existing clear warm light. No giant invented cactus proportions, flowers out of a specified season, modern objects or people.",
+  "placement": "Keep all new geometry outside the central playable rectangle and away from the fuse/event routes. Ground every dune edge and cactus against the preserved source terrain. New scenery has no collision or gameplay state.",
+  "uncertainties": ["Arrangement, sand ripple spacing, exact RGB and individual plant ages are reconstructed.", "Modern habitat and geology sources establish native forms, not an exact 1880s scene."],
+  "history_note": "Sonoran saguaros grow as ribbed columns, sometimes with many upward arms. Wind moves loose sand into dunes; this game scene combines dune and stable cactus habitats."
+}

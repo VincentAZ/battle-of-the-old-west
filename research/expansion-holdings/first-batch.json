@@ -1,0 +1,79 @@
+{
+  "gunsmith": {
+    "subject": "Gunsmith",
+    "canonical_card_id": "gunsmith",
+    "identity_type": "historical_building_type",
+    "date_scope": "1868",
+    "location_scope": "Laramie, Wyoming Territory; Freund and Brother shop photographed by Arundel C. Hull",
+    "documented_features": [
+      "Hull's 1868 photograph shows a two-level log shop with a tall vertical-board false front and central ground-floor entrance between windows [S1].",
+      "The visible right side has horizontal hewn logs, vertical braces and a pitched shingled roof behind the false front; several shop signboards identify the gun trade [S1]."
+    ],
+    "documented_colors": [
+      "The photograph establishes light and dark sign panels but not their hue; black and white are a disclosed reconstruction, not a recovered paint scheme [S1].",
+      "Natural exposed timber is reconstructed with warm brown grain and silver surface weathering; USDA describes the greying of uncoated wood. The source does not authenticate the shop's original paint [S2]."
+    ],
+    "render_brief": "An unoccupied Laramie, Wyoming Territory gunsmith shop of 1868, based on Hull's photograph of Freund and Brother. A compact two-level rectangular log building: long horizontal hewn logs along the side walls, two vertical side braces, and a tall squared-off vertical-board false front with a plain projecting top cornice. The central ground-floor wooden door has one divided-pane window on either side; two upper front windows flank blank rectangular sign panels. A simple pitched roof of wood shingles falls behind the false front. Render unpainted timber in rich natural warm brown with silver surface grain, pale mortar chinking and clear dark window glass. Reconstruct the signs as contrasting black and white blank panels without lettering. No projecting rifle sign, flags, people, animals or trophies. No porch roof, modern siding or metal roof. A complete solid back wall with at most one small window, no duplicated storefront. The unseen rear is a conservative reconstruction.",
+    "history_lesson": "An 1868 photograph records Freund and Brother's gun shop in Laramie, Wyoming Territory. Its signs advertised custom firearms, repairs, ammunition and sporting goods; this model reconstructs the photographed shop without its occupants.",
+    "sources": [
+      {"url": "https://digital.denverlibrary.org/nodes/view/1115832", "title": "Arundel C. Hull, Freund's Gun Store at Laramie, Wyo. Terr., 1868, Denver Public Library, Z-5809", "supports": "Period photograph and catalog establish the shop, date, place, visible log construction, false front, windows, roof and advertised services; monochrome cannot establish paint hues."},
+      {"url": "https://research.fs.usda.gov/download/treesearch/7145.pdf", "title": "USDA Forest Products Laboratory, Wood Handbook, chapter 15: Finishing of Wood", "supports": "Uncoated wood changes colour through weathering; supports natural wood material behaviour only, not an original colour survey of this shop."}
+    ],
+    "uncertainties": ["Rear elevation, dimensions, original pigments and exact wood species are unknown. Natural timber and black/white sign colours are reconstruction; no coloured facade paint is claimed.", "The original photograph includes people, animals, trade lettering and a flag; these are omitted. The model is an architectural interpretation at game scale."],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Viewed the actual DPL archival photograph locally on 2026-10-08, before generation; /tmp/oldwest-gunsmith-source.jpg."
+  },
+  "jailhouse": {
+    "subject": "Jailhouse",
+    "canonical_card_id": "jailhouse",
+    "identity_type": "historical_building_type",
+    "date_scope": "1888-1896",
+    "location_scope": "Fort Smith, Arkansas, federal jail on the Indian Territory border",
+    "documented_features": ["A new jail opened in 1888 alongside the older barracks/courthouse building [S1].", "The jail is a brick block with tall narrow barred windows framed in pale stone [S2]."],
+    "documented_colors": ["NPS describes red brick and white rough-cut stone around the barred windows; black iron and a dark roof are material-colour reconstructions [S2]."],
+    "render_brief": "An unoccupied federal jailhouse at Fort Smith, Arkansas, 1888-1896, a compact architectural interpretation of the 1888 jail wing. One sturdy rectangular red brick cell block with tall narrow vertically barred windows on both long sides, each surrounded by chunky pale limestone trim. Six narrow window bays along the principal side. Rich fired red-orange brick, chalk-white cut stone surrounds, black iron bars and a dark charcoal simple pitched roof. One modest entrance at the short front end with a heavy iron door and stone surround. The entrance is a reconstruction for a detached game model; the real jail adjoined a courthouse. Keep the building tall enough for an internal cell block but without exterior residential balconies. All sides complete, no open cutaway, no prisoners, no gallows, no modern razor wire, no flags and no lettering. No domed capitol, sheriff star or unrelated saloon porch.",
+    "history_lesson": "Fort Smith opened a new federal jail in 1888 after public criticism of its crowded basement prison. Its three-tier cell block replaced the earlier confinement rooms beside the federal court.",
+    "sources": [
+      {"url": "https://www.nps.gov/places/000/barracks-courthouse-jail.htm", "title": "National Park Service, Barracks, Courthouse, Jail", "supports": "Dates the new jail to 1888 and distinguishes it from the adjoining courthouse and that building's later second-floor alterations."},
+      {"url": "https://home.nps.gov/fosm/planyourvisit/park-brochure.htm", "title": "National Park Service, Fort Smith park brochure, building photo description", "supports": "Describes the former jail as red brick with six tall narrow barred windows and rough-hewn white stone window frames; modern exterior photograph is not an original paint survey."},
+      {"url": "https://home.nps.gov/fosm/learn/historyculture/reforming-the-hell-on-the-border-jail.htm", "title": "National Park Service, Reforming the Hell on the Border Jail", "supports": "Documents construction in 1887-1888 and a three-tier iron cell block; historical context for the replacement of the earlier basement prison."}
+    ],
+    "uncertainties": ["Detached footprint and end entrance are reconstructed to fit the game lane; this is not a surveyed replica. Roof colour and exact iron finish are not documented here.", "No source claims prisoners automatically joined their captors; the card's ability is a fictional game metaphor."],
+    "evidence_prepared_at": "2026-10-08"
+  },
+  "courthouse": {
+    "subject": "Courthouse",
+    "canonical_card_id": "courthouse",
+    "identity_type": "historical_building_type",
+    "date_scope": "1882-1900 (exclude the 1904 rear extension)",
+    "location_scope": "Tombstone, Cochise County, Arizona Territory",
+    "documented_features": ["The 1882 courthouse has two storeys and a cross-shaped plan; the rear extension is later and must be excluded [S1].", "Symmetrical divided windows, a balustraded entry porch and a roof cupola distinguish the building [S1]."],
+    "documented_colors": ["Red brick walls contrast with white stone corner blocks and a white horizontal course [S1][S2].", "Dark roof and natural wood door colours are conservative material reconstructions, not documented original pigments [S1]."],
+    "render_brief": "Unoccupied Tombstone courthouse in Arizona Territory, interpreted at compact game scale in its 1882 form before the 1904 rear addition. A symmetrical two-storey cruciform red brick building with white stone corner quoins and a white horizontal band between floors. Make the short side wings clearly readable. Gabled roof sections and one central small square observation cupola with a mansard cap, delicate dark crest rail and no clock. Tall divided-pane sash windows have heavy light surrounds. Centered double entrance doors beneath a small porch on two free square pillars and two attached pillars, with a simple white balustrade above. Rich warm red brick and brilliant white stone provide strong natural contrast, with a dark charcoal roof and brown wood doors as explicitly reconstructed finishes. Complete rear and side walls; no attached modern extension, no grand classical dome, no invented clock face, no flags, people, vehicles or lettering.",
+    "history_lesson": "Cochise County built its red brick courthouse in Tombstone in 1882. The building brought county offices and a courtroom to a mining town whose residents had previously travelled to Tucson to record legal business.",
+    "sources": [
+      {"url": "https://npgallery.nps.gov/GetAsset/fdd63b9c-ecad-4d08-8ac5-bb37cca1bd48", "title": "Arizona State Parks, Tombstone Courthouse National Register nomination, 1970, sections 7-8", "supports": "Describes the 1882 plan, later 1904 addition, red brick, white stone trim, cupola, windows and porch; documents county formation and legal function."},
+      {"url": "https://azmemory.azlibrary.gov/nodes/view/171746", "title": "Arizona State Library, Tombstone Courthouse State Historic Park", "supports": "Confirms the two-storey red brick courthouse's 1882 construction and its use for Cochise County offices and courts."}
+    ],
+    "uncertainties": ["The nomination describes a surviving altered building. Omit its explicitly dated 1904 rear addition; exact roof pigments and original window paint are not recovered.", "Fine mouldings and floor plan are simplified for game-camera scale. The card's delay effect is a metaphor, not a claim that this court issued a particular injunction."],
+    "evidence_prepared_at": "2026-10-08"
+  },
+  "post-office": {
+    "subject": "Post Office",
+    "canonical_card_id": "post_office",
+    "identity_type": "historical_building_type",
+    "date_scope": "1865-1880 (building begun in 1850)",
+    "location_scope": "Fort Laramie, Wyoming Territory, sutler's store and post office complex",
+    "documented_features": ["The postal service occupied part of the sutler/store complex and served soldiers and emigrants [S1][S2].", "The period photograph shows a low masonry range with gabled shingle roof, a chimney and divided-pane windows [S1]."],
+    "documented_colors": ["NPS identifies lime-grout-coloured masonry; the pale cream wall hue is reconstruction from material, not colour recovered from the monochrome photograph [S1].", "The store incorporated adobe and stone; bare wood trim and brown shingle roofing are reconstructed material colours without invented decorative paint [S2]."],
+    "render_brief": "An unoccupied post office within a frontier sutler complex at Fort Laramie, Wyoming Territory, 1865-1880, interpreted from the archival NPS photograph. One low single-storey rectangular stone-and-lime masonry structure, not a wooden false-front saloon. A broad plain side-gabled wood-shingle roof, a single squat masonry chimney toward one end, visible small square wooden rafter ends beneath the eaves. At the front place one plain wooden entrance and two modest divided-pane sash windows. Pale warm cream limewashed masonry with some irregular beige stone showing, natural warm brown wooden door and window frames, brown-silver wood shingles and clear dark window glass. The hues are natural-material reconstructions. Complete gable end and rear walls, one small side window; no repeated storefront on the rear. No modern mail collection box, eagle logo, postwar fixtures, flags, people or readable lettering. A compact detached interpretation of one postal portion of a larger complex.",
+    "history_lesson": "Fort Laramie's post office served soldiers and travellers from the sutler's store complex. Mail routes and, from 1861, the transcontinental telegraph made the post an important communications stop.",
+    "sources": [
+      {"url": "https://www.nps.gov/places/post-office-at-fort-laramie.htm", "title": "National Park Service, Post Office at Fort Laramie, with archival building photograph", "supports": "Establishes postal function and the 1850 origin; archival photograph shows the low masonry building, gabled roof, chimney and windows; caption identifies lime-grout colouring."},
+      {"url": "https://npshistory.com/handbooks/historical/20/hh20s.htm", "title": "National Park Service, Fort Laramie Historical Handbook 20, The Sutler's Store (archival reproduction)", "supports": "Explains adobe and stone phases of the sutler complex and the location of the post office; does not establish original paint hues or a detached postal building."}
+    ],
+    "uncertainties": ["The game model separates one postal portion from the larger complex and simplifies the number of openings. Rear elevation and precise hues are reconstruction.", "This depicts the building in later use; it does not extend active Pony Express operation beyond 1861."],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Viewed NPS archival photograph locally on 2026-10-08 before generation; /tmp/oldwest-post-office-source.jpg."
+  }
+}

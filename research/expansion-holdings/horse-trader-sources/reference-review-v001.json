@@ -1,0 +1,36 @@
+{
+  "status": "pre_modeling_reference_review_complete",
+  "reviewed_at": "2026-10-09T14:01:15.011403+00:00",
+  "actually_viewed": [
+    "Stallion-Barn-drawings-04.png",
+    "Stallion-Barn-drawings-05.png",
+    "Stallion-Barn-photo-9.png"
+  ],
+  "findings": [
+    "HABS MT-39-H drawings, sheets 1–2 (drawn 1976, checked 1977), depict the altered HS19 barn; 1974 photo H-2 provides log, chinking, shingle and plank-gable form.",
+    "Drawing note assigns garage conversion to 1928; nomination says 1920/1920s. Both establish that its garage doors and concrete floor are too late.",
+    "Lean-to chronology conflicts: drawing places it before garage conversion; nomination assigns it to that conversion. Exclude the lean-to rather than resolve this without evidence.",
+    "Nomination printed page 24 dates stallion barns to circa 1870s and describes log joints, lime daubing, wood shingles, plank gables, loft/feed rooms and original stone foundations with log sills.",
+    "Modern concrete foundations, window plastic, stovepipe, garage doors and reconstructed/current fencing cannot be treated as original period evidence.",
+    "Nomination printed pages 11–13 documents early jack-leg fencing and late nineteenth-century barn/corral groups; no exact paddock layout claimed.",
+    "Wood Handbook chapter 2 printed pages 2–13/14 and 2–17 describe natural pine and redcedar colour; these are material analogues, not recovered barn pigments."
+  ],
+  "unusable_downloads": {
+    "NPS-Grant-Kohrs-CLR-Part-I.pdf": "URL returned NPS Park History HTML, not a PDF. Retained for provenance; not used as CLR evidence."
+  },
+  "rejected_leads": [
+    "Rockslide Ridge Stone Barn catalog dated 1880–1899, image unavailable; not used for modeling.",
+    "LoC Colorado livery image unavailable; not used."
+  ],
+  "source_sha256": {
+    "research/expansion-holdings/horse-trader-sources/NPS-Grant-Kohrs-Stallion-Barn.pdf": "2feeed49b1a3a8fb3eae1ea320aae87be5b0b6601a68240a3e9d69b308a80a97",
+    "research/expansion-holdings/horse-trader-sources/Stallion-Barn-drawing-3.png": "eb6ff23ead99dd916f1cc064d1737abd1e7b35b3b03c0fd5bf4f733bda3e41f8",
+    "research/expansion-holdings/horse-trader-sources/NPS-Ranching-Landscape.html": "218cbde082f5b059801a07fe8563954d69174461d6bdb24d312afdf4997bb725",
+    "research/expansion-holdings/horse-trader-sources/Stallion-Barn-photo-9.png": "547bdee028211ac0c95f074d5c86c4fb9c3f1d333c24241903432b0b70f054c5",
+    "research/expansion-holdings/horse-trader-sources/Stallion-Barn-drawings-04.png": "38f8036bd380a37c3daa3abb9b00dc513c17de8c027bebfc0a7c416d07d4406c",
+    "research/expansion-holdings/horse-trader-sources/NPS-Grant-Kohrs-CLR-Part-I.pdf": "ea00fe8773e13504d64b1bf935a23a2b90b62e6b3a037a4d31937964007c8ef2",
+    "research/expansion-holdings/horse-trader-sources/Stallion-Barn-drawings-05.png": "2951ed24012a3138b410cb960ba08184fd2e53e04de09c36115d7328ed304353",
+    "research/expansion-holdings/horse-trader-sources/USDA-Wood-Handbook-Ch02.pdf": "7e2885fe2a6e9e94a181f60d24b494b82ce81f1b3c2e23592bea99c36d253a55",
+    "research/expansion-holdings/horse-trader-sources/NPS-Grant-Kohrs-Nomination.pdf": "64ef25841163743ccf71d9c58846b16cc68b71b5d9fc3b18ef151b9be93a4521"
+  }
+}

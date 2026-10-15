@@ -1,0 +1,24 @@
+{
+  "reviewed": true,
+  "source_records": {
+    "art/western/holdings/expansion-review-v001/jailhouse/references/NPS-Fort-Smith-NHL-2015.pdf": "558032d4ee5950f9fce862b2224ae8dd6a2f011d5308c2774a15c8cddcc8729b",
+    "research/expansion-holdings/bounty-office-sources/nomination-page88.png": "1315bfc5920b9c02843ce2c1da78a1fecb8b529b5f17424dfef6beb5ebc74853",
+    "research/expansion-holdings/bounty-office-sources/nomination-page15.png": "50a61e1a5ff48fdfcd61582441c5eb4c5b3833df925abd415e6740adeb07bc99"
+  },
+  "notes": {
+    "completed": true,
+    "read_pages": [
+      12,
+      14,
+      15,
+      16,
+      88
+    ],
+    "viewed_pages": [
+      15,
+      88
+    ],
+    "observations": "The historic photographs show the low pre-1891 profile, full galleries, long roof and paired high chimney/parapet silhouettes. Original photographs are monochrome; material hues are reconstructed. No roof ventilators from the later enlargement."
+  },
+  "not_a_replica": true
+}

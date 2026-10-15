@@ -1,0 +1,17 @@
+{
+  "retrieved_at": "2026-10-09T17:43:10.197250+00:00",
+  "records": [
+    {
+      "url": "https://history.santacruzpl.org/omeka/iiif/10189/manifest",
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-SCM072-manifest.json",
+      "sha256": "ef342e9862ca0440fc2c628106fe6418a28cf09d86afed49a89580c5745e50c9",
+      "http_status": 200
+    },
+    {
+      "url": "https://history.santacruzpl.org/omeka/iiif/134535/manifest",
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-manifest.json",
+      "sha256": "e9d2ff7e12826aab880108313cde10f09f5e0dc391031ae9eb4a9659c3865bb7",
+      "http_status": 200
+    }
+  ]
+}

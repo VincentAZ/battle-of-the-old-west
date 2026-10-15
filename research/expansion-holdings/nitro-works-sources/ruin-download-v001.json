@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-09T18:02:08.735332+00:00",
+  "records": [
+    {
+      "url": "https://www.nps.gov/bibe/learn/historyculture/2019-castolon-fire.htm",
+      "local": "research/expansion-holdings/nitro-works-sources/NPS-Castolon-Fire.html",
+      "sha256": "309f54c63d4749b3c1a1c69b1ae25d85b626b3c2f6bd5a71a84f854ada151717",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.nps.gov/bibe/learn/historyculture/images/beforeafter.jpg?autorotate=false&format=webp&maxheight=1300&maxwidth=1300",
+      "local": "research/expansion-holdings/nitro-works-sources/NPS-Castolon-Before-After.webp",
+      "sha256": "356745e6459b5835f8ff4da7a32e2b4c1efe9c8022b0bd6d849596cedc784991",
+      "http_status": 200
+    }
+  ]
+}

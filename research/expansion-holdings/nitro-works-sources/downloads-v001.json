@@ -1,0 +1,31 @@
+{
+  "retrieved_at": "2026-10-09T17:42:17.051270+00:00",
+  "records": [
+    {
+      "url": "https://emuseum.toledomuseum.org/objects/46249/california-powder-works-spcrr",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://emuseum.toledomuseum.org/internal/media/dispatcher/38154",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071.html",
+      "url": "https://history.santacruzpl.org/omeka/items/show/134535",
+      "final_url": "https://history.santacruzpl.org/omeka/items/show/134535",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 12720,
+      "sha256": "6010910b0510e8791416fcb9383fc52fa49ff76f3d59412baf9565d44dec972c"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/MAH-album-86161.html",
+      "url": "https://archives.santacruzmah.org/collections/california-powder-works-photo-album-collection/",
+      "final_url": "https://archives.santacruzmah.org/collections/california-powder-works-photo-album-collection/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 53614,
+      "sha256": "abe8f26b4f69a5f7db3b475e37c7ae4ed3d558d71bf0c56cc5cd991d1bc41ad4"
+    }
+  ]
+}

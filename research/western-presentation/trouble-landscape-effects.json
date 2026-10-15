@@ -1,0 +1,16 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Presentation-only resolution effects for the three sourced Trouble landscape miniatures. Retain authoritative event order and existing shot timing.",
+  "parent_evidence": "research/western-presentation/trouble-landscapes.json",
+  "render_briefs": {
+    "hard_winter": "Small white snow particles blow diagonally downward around the existing storm miniature. Remove the old rust-coloured falling cylinders. A brief white-blue light accent is an illustrative game cue, not a claim that snow emits light.",
+    "box_canyon": "A few small tan sandstone fragments settle near the canyon floor. No levitating golden signals. A restrained warm light accent is a game cue.",
+    "prairie_fire": "Small orange embers drift upward locally from the burning grass and shrink away. Do not launch glowing ordnance toward the enemy. Warm orange light is consistent with fire; exact particle size and path are symbolic."
+  },
+  "audio": "Omit the shared metal impact sound for these landscape effects. No new recording or claim of authentic period sound.",
+  "sources": [
+    {"url": "https://www.nps.gov/grko/learn/historyculture/winter.htm", "claim": "Blizzard and snow context; does not fix individual snow particle trajectories."},
+    {"url": "https://www.nps.gov/articles/nps-geodiversity-atlas-el-morro-national-monument-new-mexico.htm", "claim": "Rockfall is a documented erosion process in the sandstone. Small settling fragments are illustrative, not a recorded fall."},
+    {"url": "https://www.nps.gov/tapr/learn/nature/fire-regime.htm", "claim": "Burning prairie fuel context. Ember trajectories and light intensities are artist reconstruction."}
+  ]
+}

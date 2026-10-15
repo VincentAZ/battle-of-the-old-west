@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "url": "https://www.historycolorado.org/location/frank-silence-cabin",
+      "result": "Web internal errors; direct HTTP 202 empty body; no content evidence."
+    },
+    {
+      "url": "https://www.museum.littletonco.gov/Exhibits/Outside-Exhibits-Living-History/Historic-Farm-Sites/1860s-Living-History-Farm",
+      "result": "Direct HTTP 404; not selected."
+    },
+    {
+      "url": "https://www.loc.gov/pictures/item/2015633438/",
+      "result": "Web 403; no retry or alternate route."
+    }
+  ],
+  "selected_alternative": "USU 1874 Mancos photograph, unrelated to failed records"
+}

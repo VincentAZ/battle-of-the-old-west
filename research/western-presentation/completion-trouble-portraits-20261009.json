@@ -1,0 +1,25 @@
+{
+  "recorded_utc": "2026-10-09T19:03:55.241262+00:00",
+  "scope": "Trouble portrait integration only; existing sourced geometry and materials reused unchanged.",
+  "history_sources": [
+    "research/western-presentation/trouble-landscapes.json",
+    "research/western-presentation/trouble-objects.json",
+    "research/western-presentation/trouble-schemes.json"
+  ],
+  "changes": [
+    "All ten canonical Trouble portraits resolve the same catalog miniatures used by the fuse tokens.",
+    "Actual mesh bounds control portrait framing; clear warm light preserves full natural colour.",
+    "Removed legacy generic people, aircraft, industrial tanks and expulsion grille from these event portraits.",
+    "Stampede keeps its existing three-longhorn animated portrait."
+  ],
+  "new_art_or_history_claims": false,
+  "mechanics_changed": false,
+  "package_validation": "passed",
+  "runtime_evidence": "tests/runs/western-completion-20261009/portraits-final/result.json",
+  "agent_visual_review": "All three actual gallery captures inspected; all ten Western miniatures and animated Stampede render, with no old event proxy people or aircraft. Finer viewing-angle adjustments remain polish.",
+  "captures": [
+    "tests/runs/western-completion-20261009/portraits-final/01-loop.png",
+    "tests/runs/western-completion-20261009/portraits-final/02-loop.png",
+    "tests/runs/western-completion-20261009/portraits-final/03-loop.png"
+  ]
+}

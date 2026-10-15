@@ -1,0 +1,45 @@
+{
+  "status": "research_in_progress_not_authoring_approval",
+  "read_sources": [
+    {
+      "url": "https://nccsda.com/about-us/california-conference-history/",
+      "access": "Read through web tool before direct-download 403; no local HTML copy.",
+      "facts": [
+        "Institutional history records tent meetings in Petaluma beginning in 1868.",
+        "It reports a 60-foot circular meeting tent, with 33 other tents, at Windsor in October 1872."
+      ],
+      "limits": "Modern institutional account, not a measured drawing; unrelated claims elsewhere on the page are not evidence for this asset."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/665.1535",
+      "access": "Read through web tool; no local HTML copy.",
+      "facts": [
+        "Biographical page reproduces James White’s October 3, 1872 description, attributed to Review and Herald, October 15, 1872: 33 tents besides a large congregation tent and provision stand."
+      ],
+      "limits": "Quotation transmitted through later biography; original newspaper page not yet examined. Geographic prose on this page should not be copied without separate verification."
+    }
+  ],
+  "not_retried": [
+    {
+      "url": "https://encyclopedia.adventist.org/article?highlight=Conference&id=C92J",
+      "reason": "403 in web tool; not used as a model reference."
+    },
+    {
+      "url": "https://scholars.fhsu.edu/halstead/31/",
+      "reason": "Web cache miss, then direct 403; photograph not retrieved or inspected."
+    },
+    {
+      "url": "https://nccsda.com/about-us/california-conference-history/",
+      "reason": "Direct download 403 after successful web reading; no retry."
+    },
+    {
+      "url": "https://text.egwwritings.org/read/672.2818",
+      "reason": "Direct download 403 after successful web reading; no retry."
+    }
+  ],
+  "research_next": [
+    "Inspect an actual period tent photograph or illustration and distinguish Eastern comparative evidence.",
+    "Pin white canvas, poles, rope supports, seating and podium evidence before modeling.",
+    "Complete the fiction/reconstruction disclosure and three-line optional History. No Revival Tent model is authored yet."
+  ]
+}

@@ -1,0 +1,1098 @@
+{
+  "schema_version": 1,
+  "set": "boomtown",
+  "cards": [
+    {
+      "id": "gunsmith",
+      "name": "Gunsmith",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Hire a drifter.",
+          "effect_id": "gain_punk",
+          "count": 1
+        }
+      ],
+      "trait": "Your drifters gain a 2-whiskey hit ability.",
+      "traits": [
+        {
+          "effect_id": "grant_ability",
+          "recipients": "friendly_punks",
+          "ability": {
+            "cost": 2,
+            "effect": "Damage an unprotected enemy card.",
+            "effect_id": "damage",
+            "target": {
+              "side": "opponent",
+              "kind": "card",
+              "protection": "respected"
+            }
+          }
+        }
+      ],
+      "ruling_notes": []
+    },
+    {
+      "id": "jailhouse",
+      "name": "Jailhouse",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Take control of a damaged enemy crew member and place it in a column on your side with room.",
+          "effect_id": "recruit",
+          "target": {
+            "side": "opponent",
+            "kind": "person",
+            "protection": "ignored",
+            "damaged": true
+          },
+          "destination": "friendly_available_position",
+          "reenter_play": false,
+          "preserve_damage": true
+        },
+        {
+          "cost": 2,
+          "effect": "Patch up one of your other damaged cards.",
+          "effect_id": "restore",
+          "target": {
+            "side": "self",
+            "kind": "card",
+            "protection": "ignored",
+            "damaged": true,
+            "exclude_source": true
+          }
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "robbers_roost",
+      "name": "Robbers Roost",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [],
+      "trait": "Gain 1 extra whiskey whenever your Stampede resolve.",
+      "traits": [
+        {
+          "effect_id": "trigger",
+          "trigger": "friendly_raiders_resolved",
+          "steps": [
+            {
+              "effect_id": "gain_water",
+              "amount": 1
+            }
+          ]
+        }
+      ],
+      "ruling_notes": []
+    },
+    {
+      "id": "timber_ram",
+      "name": "Timber Ram",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 3,
+          "effect": "Destroy any enemy holding if you have at least six crew.",
+          "effect_id": "destroy",
+          "target": {
+            "side": "opponent",
+            "kind": "camp",
+            "protection": "ignored"
+          },
+          "condition": {
+            "counter": "friendly_people",
+            "comparison": ">=",
+            "value": 6
+          }
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "smuggler_s_landing",
+      "name": "Smuggler's Landing",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Use the hock effect of a crew member that entered play this turn, leaving the crew member in play.",
+          "effect_id": "use_entered_person_junk",
+          "target": {
+            "side": "as_printed",
+            "kind": "person",
+            "protection": "ignored",
+            "entered_this_turn": true
+          },
+          "exclude_restore_source": true
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "The printed text says a crew member, without specifying its controller. No controller restriction has been invented in this descriptor.",
+        "The source holding cannot patch up itself. Drifters have no accessible printed hock unless another rule expressly permits it."
+      ]
+    },
+    {
+      "id": "rockslide_ridge",
+      "name": "Rockslide Ridge",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 3,
+          "effect": "Destroy every enemy crew member in one column and hit its holding; then destroy Rockslide Ridge.",
+          "effect_id": "rockslide_ridge",
+          "target": {
+            "side": "opponent",
+            "kind": "column",
+            "protection": "ignored"
+          },
+          "steps": [
+            {
+              "effect_id": "destroy_people_in_column"
+            },
+            {
+              "effect_id": "damage_camp_in_column"
+            },
+            {
+              "effect_id": "destroy_source"
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Check victory after enemy holding hit; destroying the opponent's final holding wins before the self-destruction step."
+      ]
+    },
+    {
+      "id": "bounty_office",
+      "name": "Bounty Office",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "If the opponent has no drifters, hit any of their holdings; then they may hire a drifter.",
+          "effect_id": "bounty_office",
+          "condition": {
+            "counter": "opponent_punks",
+            "comparison": "==",
+            "value": 0
+          },
+          "steps": [
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "opponent",
+                "kind": "camp",
+                "protection": "ignored"
+              }
+            },
+            {
+              "effect_id": "gain_punk",
+              "player": "opponent",
+              "optional": true,
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "packer_s_cabin",
+      "name": "Packer's Cabin",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Hit one of your undamaged cards, then patch up another eligible friendly card.",
+          "effect_id": "packer_s_cabin",
+          "steps": [
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "self",
+                "kind": "card",
+                "protection": "ignored",
+                "damaged": false
+              }
+            },
+            {
+              "effect_id": "restore",
+              "target": {
+                "side": "self",
+                "kind": "card",
+                "protection": "ignored",
+                "damaged": true,
+                "exclude_source": true
+              }
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "The hit may affect the Totem itself when undamaged; the later patch up cannot patch up its own source."
+      ]
+    },
+    {
+      "id": "revival_tent",
+      "name": "Revival Tent",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Destroy one of your crew, then hit an exposed enemy card.",
+          "effect_id": "sacrifice_damage",
+          "steps": [
+            {
+              "effect_id": "destroy",
+              "target": {
+                "side": "self",
+                "kind": "person",
+                "protection": "ignored"
+              }
+            },
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "opponent",
+                "kind": "card",
+                "protection": "respected"
+              }
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "vigilance_committee",
+      "name": "Vigilance Committee",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Discard five non-Flask hand cards to destroy any enemy crew member or holding.",
+          "effect_id": "discard_destroy",
+          "additional_cost": {
+            "discard_hand": 5,
+            "exclude_ids": [
+              "hip_flask"
+            ]
+          },
+          "target": {
+            "side": "opponent",
+            "kind": "card",
+            "protection": "ignored"
+          }
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "courthouse",
+      "name": "Courthouse",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Spook the herd.",
+          "effect_id": "raid"
+        }
+      ],
+      "trait": "When your Stampede resolve, push each opposing queued Trouble back one space if it can move.",
+      "traits": [
+        {
+          "effect_id": "trigger",
+          "trigger": "friendly_raiders_resolved",
+          "steps": [
+            {
+              "effect_id": "push_events_back",
+              "player": "opponent",
+              "spaces": 1,
+              "blocked": "stay"
+            }
+          ]
+        }
+      ],
+      "ruling_notes": []
+    },
+    {
+      "id": "post_office",
+      "name": "Post Office",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 3,
+          "effect": "Draw two cards.",
+          "effect_id": "draw",
+          "count": 2
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "army_surgeon_s_tent",
+      "name": "Army Surgeon's Tent",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Move one of your damaged crew into this column, then patch up that crew member.",
+          "effect_id": "move_restore",
+          "target": {
+            "side": "self",
+            "kind": "person",
+            "protection": "ignored",
+            "damaged": true
+          },
+          "destination": "source_column_available_position",
+          "steps": [
+            {
+              "effect_id": "move_person"
+            },
+            {
+              "effect_id": "restore",
+              "target": "moved_person"
+            }
+          ]
+        },
+        {
+          "cost": 2,
+          "effect": "Spook the herd.",
+          "effect_id": "raid"
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "A damaged crew member and available room in the Hospital column are required. Normal insertion around an existing crew member applies. Restoration does not ready the crew member."
+      ]
+    },
+    {
+      "id": "wagon_fort",
+      "name": "Wagon Fort",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 3,
+          "effect": "Gain up to three drifters, one at a time.",
+          "effect_id": "gain_punk",
+          "count": 3
+        }
+      ],
+      "trait": "Starts one space forward; a crew member may be placed behind it.",
+      "traits": [
+        {
+          "effect_id": "setup_forward_camp",
+          "spaces": 1
+        }
+      ],
+      "ruling_notes": [
+        "On destruction, return the burned-out holding to the rear holding position and move its crew in front."
+      ]
+    },
+    {
+      "id": "free_homestead",
+      "name": "Free Homestead",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Hire a drifter if the opponent has an exposed holding.",
+          "effect_id": "gain_punk",
+          "count": 1,
+          "condition": {
+            "predicate": "opponent_has_unprotected_camp"
+          }
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "coal_yard",
+      "name": "Coal Yard",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 2,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Spook the herd; if this launches Stampede, launch them at queue position 3.",
+          "effect_id": "raid",
+          "launch_delay": 3
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Confirmed ruling: active Zeto overrides the launch delay for the first Trouble played that turn; Stampede resolves at delay 0. Queued Stampede still advances normally."
+      ]
+    },
+    {
+      "id": "gallows",
+      "name": "Gallows",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Destroy an exposed enemy crew member. Its controller may then use that destroyed crew member's ability without paying whiskey.",
+          "effect_id": "gallows",
+          "target": {
+            "side": "opponent",
+            "kind": "person",
+            "protection": "respected"
+          },
+          "steps": [
+            {
+              "effect_id": "destroy_target"
+            },
+            {
+              "effect_id": "offer_destroyed_person_ability",
+              "player": "opponent",
+              "waive_water": true,
+              "optional": true
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Destruction occurs before the granted use. Sarah Winnemucca / Getaway Rider cannot return itself; Hellfire Preacher / Revival Sister must sacrifice a different surviving crew member. Bartender / Piano Player whiskey persists into its controller's turn. Con Man / Bass Reeves uses the FAQ source-eligibility procedure."
+      ]
+    },
+    {
+      "id": "pawn_shop",
+      "name": "Pawn Shop",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Discard two non-Flask hand cards. Optionally resolve either or both hock effects in either order, then hit an exposed enemy card.",
+          "effect_id": "pawn_shop",
+          "additional_cost": {
+            "discard_hand": 2,
+            "exclude_ids": [
+              "hip_flask"
+            ]
+          },
+          "steps": [
+            {
+              "effect_id": "optional_junks_from_discarded",
+              "minimum": 0,
+              "maximum": 2,
+              "order": "chosen"
+            },
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "opponent",
+                "kind": "card",
+                "protection": "respected"
+              }
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Both cards must be selected and discarded before any hock resolves; a card drawn from a hock cannot replace either payment."
+      ]
+    },
+    {
+      "id": "nitro_works",
+      "name": "Nitro Works",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 2,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Destroy all of your crew in this column, then hit an exposed enemy card.",
+          "effect_id": "nitro_works",
+          "steps": [
+            {
+              "effect_id": "destroy_people_in_column",
+              "player": "self",
+              "column": "source",
+              "empty_set_allowed": true
+            },
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "opponent",
+                "kind": "card",
+                "protection": "respected"
+              }
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "The published preview explains a viable four-crew member board with the Tower column left empty; the all-crew step is not a requirement to have a crew member there."
+      ]
+    },
+    {
+      "id": "crimp_house",
+      "name": "Crimp House",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Patch up a damaged friendly crew member, then discard the top three deck cards. If any has wound hock, replace that crew member with a drifter and gain 1 extra whiskey.",
+          "effect_id": "crimp_house",
+          "target": {
+            "side": "self",
+            "kind": "person",
+            "protection": "ignored",
+            "damaged": true
+          },
+          "steps": [
+            {
+              "effect_id": "restore_target"
+            },
+            {
+              "effect_id": "discard_top",
+              "count": 3
+            },
+            {
+              "effect_id": "conditional",
+              "condition": {
+                "revealed_junk_contains": "injure"
+              },
+              "steps": [
+                {
+                  "effect_id": "replace_target_with_punk",
+                  "position": "exact_original_position"
+                },
+                {
+                  "effect_id": "gain_water",
+                  "amount": 1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Replacement destroys the crew member and creates a new drifter at exactly that position; the drifter counts as a new entry. The trigger is wound hock, not drifter hock."
+      ]
+    },
+    {
+      "id": "wanted_poster_board",
+      "name": "Wanted Poster Board",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Hire a drifter.",
+          "effect_id": "gain_punk",
+          "count": 1
+        }
+      ],
+      "trait": "You may inspect your drifters. During Actions, pay a revealed crew member's play cost to flip it in place; it enters ready.",
+      "traits": [
+        {
+          "effect_id": "inspect_friendly_punks"
+        },
+        {
+          "effect_id": "flip_punk_person",
+          "phase": "actions",
+          "pay": "person_play_cost",
+          "position": "unchanged",
+          "enters_play": true,
+          "ready": true
+        }
+      ],
+      "ruling_notes": [
+        "Confirmed ruling: place every incoming drifter from Wagon Fort or Gold Rush before inspecting the new faces; never inspect a drifter before placement."
+      ]
+    },
+    {
+      "id": "boot_hill",
+      "name": "Boot Hill",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Patch up another friendly damaged card if one of your cards was damaged or destroyed during this turn.",
+          "effect_id": "restore",
+          "target": {
+            "side": "self",
+            "kind": "card",
+            "protection": "ignored",
+            "damaged": true,
+            "exclude_source": true
+          },
+          "condition": {
+            "predicate": "friendly_card_damaged_or_destroyed_this_own_turn"
+          }
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "boarding_house",
+      "name": "Boarding House",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Remove either player's burned-out holding, opening its space to a crew member, then hit an exposed enemy card.",
+          "effect_id": "boarding_house",
+          "steps": [
+            {
+              "effect_id": "remove_ruined_camp",
+              "target": {
+                "side": "either",
+                "kind": "camp",
+                "protection": "ignored",
+                "destroyed": true
+              }
+            },
+            {
+              "effect_id": "increase_column_person_capacity",
+              "amount": 1
+            },
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "opponent",
+                "kind": "card",
+                "protection": "respected"
+              }
+            }
+          ]
+        },
+        {
+          "cost": 2,
+          "effect": "Spook the herd.",
+          "effect_id": "raid"
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "The burned out-removal step is required to use the one-whiskey hit ability. Removed holdings are distinct from burned-out holdings still present.",
+        "Effects depending on remaining burned-out holdings, especially Cannonade, require the separately recorded rules interpretation."
+      ]
+    },
+    {
+      "id": "rustlers_corral",
+      "name": "Rustlers' Corral",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "If you have a drifter, hire a drifter or spook the herd.",
+          "effect_id": "choose",
+          "condition": {
+            "counter": "friendly_punks",
+            "comparison": ">=",
+            "value": 1
+          },
+          "options": [
+            {
+              "effect_id": "gain_punk",
+              "count": 1
+            },
+            {
+              "effect_id": "raid"
+            }
+          ],
+          "choose": 1
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "quaker_settlement",
+      "name": "Quaker Settlement",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Patch up another friendly damaged card if this holding is undamaged.",
+          "effect_id": "restore",
+          "condition": {
+            "predicate": "source_undamaged"
+          },
+          "target": {
+            "side": "self",
+            "kind": "card",
+            "protection": "ignored",
+            "damaged": true,
+            "exclude_source": true
+          }
+        },
+        {
+          "cost": 2,
+          "effect": "Hit an exposed enemy card if this holding is damaged.",
+          "effect_id": "damage",
+          "condition": {
+            "predicate": "source_damaged"
+          },
+          "target": {
+            "side": "opponent",
+            "kind": "card",
+            "protection": "respected"
+          }
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "chuckwagon",
+      "name": "Chuckwagon",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Ready all of your other holdings and all of your undamaged crew.",
+          "effect_id": "ready",
+          "targets": [
+            {
+              "side": "self",
+              "kind": "camp",
+              "protection": "ignored",
+              "exclude_source": true,
+              "include_damaged": true
+            },
+            {
+              "side": "self",
+              "kind": "person",
+              "protection": "ignored",
+              "damaged": false
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Includes eligible newly entered, patched up, and previously used cards. Does not refund spent whiskey. Does not ready itself."
+      ]
+    },
+    {
+      "id": "horse_trader",
+      "name": "Horse Trader",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 2,
+      "abilities": [
+        {
+          "cost": 0,
+          "effect": "Discard three non-Flask hand cards, then draw two cards.",
+          "effect_id": "discard_draw",
+          "additional_cost": {
+            "discard_hand": 3,
+            "exclude_ids": [
+              "hip_flask"
+            ]
+          },
+          "steps": [
+            {
+              "effect_id": "draw",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "pony_express_station",
+      "name": "Pony Express Station",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Return one of your crew that did not enter this turn to hand. Neither it nor another copy may enter play this turn.",
+          "effect_id": "pony_express_station",
+          "target": {
+            "side": "self",
+            "kind": "person",
+            "protection": "ignored",
+            "entered_this_turn": false
+          },
+          "steps": [
+            {
+              "effect_id": "return_target_to_hand"
+            },
+            {
+              "effect_id": "prohibit_play",
+              "scope": "returned_card_id_and_copies",
+              "duration": "this_turn",
+              "condition": "returned_object_was_faceup_person"
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": [
+        "Confirmed ruling: the reentry restriction applies to a returned faceup crew member and its copies. A returned drifter may be played faceup that turn, and other drifters are not prohibited."
+      ]
+    },
+    {
+      "id": "lookout_ridge",
+      "name": "Lookout Ridge",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "All battlefield cards on both sides are exposed for the rest of this turn.",
+          "effect_id": "remove_protection",
+          "scope": "both_players",
+          "duration": "this_turn"
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "dance_hall",
+      "name": "Dance Hall",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 1,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "If both players have a crew member, hit an exposed enemy card; then the opponent wounds one of your exposed crew.",
+          "effect_id": "dance_hall",
+          "condition": {
+            "predicate": "both_players_have_person"
+          },
+          "steps": [
+            {
+              "effect_id": "damage",
+              "target": {
+                "side": "opponent",
+                "kind": "card",
+                "protection": "respected"
+              }
+            },
+            {
+              "effect_id": "opponent_injure",
+              "target": {
+                "side": "self",
+                "kind": "person",
+                "protection": "respected"
+              },
+              "chosen_by": "opponent"
+            }
+          ]
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "apothecary",
+      "name": "Apothecary",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 1,
+          "effect": "Discard the top deck card; optionally use its hock effect.",
+          "effect_id": "apothecary",
+          "steps": [
+            {
+              "effect_id": "discard_top",
+              "count": 1
+            },
+            {
+              "effect_id": "optional_junks_from_discarded",
+              "minimum": 0,
+              "maximum": 1
+            }
+          ],
+          "exclude_restore_source": true
+        }
+      ],
+      "trait": "",
+      "traits": [],
+      "ruling_notes": []
+    },
+    {
+      "id": "cattlemen_s_club",
+      "name": "Cattlemen's Club",
+      "type": "camp",
+      "set": "boomtown",
+      "edition": "2024_release",
+      "copies": 1,
+      "starting_cards": 0,
+      "abilities": [
+        {
+          "cost": 2,
+          "effect": "Spook the herd.",
+          "effect_id": "raid"
+        }
+      ],
+      "trait": "Your Trouble cards cost 1 less whiskey to play, to a minimum of zero.",
+      "traits": [
+        {
+          "effect_id": "reduce_event_play_cost",
+          "amount": 1,
+          "minimum": 0
+        }
+      ],
+      "ruling_notes": [
+        "The Trouble-card discount does not discount spook the herd-producing abilities, including this holding's own two-whiskey spook the herd."
+      ]
+    }
+  ]
+}

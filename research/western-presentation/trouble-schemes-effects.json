@@ -1,0 +1,16 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Cosmetic resolution cues for the five objects documented in trouble-schemes.json; no rules changes.",
+  "effect_materials": {
+    "M_Trouble_Smoke": {
+      "linear_rgb": [0.74, 0.77, 0.80],
+      "opacity": 0.22,
+      "unlit": true,
+      "edge_fade": "one minus Fresnel, exponent 1",
+      "daylight_emission_scale": 1500.0,
+      "cast_shadow": false
+    }
+  },
+  "interpretation": "A brief pale translucent cloud indicates the howitzer firing. This is stylized black-powder smoke, not a reconstruction of measured smoke density or weather. The other cues remain small warm muzzle accents, local amber sparks, a lamp pulse and gold glints as described in the object briefs.",
+  "review_correction": "The first native smoke cue used an opaque chalk material and looked like a solid rock. A subsequent translucent version still had hard sphere edges and appeared dark against the sunlit terrain. Use a Fresnel edge fade, calibrate pale scattering colour for the daylight exposure, cast no solid-object shadow, and retain the material while the public prop is present so first-use compilation finishes before firing."
+}

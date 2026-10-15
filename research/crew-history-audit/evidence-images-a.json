@@ -1,0 +1,21 @@
+{
+  "purpose": "Local visual comparison only. Museum images were not uploaded to generation services.",
+  "images": [
+    {
+      "file": "met-waistcoat.jpg",
+      "source": "https://www.metmuseum.org/art/collection/search/91135",
+      "object_number": "1979.34.1",
+      "rights": "Public Domain per museum catalog",
+      "audit_use": "Compared silhouette to Con Man; not an exact costume match.",
+      "sha256": "98254b9b1376f442ae84621368b597f1d98cc58cdf80788d7cd1448884d77395"
+    },
+    {
+      "file": "met-coat.jpg",
+      "source": "https://www.metmuseum.org/art/collection/search/103895",
+      "object_number": "1976.333",
+      "rights": "Public Domain per museum catalog",
+      "audit_use": "Inspected but not cited as a match: belted double-breasted garment differs from current adult sack/frock coats.",
+      "sha256": "05536dc336386f88124db91313bfbbeb7f6bd2da85ab105f0ab299400da92ca2"
+    }
+  ]
+}

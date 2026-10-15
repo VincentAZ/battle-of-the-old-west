@@ -1,0 +1,31 @@
+{
+  "retrieved_at": "2026-10-09T18:10:06.871905+00:00",
+  "records": [
+    {
+      "url": "https://www.oregonencyclopedia.org/articles/shanghai_tunnels_myth/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.oregonencyclopedia.org/articles/portland_seamen_s_friend_society/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "file": "research/expansion-holdings/crimp-house-sources/OHS-Boss-Lunch-023658.jpg",
+      "url": "https://www.oregonencyclopedia.org/media/uploads/Boss_Lunch__constructed_c_1879_likely_connected_to_underground_passage_023658_s.jpg",
+      "status": 200,
+      "sha256": "8f3c34cf7430903c20183869e1a36df17f6694ad1764c172400f9d06127b2bf8"
+    },
+    {
+      "file": "research/expansion-holdings/crimp-house-sources/OHS-Front-Street-1874-47424.jpg",
+      "url": "https://www.oregonencyclopedia.org/media/uploads/47424.jpg",
+      "status": 200,
+      "sha256": "5f02848107377beb6e26437c94ab7c467cd628151091ec3801eb70e5f74ac864"
+    },
+    {
+      "file": "research/expansion-holdings/crimp-house-sources/OHS-Waterfront-c1900-gi4803.jpg",
+      "url": "https://www.oregonencyclopedia.org/media/uploads/waterfront_c1900_gi4803.jpg",
+      "status": 200,
+      "sha256": "35509aeca428a18c6da8a27e0fa6786c26d73b2ab3ff96e0a1a4c4de073effd5"
+    }
+  ]
+}

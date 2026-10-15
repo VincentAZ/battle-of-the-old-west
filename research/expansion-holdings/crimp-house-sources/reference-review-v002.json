@@ -1,0 +1,25 @@
+{
+  "status": "architectural_type_and_materials_selected_before_modeling",
+  "reviewed_at": "2026-10-09T18:14:32.579181+00:00",
+  "previous_review": "research/expansion-holdings/crimp-house-sources/reference-review-v001.json",
+  "previous_review_sha256": "866f1cc079c37f0889b35fe3de8447799ec3b8388ae5b79e64cafa493ebc4597",
+  "actually_read": [
+    "Oregon district continuation section 7 pages 1–3, with the attached Bishop’s House record distinguished.",
+    "NPS Brief 27 historical construction discussion.",
+    "NPS Metals in America printed page 136: stone-imitating paint.",
+    "NPS Brief 4 period metal roofing discussion."
+  ],
+  "actually_viewed": [
+    "OHS-Front-Street-1874-47424.jpg (prior recorded inspection)"
+  ],
+  "decisions": [
+    "Retain the Boss Lunch image-date uncertainty; it supplies no period facade or colour claim.",
+    "Choose a fictional local commercial building type using the period streetscape and district description.",
+    "Stone-like paint is a documented period treatment; exact warm cream is reconstruction.",
+    "No tunnel network, criminal biography or attribution to a charitable institution."
+  ],
+  "limitations": [
+    "No exact historical plan, roof survey, paint sample or room-use plan.",
+    "Sources establish the type and material choices; they do not prove this fictional establishment existed."
+  ]
+}

@@ -1,0 +1,620 @@
+[
+  {
+    "slug": "annie-oakley",
+    "identity_type": "documented_person",
+    "date_scope": "late 1880s",
+    "location_scope": "United States; touring Wild West performances",
+    "historical_basis": "Annie Oakley was a documented woman exhibition shooter. Her late-1880s performance context is compatible with the current brief, within the working 1865–1900 collection scope.",
+    "history_lesson": "Annie Oakley joined Buffalo Bill’s Wild West in 1885. Her marksmanship was a professional exhibition skill; a performance costume should not be treated as the everyday dress of all frontier women.",
+    "sources": [
+      {
+        "url": "https://postalmuseum.si.edu/exhibition/women-on-stamps-part-4-theatre-and-dance/a-sure-shot-annie-oakley",
+        "title": "Smithsonian National Postal Museum — A Sure Shot: Annie Oakley",
+        "supports": "Oakley’s identity and Wild West career beginning in 1885; indexed institutional text available, direct page blocked."
+      },
+      {
+        "url": "https://npg.si.edu/object/npg_NPG.2007.190",
+        "title": "Smithsonian National Portrait Gallery — Annie Oakley, John Wood, c.1887",
+        "supports": "Catalog dates a portrait to about 1887; birth in 1860. Metadata supports dating, not the mesh’s exact green fabric or firearm."
+      }
+    ],
+    "mesh_observations": "Mesh shows a young woman, long dark hair, light brimmed hat, fitted high-neck green bodice and skirt, gaiters, boots and vertically slung long gun.",
+    "issues": [
+      "The prompt explicitly depicts her in her late twenties, so date this render to the late 1880s; it is not a circa-1880 portrait.",
+      "Exact green costume, firearm model, sling and facial likeness have not been matched to a single dated photograph.",
+      "Retain her documented female identity."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/annie-oakley/character.json",
+      "art/western/crew/review-v002/annie-oakley/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "348ce8cd49c1e4ae1517437f39fb9539f7ecca5446e163766ba7664570164c3c",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "assayer",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1880s",
+    "location_scope": "Western United States mining towns",
+    "historical_basis": "Federal and private assaying are documented Western occupations. This is an invented worker, not a named historical assayer.",
+    "history_lesson": "Assayers determined the precious-metal content of material brought from mines. The 1870 U.S. Mint report already records Denver operating as an assay office, connecting mining districts with bullion valuation.",
+    "sources": [
+      {
+        "url": "https://fraser.stlouisfed.org/files/docs/publications/usmint/usmint_1870_annual-report.pdf",
+        "title": "Federal Reserve Bank of St. Louis / U.S. Mint — Annual Report, 1870",
+        "supports": "Contemporary report identifies Denver as an assay office and describes melting, assaying and stamping bullion; indexed text reviewed."
+      },
+      {
+        "url": "https://history.idaho.gov/wp-content/uploads/2018/09/US_Assay_Office_66000305.pdf",
+        "title": "Idaho State Historical Society — U.S. Assay Office nomination",
+        "supports": "Boise assay-office building dated 1870–71; institutional evidence for occupation and location, not clothing."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "National Park Service — Gilded Age Fashion",
+        "supports": "Period menswear used layered suit components including waistcoats; this supports the garment category, not this work outfit."
+      }
+    ],
+    "mesh_observations": "Mesh has wire spectacles, shirt, dark waistcoat, short leather apron, small belt pouches and a circular instrument.",
+    "issues": [
+      "No source identifies the exact outfit or belt arrangement.",
+      "The loupe-like accessory is an artistic role cue; a visual inspection alone did not determine ore value. Do not describe it as a complete assay kit."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/assayer/character.json",
+      "art/western/crew/review-v002/assayer/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "ce5d85f2bc9105849290b5f87e07d5b966e2881ca211e2bbf450d345b1a2ea75",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "augustus-powder-pike",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1890s",
+    "location_scope": "Western mining districts",
+    "historical_basis": "Invented blasting worker. Dynamite existed within the period, but the fictional name and appearance have no historical biography.",
+    "history_lesson": "Alfred Nobel patented dynamite in 1867, and its manufacture expanded during the following years. “Powder Pike” is fictional; this context explains an industrial blasting role, not a historical individual.",
+    "sources": [
+      {
+        "url": "https://www.nobelpeaceprize.org/nobel-peace-prize/history/alfred-nobel",
+        "title": "Norwegian Nobel Committee — Alfred Nobel",
+        "supports": "Dynamite patent in 1867."
+      },
+      {
+        "url": "https://www.nobelprize.org/alfred-nobel/the-nobel-dynamite-companies/",
+        "title": "Nobel Prize — The Nobel Dynamite Companies",
+        "supports": "Industrial manufacture and expansion of dynamite; does not document body-worn explosive bundles."
+      }
+    ],
+    "mesh_observations": "All eight mesh views inspected. Red shirt, brown waistcoat, hat, gloves, trousers, closed leather belt pouch and small coiled rope/fuse-like object. No exposed dynamite sticks appear in the delivered mesh.",
+    "issues": [
+      "The initial prompt requested exposed dynamite sticks, but these are absent from the actual mesh; do not regenerate to remove a nonexistent prop.",
+      "The small coil cannot be positively identified as period safety fuse from the render; call it an interpretive work accessory, not a documented blasting apparatus.",
+      "Exact worker clothing and pouch contents remain invented."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/augustus-powder-pike/character.json",
+      "art/western/crew/review-v002/augustus-powder-pike/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "1f5dbac3e6866a8d18e7a736a75877cc5af989acf09a3e62770ba47591cdb7f8",
+    "views_reviewed": [
+      "front",
+      "side",
+      "rear",
+      "three-quarter",
+      "game-camera",
+      "face-detail",
+      "hands-detail",
+      "underside-diagnostic"
+    ]
+  },
+  {
+    "slug": "barn-burner",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1880s",
+    "location_scope": "Western United States; contextual example Lincoln, New Mexico",
+    "historical_basis": "Fictional destructive actor, not a standardized historical trade or uniform. Western conflict included deliberate building burning.",
+    "history_lesson": "During the Lincoln County War in 1878, members of the Murphy–Dolan faction set fire to Alexander McSween’s house. This documents destructive fire in a Western conflict; it does not establish a professional “barn burner” occupation or this character’s biography.",
+    "sources": [
+      {
+        "url": "https://nmhistoricsites.org/fort-stanton/the-apache-and-lincoln-county-wars-1870-1896",
+        "title": "New Mexico Historic Sites — The Apache and Lincoln County Wars, 1870–1896",
+        "supports": "Institutional account of the burning of McSween’s house."
+      },
+      {
+        "url": "https://tile.loc.gov/storage-services/service/ndnp/mohi/batch_mohi_eeyore_ver01/data/sn87052143/00294556552/1880071701/0577.pdf",
+        "title": "Library of Congress — Lexington Intelligencer, July 17, 1880",
+        "supports": "Contemporary newspaper mentions a kerosene can; demonstrates period terminology but not the rendered can’s exact construction."
+      }
+    ],
+    "mesh_observations": "Actual mesh carries a small cylindrical metal vessel with bail and short projecting spout; brown work jacket, hat, gloves and trousers. It does not carry the rejected modern rectangular jerrycan.",
+    "issues": [
+      "The exact vessel pattern has not been matched to a dated artifact.",
+      "Do not claim a standardized arsonist uniform or turn the fictional action label into a documented occupation."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/barn-burner/character.json",
+      "art/western/crew/review-v002/barn-burner/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "f122563c45e14c2a566a00bb159df9254ded799b7d70947007fc54a9c71f220c",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "bartender",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1890s",
+    "location_scope": "American saloon/bar context",
+    "historical_basis": "Bartending is a documented nineteenth-century occupation; this face and costume are fictional.",
+    "history_lesson": "Nineteenth-century bartenders worked from a substantial repertoire of mixed drinks. Jerry Thomas’s surviving bar-tender’s guide records recipes and professional drink preparation, showing that saloon service involved learned skills.",
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/07000656/",
+        "title": "Library of Congress — Jerry Thomas, The Bar-tender’s Guide, 1887 edition",
+        "supports": "Contemporary professional manual; this catalog copy is dated 1887, not the first 1862 edition."
+      },
+      {
+        "url": "https://guides.loc.gov/early-mixology-books",
+        "title": "Library of Congress — American Mixology: Recipe Books from the Pre-Prohibition Era",
+        "supports": "Institutional guide to period bartender manuals, 1869–1911."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "National Park Service — Gilded Age Fashion",
+        "supports": "Period civilian menswear included multi-piece suits and waistcoats; this does not establish a saloon uniform."
+      }
+    ],
+    "mesh_observations": "Mesh shows rolled white shirt sleeves, waistcoat, bow tie, long light apron and tucked towel.",
+    "issues": [
+      "These sources document work and recipes, not this exact saloon uniform or color palette.",
+      "No personal biography should be assigned to this unnamed composite."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/bartender/character.json",
+      "art/western/crew/review-v002/bartender/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "55db43ba80af94a1bd250e57cd5b74105c8bfcde2840c2afcd32b65fc4abd257",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "bass-reeves",
+    "identity_type": "documented_person",
+    "date_scope": "1880s",
+    "location_scope": "Indian Territory and Western District of Arkansas",
+    "historical_basis": "Bass Reeves was a documented Black deputy U.S. marshal. Changing him to a white man would contradict the historical identity.",
+    "history_lesson": "Born enslaved around 1838, Bass Reeves entered deputy-marshal service in 1875. The National Park Service cautions that familiar totals of arrests and killings rest on an incomplete and exaggerated record, so those figures should not be presented as settled fact.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/articles/000/bass-reeves-site-bulletin.htm",
+        "title": "National Park Service — Bass Reeves (Site Bulletin)",
+        "supports": "Identity, approximate birth date, deputy appointment and explicit cautions about legendary career statistics; includes historical portrait."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "National Park Service — Gilded Age Fashion",
+        "supports": "Sack-coat tailoring is documented period menswear; this does not identify Reeves’s actual coat."
+      }
+    ],
+    "mesh_observations": "Mesh has a Black face, heavy mustache, brimmed dark hat, sack-style coat, waistcoat, small badge and holstered sidearm.",
+    "issues": [
+      "Exact star badge pattern, sidearm model, hat and full outfit are not established by this source.",
+      "The face is an interpretation informed by historical portraits, not a verified likeness reconstruction.",
+      "Retain Black identity; label uniform and equipment details as interpretive."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/bass-reeves/character.json",
+      "art/western/crew/review-v002/bass-reeves/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "a45d507a1d817bd004782cd1b0db998a9f6189e90d7fa60df1586d9fc37b7110",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "billy-the-kid",
+    "identity_type": "documented_person",
+    "date_scope": "circa 1879–1881",
+    "location_scope": "New Mexico Territory",
+    "historical_basis": "William H. Bonney, known as Billy the Kid, is documented in New Mexico territorial records. The current young adult is a portrait-inspired interpretation.",
+    "history_lesson": "Billy the Kid’s history survives in territorial government, court and newspaper records. He died in 1881; those records should take precedence over later screen portrayals and claims that every newly discovered photograph shows him.",
+    "sources": [
+      {
+        "url": "https://www.srca.nm.gov/billy-the-kid/",
+        "title": "New Mexico State Records Center & Archives — Billy the Kid Research Resources",
+        "supports": "Institutional guide to territorial records, newspapers and death in 1881."
+      },
+      {
+        "url": "https://www.newmexico.org/things-to-do/arts-culture/historical/billy-the-kid/",
+        "title": "New Mexico Tourism Department — Billy the Kid in New Mexico",
+        "supports": "Lincoln courthouse escape context and death at Fort Sumner on July 14, 1881."
+      }
+    ],
+    "mesh_observations": "Mesh has a young clean-shaven face, rumpled hat, brown open jacket/cardigan, waistcoat, trousers and holstered revolver. The previously rejected slung rifle is absent.",
+    "issues": [
+      "Specific garment weave, colors, holster and facial geometry are not authenticated by the archival guide.",
+      "The portrait-inspired pose is not an exact reproduction of the famous tintype; do not infer handedness from a mirrored historical image."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/billy-the-kid/character.json",
+      "art/western/crew/review-v002/billy-the-kid/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "d98de06977f27ef490cd2214b3fc84499bbe5d71a13f874a46b993e4dc273a07",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "blacksmith",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1880s",
+    "location_scope": "Western United States; documented comparison Buena Vista, Oregon",
+    "historical_basis": "Black Western blacksmiths are specifically documented: Louis Southworth worked as a blacksmith in Buena Vista in 1870. The current character is not Southworth and must not receive his personal biography.",
+    "history_lesson": "Louis Southworth operated a livery stable and worked as a blacksmith in Buena Vista, Oregon, in 1870. His life documents Black skilled work in Western communities despite Oregon’s exclusion laws; this game character is a fictional composite, not his portrait.",
+    "sources": [
+      {
+        "url": "https://www.oregonencyclopedia.org/articles/southworth_louis_1829_1917_/",
+        "title": "Oregon Historical Society / Oregon Encyclopedia — Louis Southworth (1829–1917)",
+        "supports": "Documents Southworth as a Black Oregon resident and blacksmith in 1870; institutional historical essay with museum portrait references."
+      }
+    ],
+    "mesh_observations": "Mesh shows a Black adult man in rolled-sleeve blue work shirt, long leather bib apron, trousers and boots, with a compact hammer at the apron.",
+    "issues": [
+      "Retain Black identity: an explicit occupational and regional precedent exists.",
+      "Southworth’s exact working clothes are not established here; the apron, hammer mounting, colors and model likeness remain interpretive."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/blacksmith/character.json",
+      "art/western/crew/review-v002/blacksmith/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "4469ec9d97c6e322603e3bb5923108c45ed7dc1c9f685d618bc2fa0c79e661e5",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "bounty-hunter",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1880s",
+    "location_scope": "Western United States",
+    "historical_basis": "Reward-based assistance in pursuing criminals is documented. The cinematic independent bounty-hunter archetype is broader than the evidence and is not a uniformed official office.",
+    "history_lesson": "Western express companies offered rewards and enlisted citizens to help identify criminals. Wells Fargo’s special agents also worked with sheriffs; the company’s account distinguishes their investigative work from statutory arrest powers.",
+    "sources": [
+      {
+        "url": "https://history.wf.com/outwitting-outlaws/",
+        "title": "Wells Fargo Corporate Archives — Outwitting outlaws",
+        "supports": "Documents nineteenth-century armed messengers, special agents and reward posters; private special agents lacked independent arrest powers."
+      }
+    ],
+    "mesh_observations": "Mesh wears a capelet duster, waistcoat, brimmed hat, boots and holstered revolver; a rolled paper crosses the belt.",
+    "issues": [
+      "No evidence establishes this outfit as a bounty-hunter uniform.",
+      "Describe the belt paper as a fictional reward notice, not a warrant conferring official authority.",
+      "The capelet silhouette and gun remain period-inspired artistic choices; the cited institutional account does not verify their exact forms."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/bounty-hunter/character.json",
+      "art/western/crew/review-v002/bounty-hunter/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "7b205e1f2836c09c475a23c0dcac9f535d30d399b79d7755fde5a09936aadc29",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "buffalo-soldier-veteran",
+    "identity_type": "fictional_composite",
+    "date_scope": "1880s–1890s",
+    "location_scope": "Western United States; Fort Davis as documented comparison",
+    "historical_basis": "A fictional Black former soldier represents a documented group: Congress established Black Regular Army cavalry and infantry units in 1866.",
+    "history_lesson": "The 1866 Army reorganization created Black cavalry and infantry regiments. These soldiers served at Western posts including Fort Davis; their work included protecting travel routes and enforcing U.S. expansion against Native peoples.",
+    "sources": [
+      {
+        "url": "https://home.nps.gov/foda/learn/historyculture/buffalo-soldiers.htm",
+        "title": "National Park Service, Fort Davis — Buffalo Soldiers",
+        "supports": "1866 organization, Western service and period unit photographs around 1875."
+      }
+    ],
+    "mesh_observations": "Mesh has a Black older face, gray beard, blue forage cap and coat, tan trousers, boots, yellow neckcloth, pouch and white forearm wrap.",
+    "issues": [
+      "Retain Black identity; white replacement would erase the defining documented regimental identity.",
+      "Tan trousers and neckcloth are not certified issue uniform. Present as a discharged veteran mixing civilian and retained clothing, not a regulation cavalry reconstruction.",
+      "Age, service duration, retirement and arm injury are fictional; no claim of a particular battle wound is supported."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/buffalo-soldier-veteran/character.json",
+      "art/western/crew/review-v002/buffalo-soldier-veteran/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "03aa1622aaef9a6533d1cdfb9145963cae37b50c733ebbd6b741f661c4fcf16f",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "carpenter",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1880s",
+    "location_scope": "United States; Western settlement interpretation",
+    "historical_basis": "Carpentry and its hand tools are documented nineteenth-century work. The specific worker is invented.",
+    "history_lesson": "An 1874 teaching print in the Library of Congress shows carpenters constructing a building with hand tools. Folding measuring rules also predate the Western setting; carpentry involved measurement and joinery as well as heavy labor.",
+    "sources": [
+      {
+        "url": "https://www.loc.gov/pictures/item/98514378/",
+        "title": "Library of Congress — Prang’s aid for object teaching: Carpenter, 1874",
+        "supports": "Dated occupational illustration showing building construction and hand-tool work; not a Western portrait."
+      },
+      {
+        "url": "https://www.si.edu/object/carpenters-slide-rule-bradburn-son%3Anmah_1215015",
+        "title": "Smithsonian — Carpenter’s Slide Rule by Bradburn & Son",
+        "supports": "Museum evidence for historic folding carpenter rules; does not authenticate the exact rendered rule."
+      }
+    ],
+    "mesh_observations": "Mesh shows work cap, shirt, green waistcoat, short apron, trousers, boots and compact tools at the apron.",
+    "issues": [
+      "Occupation and tool categories are supported, but the cap, apron cut, palette and tool placement are not copied from the cited scene."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/carpenter/character.json",
+      "art/western/crew/review-v002/carpenter/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "286039defe6265bad18e2303339db5855d1089c72c356655930543bac0669b55",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "charles-goodnight",
+    "identity_type": "documented_person",
+    "date_scope": "circa 1880",
+    "location_scope": "Texas Panhandle",
+    "historical_basis": "Charles Goodnight was a documented cattleman born in 1836. The middle-aged interpretation suits circa 1880, but its precise outfit is invented.",
+    "history_lesson": "Charles Goodnight and Oliver Loving drove cattle from Texas toward Fort Sumner in 1866. Goodnight later established ranching operations in the Texas Panhandle and helped organize the Panhandle Stockmen’s Association in 1880.",
+    "sources": [
+      {
+        "url": "https://thc.texas.gov/state-historic-sites/goodnight-ranch/goodnight-ranch-history",
+        "title": "Texas Historical Commission — Goodnight Ranch History",
+        "supports": "1866 drive, Panhandle ranching and 1880 association. Detailed page distinguishes move in 1876 from Adair partnership in 1877; avoid the inconsistent shorthand elsewhere on the site."
+      }
+    ],
+    "mesh_observations": "Mesh has a light brimmed hat, mustache/beard, short buff coat, waistcoat, tall boots and small coiled rope at the hip.",
+    "issues": [
+      "The historical account supports his identity and work, not the exact jacket, lariat placement or reconstructed facial proportions.",
+      "Do not describe this as a photograph-accurate 1880 outfit."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/charles-goodnight/character.json",
+      "art/western/crew/review-v002/charles-goodnight/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "ad5f1d8d000cec262be5fdc1c3c17f9a5b0e836e93ee33e9d37d5cdf6ad2d7ea",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "civil-war-veteran",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1880s",
+    "location_scope": "Postwar United States; Western civilian interpretation",
+    "historical_basis": "Former Union servicemen and their veterans’ organizations are documented. This character’s individual service and injury are invented.",
+    "history_lesson": "Union veterans founded the Grand Army of the Republic in 1866. The organization supported veterans and preserved Union memory after the war; membership or particular wartime service cannot be inferred from a blue coat alone.",
+    "sources": [
+      {
+        "url": "https://guides.loc.gov/grand-army-of-the-republic",
+        "title": "Library of Congress — Grand Army of the Republic and Kindred Societies",
+        "supports": "Founding of first GAR post in Decatur on April 6, 1866, and nature of veterans’ societies."
+      },
+      {
+        "url": "https://www.nps.gov/articles/000/reconstruction-era.htm",
+        "title": "National Park Service — Reconstruction Era",
+        "supports": "GAR advocacy for benefits and Union memory."
+      }
+    ],
+    "mesh_observations": "Mesh shows blue cap and coat, civilian tan trousers, boots, shoulder bag and white forearm wrap.",
+    "issues": [
+      "Mixed civilian and retained clothing should not be labeled regulation Union uniform.",
+      "No evidence links the rendered wrap or facial marks to a Civil War wound. The invented veteran must have no fabricated regiment, rank or battle biography."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/civil-war-veteran/character.json",
+      "art/western/crew/review-v002/civil-war-veteran/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "2557365b9137acbff4c36c58fd313eae16f9356f08616154e456b44b4c844989",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "claim-jumper",
+    "identity_type": "fictional_composite",
+    "date_scope": "1870s–1890s",
+    "location_scope": "Western mining districts",
+    "historical_basis": "Fictional claim-dispute antagonist. Mining claims are documented, but a claim jumper has no standard uniform or defining ethnicity.",
+    "history_lesson": "The Mining Law of 1872 formalized acquisition of mineral claims on eligible public land. Claim location, discovery and surveys had legal significance; a paper, ore bag or pistol does not by itself identify a person as a claim jumper.",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/app/details/COMPS-5337",
+        "title": "U.S. Government Publishing Office — Mining Law of 1872",
+        "supports": "Official compilation of the 1872 act; used only for historical context, not present legal guidance."
+      },
+      {
+        "url": "https://www.blm.gov/programs/energy-and-minerals/mining-and-minerals/locatable-minerals",
+        "title": "Bureau of Land Management — Locatable Minerals",
+        "supports": "Historical origin of the federal claim system in the Mining Law of 1872; occupation and location context only."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "National Park Service — Gilded Age Fashion",
+        "supports": "The sack-style coat and layered civilian ensemble fit documented garment categories, not an occupational uniform."
+      }
+    ],
+    "mesh_observations": "Mesh has brimmed hat, work coat, waistcoat, trousers, boots, crossed straps, tube/bag accessories, pocket paper and holstered revolver.",
+    "issues": [
+      "No exact claim-jumper costume is documented or expected.",
+      "Survey tube and ore bag are interpretive occupational props, not evidence of a particular offense or biography."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/claim-jumper/character.json",
+      "art/western/crew/review-v002/claim-jumper/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "d283e4e477790098047b5f64f4cb7ec44924ecadb70537cc50636cc5077c28a6",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  },
+  {
+    "slug": "coach-guard",
+    "identity_type": "fictional_composite",
+    "date_scope": "revision target: late 1880s–1890s",
+    "location_scope": "Western United States express stage routes",
+    "historical_basis": "Armed express messengers protected valuable shipments. The current visible weapon carry is an unsourced workaround and should be replaced.",
+    "history_lesson": "Express messengers guarded valuable shipments carried by stagecoach. They commonly rode beside the driver; the guarded cargo, such as a treasure box, distinguished this work from simply being a passenger carrying a gun.",
+    "sources": [
+      {
+        "url": "https://history.wf.com/outwitting-outlaws/",
+        "title": "Wells Fargo Corporate Archives — Outwitting outlaws",
+        "supports": "Documents nineteenth-century armed messengers, special agents and reward posters; private special agents lacked independent arrest powers."
+      },
+      {
+        "url": "https://www.si.edu/object/remington-arms-co-model-1889-double-barrel-break-action-shotgun%3Anmah_1119582",
+        "title": "Smithsonian National Museum of American History — Remington Model 1889 Double Barrel Break Action Shotgun",
+        "supports": "Dated surviving 1889 12-gauge break-action example, metal and wood, overall 87.8 cm and barrels 45.5 cm. This specific object anchors proportions, not proof that every messenger carried it."
+      },
+      {
+        "url": "https://us.macmillan.com/books/9781250184900/shotgunsandstagecoaches/",
+        "title": "John Boessenecker — Shotguns and Stagecoaches, publisher excerpt",
+        "supports": "Specialist secondary history describes messengers and period double-barrel shotguns; supports role and armament, not current sling."
+      },
+      {
+        "url": "https://remingtonsociety.org/remington-museum-displays/",
+        "title": "Remington Society of America — Remington Museum Displays",
+        "supports": "Museum collection commentary and factory/catalog history identify the Model 1889 as an outside-hammer double gun available by 1889; not proof of a particular messenger’s ownership."
+      }
+    ],
+    "mesh_observations": "Current mesh has green hat, ochre waistcoat, pale shirt, gray chaps, boots and a long double-barrel gun strapped diagonally across the front while both hands hang free.",
+    "issues": [
+      "No dated evidence was found for this front sling arrangement. It was explicitly introduced as a generation workaround.",
+      "Gray chaps and spurs are not documented express-messenger uniform and unnecessarily imply mounted ranch work.",
+      "Existing weapon is generically plausible but its proportions and action have not been anchored to a specific artifact."
+    ],
+    "decision": "revise",
+    "revision_brief": "Create a distinct older white male express messenger dated late 1880s–1890s, in plain civilian hat, waistcoat, shirt, trousers and boots; omit chaps/spurs. Replace the diagonal front sling with a clearly held, short side-by-side external-hammer break-action shotgun, using the Smithsonian 1889 example for dimensions and stock/receiver/fore-end/barrel relationships. A neutral standing presentation is an artistic pose, not a claim to reproduce a historical photograph. Do not add an unsupported tactical harness, holsters, badges or extra weapons.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/coach-guard/character.json",
+      "art/western/crew/review-v002/coach-guard/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "ef8c0afe1fcbffea9dd92b6799969cf19017440773771aa2d9f8ee72b2bb9ab7",
+    "views_reviewed": [
+      "front",
+      "side",
+      "rear",
+      "three-quarter",
+      "game-camera",
+      "face-detail",
+      "hands-detail",
+      "underside-diagnostic"
+    ],
+    "revision_result": {
+      "status": "reviewed_static_candidate",
+      "directory": "art/western/crew/review-v003/coach-guard",
+      "project_sha256": "3f4c18d86bef311933daaa99e082950156cf1d0028609ad6bea4e51669fbd5f5",
+      "historical_review": "art/western/crew/review-v003/coach-guard/historical-review.json",
+      "initial_revision_decision_resolved": true,
+      "user_approved": false
+    }
+  },
+  {
+    "slug": "con-man",
+    "identity_type": "fictional_composite",
+    "date_scope": "1880s–1890s",
+    "location_scope": "Western United States; Skagway 1898 as documented comparison",
+    "historical_basis": "Confidence schemes and Western swindlers are documented. This unnamed character is not a portrait of Soapy Smith.",
+    "history_lesson": "Jefferson “Soapy” Smith and his associates operated in Skagway during the Klondike gold rush. In 1898 he occupied the building now preserved as Jeff. Smiths Parlor; this provides a documented comparison for a fictional Western confidence man.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/klgo/learn/historyculture/jeffsmithsparlor.htm",
+        "title": "National Park Service — Jeff. Smiths Parlor Museum",
+        "supports": "Soapy Smith’s associates and occupation of the building beginning May 1898."
+      },
+      {
+        "url": "https://home.nps.gov/articles/klgo-khns-soapys-parlor.htm",
+        "title": "National Park Service — The Many Faces of Jeff. Smiths Parlor",
+        "supports": "Arrival in Skagway in 1897, parlor in 1898, and caution that the building’s later museum history differs from Smith’s brief occupancy."
+      },
+      {
+        "url": "https://home.nps.gov/vama/blogs/gilded-age-fashion.htm",
+        "title": "National Park Service — Gilded Age Fashion",
+        "supports": "Frock coats and bowler hats are documented civilian menswear categories; neither signifies criminal occupation."
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/91135",
+        "title": "Metropolitan Museum of Art — Waistcoat, late 1870s–early 1880s, 1979.34.1",
+        "supports": "Dated silk waistcoat supports shaped sleeveless waistcoat silhouette; its brocade, collar and exact closure differ from this mesh. Not a costume match."
+      }
+    ],
+    "mesh_observations": "Mesh wears a bowler, dark green frock-style coat, contrasting waistcoat, bow tie, watch chain, trousers and shoes.",
+    "issues": [
+      "No standardized con-man costume existed. Respectable-looking civilian clothing is an artistic storytelling choice, not historical evidence of fraud.",
+      "Do not attribute Soapy Smith’s actions or likeness to this fictional composite."
+    ],
+    "decision": "retain",
+    "revision_brief": "Retain the current static mesh as an explicitly labeled interpretation; do not present its exact colors, tailoring, face, or props as a documented reconstruction.",
+    "asset_evidence": [
+      "art/western/crew/review-v002/con-man/character.json",
+      "art/western/crew/review-v002/con-man/review/previews/three-quarter.png"
+    ],
+    "audit_standard": "Actual rendered mesh inspected. Retain means no concrete visual contradiction established at this audit level, not certification of every costume detail. Role evidence does not prove exact wardrobe.",
+    "audited_project_sha256": "4f40925a9155b1ee39e2b34dfb0234b0b59c94be5b084cadac48241111e4775d",
+    "views_reviewed": [
+      "three-quarter"
+    ]
+  }
+]

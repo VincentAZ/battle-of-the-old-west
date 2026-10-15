@@ -1,0 +1,44 @@
+{
+  "lookout-ridge": {
+    "subject": "Lookout Ridge",
+    "canonical_card_id": "lookout_ridge",
+    "identity_type": "documented_landform",
+    "date_scope": "1866 trail-landscape context; representative landform within the 1865-1900 setting",
+    "location_scope": "North Platte country near Scotts Bluff, western Nebraska; a reconstructed sedimentary ridge type, not an exact scale replica of a named summit",
+    "documented_features": [
+      "NPS describes steep sedimentary bluffs protected by harder cap rock and shaped by erosion [S1]. Use a broad elevated crest, exposed horizontal strata and irregular sloping shoulders.",
+      "At Saddle Rock, harder limestone occurs above and within the softer sandstone and siltstone. NPS identifies protruding grey concretions rather than an artificial stone wall [S2].",
+      "William Henry Jackson crossed the plains and camped near Scotts Bluff in 1866. The landscape was an overland-trail landmark; his later paintings must not be mislabeled as contemporary colour records [S3]."
+    ],
+    "documented_colors": [
+      "The NPS South Overlook photograph shows warm tan and cream sediment faces with darker grey ledges [S1]. Eric Grunwald's Saddle Rock photograph distinguishes pale grey rock, brown earth and natural green vegetation [S2]. These modern images support material colours, not an exact 1866 profile. Render those natural hues at full strength in clear warm light; do not reproduce the winter photograph's atmospheric haze or invent bright paint."
+    ],
+    "render_brief": "A compact static geological holding: one long, coherent sedimentary ridge with a broad exposed summit brow and an irregular lowered shoulder at one end. The front presents layered tan and cream sandstone/siltstone faces; a harder uneven grey cap forms the crest, with a few short projecting limestone ledges. Vary thickness and weathering so this reads as natural strata, never brickwork or a built wall. Shape the summit as an elevated open vantage with a modest flat area, backed by a low natural rock rise. Keep it clearly distinct from Rockslide Ridge: this is a stable layered bluff, with no detached tipping slab and no big talus pile. The rear must have a complete naturally eroded slope. Keep the ridge self-contained; its separate setting base will supply brown earth and small green vegetation. No people, animals, lookout tower, telescope, rifle, fence, sign, flag, staircase, mine, road, tunnel, snow or fantasy crystals. Exclude the modern summit-road tunnel and modern trail furniture visible in reference photographs. Do not claim that this invented miniature reproduces an exact named rock or a documented military lookout.",
+    "history_lesson": "Scotts Bluff stood beside the overland trails; William Henry Jackson camped nearby in 1866. Harder cap rock protects softer sedimentary layers as erosion shapes the bluffs. This miniature represents an open ridge, not a documented lookout installation.",
+    "sources": [
+      {
+        "url": "https://www.nps.gov/scbl/learn/nature/geologic-landforms.htm",
+        "title": "National Park Service — Scotts Bluff Geologic Landforms",
+        "supports": "Sedimentary bluff and ridge morphology, cap-rock resistance and modern South Overlook photograph. The photograph supplies natural material/form evidence only; its road tunnel is excluded."
+      },
+      {
+        "url": "https://www.nps.gov/places/saddle-rock.htm",
+        "title": "National Park Service — Saddle Rock",
+        "supports": "Sandstone, siltstone and hard grey limestone concretions/cap rock; Eric Grunwald's modern colour photograph. Modern rockfall works, tunnel and named spire profiles are not being recreated."
+      },
+      {
+        "url": "https://www.nps.gov/subjects/culturallandscapes/centennialposterseries_mwr.htm",
+        "title": "National Park Service — Scotts Bluff Cultural Landscape",
+        "supports": "Overland-route context and Jackson's 1866 visit. Explicitly distinguishes his late-life paintings from earlier sketches and photographs."
+      }
+    ],
+    "uncertainties": [
+      "The crest footprint, rear slope and exact strata thickness are a restrained composition, not a surveyed historic summit. Modern erosion prevents asserting an unchanged 1866 profile.",
+      "Mountains is the game's broad setting category; this evidence concerns a Nebraska bluff, not an alpine mountain. Do not add alpine snow or alpine plant species.",
+      "Lookout Ridge remains the existing provisional display name. Its view is a cosmetic analogy for the canonical effect; it does not establish historic tactical use at Scotts Bluff.",
+      "No generation, rigging or mechanics change occurs through this brief. Paid-service approval remains separately pending."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Actually viewed the NPS South Overlook image (/tmp/oldwest-scotts-bluff-overlook.jpg) and Eric Grunwald's Saddle Rock image (/tmp/oldwest-scotts-bluff-saddle.jpg) before writing the brief. Both are modern winter images; use geology and materials only, excluding modern infrastructure, snow and specific modern vegetation placement."
+  }
+}

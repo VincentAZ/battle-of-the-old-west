@@ -1,0 +1,38 @@
+{
+  "recorded": "2026-10-08",
+  "status": "research_incomplete_not_generation_evidence",
+  "canonical_card_id": "boot_hill",
+  "scope": "Tombstone-specific additional source review; preserve earlier Hays and Ogallala notes. No exact marker geometry established.",
+  "sources": [
+    {
+      "url": "https://cityoftombstoneaz.gov/boothill-graveyard/",
+      "supports": "City page directs visitors to Discover Boothill; establishes site affiliation."
+    },
+    {
+      "url": "https://discoverboothill.com/history-ackerman/",
+      "supports": "Site account describes original wooden markers, 1881 mapped cemetery, later 1925 resurvey, 1938 monument and 1944 metal-pipe marker replacements. Supports excluding those later features from an 1881-1883 reconstruction."
+    },
+    {
+      "url": "https://tombstonechamber.com/directory/boothill-graveyard/",
+      "supports": "Secondary local account corroborates loss of original wooden markers and approximate later replacement positions; not municipal publication."
+    },
+    {
+      "url": "https://discoverboothill.com/history-clement-wood/",
+      "supports": "1947 retrospective describes wooden grave markers and distinct old/new cemeteries. It is later testimony, not an inspected 1880s photograph."
+    },
+    {
+      "url": "https://azmemory.azlibrary.gov/nodes/view/240048",
+      "supports": "Search metadata identifies C. S. Fly, Tombstone City cemetery, 1887, identifier 97-2620.jpg. Direct retrieval returned 403; image NOT viewed. Could depict the new cemetery, so cannot authenticate old Boot Hill geometry."
+    },
+    {
+      "url": "https://collections.theautry.org/mwebcgi/mweb.exe?request=record%3Bid%3DM544004%3Btype%3D103",
+      "supports": "Museum catalog confirms 1881 Keleher/Peel mining district map with Tombstone vignettes. Map image not inspected; no cemetery-shape claim."
+    }
+  ],
+  "restrictions": [
+    "No use of modern pipe markers, 1938 monument, present neat rows or joke epitaphs as period evidence.",
+    "Do not invent graves for Crew or imply every burial was a gunfighter.",
+    "Retain material and site-layout uncertainty; finding a marker image remains necessary before writing a precise visual brief."
+  ],
+  "next": "Inspect period marker imagery or a documented surviving marker; no model or twelfth brief is claimed."
+}

@@ -1,0 +1,16 @@
+{
+  "subject": "Trouble fuse line",
+  "date_scope": "1868-1900",
+  "location_scope": "Western United States hardrock mining context; safety-fuse technology manufactured internationally",
+  "sources": [
+    {"url": "https://www.cornishmining.org.uk/about/mining-in-cornwall-and-west-devon/inventions-and-technology/explosives-and-the-safety-fuse", "title": "Cornish Mining World Heritage Site, Explosives and the Safety Fuse", "supports": "Describes twisted fibre cord, twine binding and tar waterproofing, with nineteenth-century manufacture and international distribution. Supports dark tarred cord with a visible winding, not bare pale rope or a modern plastic wire."},
+    {"url": "https://history.idaho.gov/wp-content/uploads/Metal_Mining_In_Idaho_MPD_100012275.pdf", "title": "Idaho State Historical Society, Metal Mining in Idaho, National Register multiple-property documentation", "supports": "Documents nineteenth-century hardrock blasting and adoption of dynamite after 1868; establishes Western mining context, not the precise appearance or scale of the UI cord."}
+  ],
+  "documented_features": ["A flexible cord with an outer twine winding and dark tar coating, supported by the World Heritage Site's technological history."],
+  "documented_colors": ["Dark brown-black tar coating is a material reconstruction based on the documented tar treatment. The orange-yellow ember depicts combustion; its brightness is exaggerated for readability."],
+  "render_brief": "A continuous dark brown-black tarred fibre fuse with tightly wound outer twine, warm highlights and a bright orange-yellow moving ember. Lay it beside the existing Trouble approach positions with one, two and three short cross ties to express the remaining turns. Keep original board positions, selection areas and queue state. No electric wire, neon strip or industrial rail. Model cord winding in geometry and keep all meshes non-colliding.",
+  "history_lesson": "Nineteenth-century miners used safety fuse to delay a blast. Twisted fibre and a protective outer coating made the fuse more dependable than earlier improvised ignition methods.",
+  "reconstruction_limits": ["This is a symbolic game track, not a replica blasting installation or a model of fuse timing. Thickness, length, notches and exposed ember are enlarged for the board camera.", "The ember follows the rendered public Trouble token as the unchanged queue advances or is delayed. Several queued events can have separate ember markers; empty tracks reset for reuse.", "No powder composition, construction procedure or real-world burn-rate calibration is supplied by this game asset."],
+  "prepared_at": "2026-10-08",
+  "source_review": "World Heritage Site text retrieved before authoring; Idaho documentation retained in the previous sourced Dynamite Shack evidence."
+}

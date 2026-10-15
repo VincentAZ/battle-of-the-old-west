@@ -1,0 +1,400 @@
+[
+  {
+    "slug": "cornelius-ashby",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Invented railroad executive, 1870s\u20131880s. Real context is the concentrated financial and political power of railroad company leaders; this is not Leland Stanford\u2019s portrait.",
+    "history_lesson": "Cornelius Ashby is fictional. Railroad executives such as Leland Stanford helped finance and direct western rail expansion; the Southern Pacific completed a southern transcontinental route in 1883.",
+    "sources": [
+      {
+        "url": "https://home.nps.gov/amis/learn/historyculture/str.htm",
+        "title": "NPS: The Southern Transcontinental Railroad",
+        "supports": "The Big Four\u2019s role and the 1883 southern transcontinental connection."
+      },
+      {
+        "url": "https://collections.musee-mccord-stewart.ca/en/objects/37938/no-title",
+        "title": "McCord Stewart Museum: Cutaway coat",
+        "supports": "Museum collection documents late-nineteenth-century formal coat tailoring; broad clothing context, not Ashby\u2019s invented outfit."
+      }
+    ],
+    "issues": [
+      "Name, face, green coat, watch chain and document prop are a disclosed composite; do not invent personal dealings or identify the papers as an actual railroad deed."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "Western United States railroad business",
+    "audited_model_sha256": "d20c3a539cfd9459315da0362eb35bd56d94c284a5fcc52e044b3419897d84b6"
+  },
+  {
+    "slug": "doc-holliday",
+    "identity_type": "historical_person",
+    "historical_basis": "John Henry Holliday, dentist and gambler, shown as an early-1880s adult. Kansas Historical Society catalogues a period portrait between 1880 and 1887.",
+    "history_lesson": "John Henry \u201cDoc\u201d Holliday trained as a dentist and moved west while suffering from tuberculosis. He became a gambler and joined the Earps in the 1881 Tombstone gunfight.",
+    "sources": [
+      {
+        "url": "https://www.kansasmemory.gov/item/218251",
+        "title": "Kansas Historical Society: John Henry \u201cDoc\u201d Holliday",
+        "supports": "Period portrait, dental graduation in 1872, move west, gambling and Tombstone associations."
+      }
+    ],
+    "issues": [
+      "The belt pouch was requested as a dental instrument case, but no source establishes that Holliday wore such a case in this outfit. It must not be described as a documented personal possession; removing this distinctive invented detail would strengthen accuracy.",
+      "The hat, colors and full-body clothing are a reconstruction around a period portrait, not a photographically verified complete outfit."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1880\u20131887",
+    "location_scope": "Tombstone, Arizona Territory, and the American West",
+    "audited_model_sha256": "346d42d786c1e33363c9d168778b2f8d18fe0d3760d84511128a832f0b71fa48"
+  },
+  {
+    "slug": "drover",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Black cattle drovers are well documented in the post-Civil War West; Nat Love and Bose Ikard provide occupational evidence. This figure is not a named-person likeness.",
+    "history_lesson": "This fictional drover reflects the Black cowboys who worked western cattle herds after emancipation. Nat Love and Bose Ikard are documented examples of men who rode cattle trails and worked with ranching outfits.",
+    "sources": [
+      {
+        "url": "https://home.nps.gov/articles/000/engaging-with-cowpoke-history.htm",
+        "title": "NPS: Engaging with Cowpoke History",
+        "supports": "Black cowboys, including Nat Love and Bose Ikard, and cattle work."
+      },
+      {
+        "url": "https://www.loc.gov/item/2006686840/",
+        "title": "Library of Congress: A Round Up, 1887",
+        "supports": "Period mounted working-men clothing and riding equipment context."
+      }
+    ],
+    "issues": [
+      "Leather colors and the particular rope placement are reconstructed; there is no invented biography or claim to depict Nat Love."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "Texas and western cattle trails",
+    "audited_model_sha256": "9c2fe23ae498464a38fc4ed12b894441226b4a11abe73ef7adc7b323a4bee533"
+  },
+  {
+    "slug": "duelist",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Fictional armed civilian in late-nineteenth-century tailoring. The 1865 Hickok\u2013Tutt confrontation is an attested example, not evidence that staged quick-draw duels were a common occupation.",
+    "history_lesson": "This fictional gunman draws on rare documented confrontations such as Hickok\u2019s 1865 fight with Davis Tutt in Springfield, Missouri. Western fiction later made the formal quick-draw showdown seem more typical than the evidence supports.",
+    "sources": [
+      {
+        "url": "https://news.yale.edu/2015/07/21/gunfights-us-colonialism-and-studying-american-west-east-coast",
+        "title": "Yale: On gunfights, U.S. colonialism, and studying the American West",
+        "supports": "Historian\u2019s discussion of the 1865 confrontation and its later mythology."
+      }
+    ],
+    "issues": [
+      "\u201cDuelist\u201d is a game archetype, not a documented frontier profession.",
+      "The inspected holster hangs from the ordinary hip belt; avoid future Hollywood drop-loop or fast-draw rigs. Face, colors and clothing combination remain a composite."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1865\u20131880s",
+    "location_scope": "Western United States; documented comparison at Springfield, Missouri",
+    "audited_model_sha256": "a601c6f3f8124d2da5a3fa22460455d942ea537b1d0219f42bd8d88ed5c07b30"
+  },
+  {
+    "slug": "gatling-gunner",
+    "identity_type": "fictional_composite",
+    "historical_basis": "The current model combines an unsupported compact six-barrel tripod gun with a fictional operator. A documented late-1870s Army crew and the 1874 Scientific American field-carriage engraving support the replacement.",
+    "history_lesson": "Fictional composite of a late-1870s U.S. Army gun crew member. Period illustrations show Gatling guns carried on large wheeled field carriages; hand cranking drove their rotating barrel cluster.",
+    "sources": [
+      {
+        "url": "https://www.cartermuseum.org/collection/gatling-gun-battery-fort-lincoln-p197624141",
+        "title": "Gatling Gun Battery. Fort Lincoln., Frank Jay Haynes, ca. 1880",
+        "supports": "Primary photograph and museum dating establish the frontier military crew context; military short coats, forage caps, light trousers. Not used to identify the gun model; not a named sitter portrait."
+      },
+      {
+        "url": "https://mths.mt.gov/education/StoriesOfTheLand/Part2/Chapter7/Ch7Educators",
+        "title": "Montana Historical Society, Chapter 7 primary photographs",
+        "supports": "Haynes Fort Lincoln battery photograph H-61, catalogued June 1877, visually inspected for enlisted crew clothing, caps and cartridge belts. Catalog dates differ; broad late-1870s reconstruction disclosed."
+      },
+      {
+        "url": "https://americansocietyofarmscollectors.org/wp-content/uploads/2019/06/1991-B65-The-Development-of-the-Gatling-Gun.pdf",
+        "title": "Scientific American, February 7, 1874, engraving reproduced on ASAC Bulletin 65 page 35",
+        "supports": "Primary period engraving on final PDF page documents Model 1874 Gatling on large two-wheel wooden field carriage with iron tires, axle, long trailing support, elevation screw and hand crank; feed drum removed. This exact configuration supplies the weapon silhouette."
+      },
+      {
+        "url": "https://www.si.edu/object/trade-catalogs-gatling-gun%3ASILNMAHTL_10229",
+        "title": "Smithsonian Libraries: Trade catalogs from Gatling Gun",
+        "supports": "Catalog record documents 1874 Gatling instructions and 1878 trade literature, confirming period manufacturing context; not used as a substitute for the inspected engraving."
+      },
+      {
+        "url": "https://history.army.mil/html/museums/uniforms/survey_uwa.pdf",
+        "title": "U.S. Army: Survey of Uniforms, Weapons and Accoutrements, p.30",
+        "supports": "Pattern1874 sack coat: dark-blue wool, five brass front buttons; western Army clothing variation in the1870s. Supports clothing context, not an exact portrait or unit identification."
+      }
+    ],
+    "issues": [
+      "Current gun is undersized and its six-barrel/tripod/box-magazine combination has not been established for the intended 1875 setting.",
+      "No source located establishes this particular fictional Black frontier Gatling operator. That uncertainty does not show that Black soldiers never operated such weapons; replacement follows the user\u2019s stated rule.",
+      "A change to the operator alone would leave the weapon problem unresolved."
+    ],
+    "decision": "revise",
+    "revision_brief": "White male enlisted frontier gunner, 1874\u20131880, wearing a plain dark-blue short military sack coat, low dark forage cap, sky-blue straight trousers and black leather ankle boots. Distinct broad square face, reddish moustache, about forty. Stand at ease to the left of a realistically full-sized Model 1874 ten-barrel Gatling field gun, after the inspected Scientific American February 7, 1874 engraving: two large wooden spoked wheels with iron rims, a continuous axle, long wood-and-iron trail touching ground behind, clustered ten slender steel barrels in brass breech housing, manual hand crank and elevation support. Gun at waist/chest level; wheels approximately 1.35m diameter beside a 1.85m man. Feed drum removed as in the source engraving, no invented rectangular magazine. No tripod, no shield, no modern ammunition belt, no machine-gun motor. Figure and gun separate, entire wheel carriage and trailing support in frame; gun pointed sideways away from figure. Square composition, man left and gun right, full-sized equipment takes equal space. No horse or limber.",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1874\u20131880",
+    "location_scope": "U.S. Army frontier posts, Dakota Territory",
+    "audited_model_sha256": "0ee6a6f5f290cb37d5593a4599afe4f99ad1c74e0b68b891c18e3488fd821944"
+  },
+  {
+    "slug": "getaway-rider",
+    "identity_type": "fictional_composite",
+    "historical_basis": "The current figure is an unsourced fictional female getaway/courier rider. Mounted contract-mail transport is documented; the replacement is a male composite in period riding clothes, not a Pony Express rider after 1861.",
+    "history_lesson": "Fictional mounted courier, drawing on nineteenth-century contract mail carriers. Horseback transport continued on star routes long after the Pony Express ended; the game\u2019s rescue ability is fictional.",
+    "sources": [
+      {
+        "url": "https://postalmuseum.si.edu/moving-the-mail-star-routes",
+        "title": "Smithsonian National Postal Museum: Moving the Mail\u2014Star Routes",
+        "supports": "Horseback and horse-drawn contract transport continued throughout the nineteenth century; role is a mounted courier, not a Pony Express rider in the 1880s."
+      },
+      {
+        "url": "https://about.usps.com/who/profile/history/pdf/star-routes.pdf",
+        "title": "USPS Historian: Star Routes, May 2007",
+        "supports": "Authoritative account of nineteenth-century mounted contract carriers. Postal context supports mailbag; it does not authenticate a particular fictional rescue or outlaw biography."
+      },
+      {
+        "url": "https://www.loc.gov/item/2006686840/",
+        "title": "Library of Congress: A Round Up, 1887",
+        "supports": "Period Western mounted working-men clothing context: felt hats, shirts, waistcoats, trousers, riding boots and leather tack; muted fabric colors are reconstruction, not measured from monochrome photography."
+      }
+    ],
+    "issues": [
+      "The current trousers, half-chaps and fitted jacket were not tied to a dated female courier reference. This is an evidence gap, not a claim that women never carried mail or rode horses.",
+      "No source supports a particular rescue or getaway biography. The card\u2019s action remains fictional even when the clothing and mounted-courier context are supported."
+    ],
+    "decision": "revise",
+    "revision_brief": "Distinct white male mounted frontier courier about thirty in the western United States in the 1880s. Slim athletic adult, long narrow face, clean-shaven, short sandy hair. Weathered tan broad-brim felt hat with plain low rounded crown; muted dusty blue straight-cut hip-length wool sack jacket open over ivory cotton shirt and russet waistcoat, small dark rust neckerchief; high-waisted brown straight trousers, calf-high brown leather riding boots and simple leather belt. Closed dark brown leather mail satchel with broad shoulder strap at left hip, no insignia or readable lettering. One small loop of spare plain leather rein at belt provides an equestrian cue. Neutral relaxed standing figure alone, dismounted; no horse, firearm, half-chaps, modern zippers, spurs or fantasy accessories. This is a fictional working rider, not an invented portrait of a named postal employee.",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1880s",
+    "location_scope": "Western United States contract-mail routes",
+    "audited_model_sha256": "1603ffe706bd04203b574d608d4148adb3c1a8ca4480b1ffaf0c8206289de5c8"
+  },
+  {
+    "slug": "hellfire-preacher",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Fictional Protestant preacher, 1870s\u20131880s. Western clergy and their dark formal clothing are documented, but the sinister game title does not establish a real cult or sacrificial practice.",
+    "history_lesson": "This fictional preacher draws on Protestant ministers who established congregations across the nineteenth-century West. Sheldon Jackson\u2019s surviving papers document western missionary work; the card\u2019s violent ability is fiction.",
+    "sources": [
+      {
+        "url": "https://pcusa.org/historical-society/collections/research-tools/guides-archival-collections/rg-239",
+        "title": "Presbyterian Historical Society: Sheldon Jackson Papers",
+        "supports": "Western missionary correspondence and photographs spanning the relevant decades, including Colorado, Dakota, Montana and Utah."
+      }
+    ],
+    "issues": [
+      "The Bible and dark formal clothes are ordinary role cues; the red lining and name are artistic choices. Do not turn the game\u2019s sacrifice mechanic into a claim about real ministers."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "Western United States Protestant congregations",
+    "audited_model_sha256": "bda951f33dc3b3a7ee681d8e3de2ed309166d7281e07f1ed266e837ed63fa5b2"
+  },
+  {
+    "slug": "homestead-defender",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Hispanic homesteaders and ranchers in Colorado\u2019s San Luis Valley are documented in the 1860s\u20131880s. The model is a fictional older Hispano man, not a portrait of Teofilo or Pedro Trujillo.",
+    "history_lesson": "This fictional homesteader reflects Hispano families who settled and ranched in Colorado\u2019s San Luis Valley. The Trujillo homesteads preserve evidence of those families and their differing adobe and log-building traditions.",
+    "sources": [
+      {
+        "url": "https://home.nps.gov/grsa/learn/historyculture/trujillo-homesteads.htm",
+        "title": "NPS: Trujillo Homesteads",
+        "supports": "Hispanic settlement and ranching near the dunes beginning in the 1860s; Trujillo family history and buildings."
+      }
+    ],
+    "issues": [
+      "Sources support the demographic and livelihood, not this fictional man\u2019s possession of house keys, firearm or a particular defensive encounter. Keep those ordinary props as reconstruction and do not assign him the Trujillos\u2019 personal history."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1860s\u20131880s",
+    "location_scope": "San Luis Valley, Colorado",
+    "audited_model_sha256": "3e1d0ff99d59fc29c4a4e05503f26edf23a2848f70ca5355279eca255165397c"
+  },
+  {
+    "slug": "jesse-james",
+    "identity_type": "historical_person",
+    "historical_basis": "Jesse James, Missouri outlaw, depicted in the late 1870s. State Historical Society of Missouri includes period portraits and documented crimes.",
+    "history_lesson": "Jesse James was a former Confederate guerrilla who later robbed banks, stagecoaches and trains. Contemporary publicity helped create a Robin Hood legend, but his crimes injured and killed civilians.",
+    "sources": [
+      {
+        "url": "https://historicmissourians.shsmo.org/jesse-james/",
+        "title": "State Historical Society of Missouri: Jesse James",
+        "supports": "Dated portraits, outlaw activity, train robberies beginning in 1873, and the distinction between crimes and later legend."
+      }
+    ],
+    "issues": [
+      "Dark sack suit, facial hair and white shirt fit the portrait tradition. Exact colors and the full belt equipment are reconstruction; do not imply documented ownership of the displayed revolver or bag."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "Late 1870s",
+    "location_scope": "Missouri and the central United States",
+    "audited_model_sha256": "4813404f059f90839095fdf12119ccfe20e8b5df31ce06dae61d2a79fe676c18"
+  },
+  {
+    "slug": "laudanum-doctor",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Fictional late-nineteenth-century physician. Laudanum is a documented opium preparation, not a fictional cure or a basis for an invented addiction biography.",
+    "history_lesson": "This fictional doctor draws on a period when physicians used opium preparations for pain. During the 1876 Little Bighorn campaign, Doctor Henry Porter treated wounded soldiers with laudanum and morphine.",
+    "sources": [
+      {
+        "url": "https://americanhistory.si.edu/collections/object/nmah_993563",
+        "title": "Smithsonian National Museum of American History: P LAUDANOP",
+        "supports": "Museum pharmaceutical container and explanation of laudanum as an opium solution used for pain."
+      },
+      {
+        "url": "https://home.nps.gov/libi/learn/historyculture/doctor-henry-porter.htm",
+        "title": "NPS: Doctor Henry Porter",
+        "supports": "Specific western 1876 physician context: Porter used laudanum and morphine for pain during the Little Bighorn campaign. The fictional civilian figure is not Porter."
+      },
+      {
+        "url": "https://digitalcollections.ohsu.edu/record/4126",
+        "title": "Oregon Health & Science University: Leather medicine case with vials, 1880",
+        "supports": "Surviving 1880 leather medicine container and glass vials support period material/equipment context, not an exact match for this particular modeled bag."
+      }
+    ],
+    "issues": [
+      "The small vial and doctor\u2019s bag are generic reconstructed equipment; the amber glass is not a verified laudanum container owned by a real doctor. Do not label the figure an addict or make the game\u2019s self-injury mechanic a medical fact."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "Western United States",
+    "audited_model_sha256": "cb15061feff78ab49cd9ecb2987a2937e57d0f49319f0481399f8187a669d8b6"
+  },
+  {
+    "slug": "lozen",
+    "identity_type": "historical_person",
+    "historical_basis": "Lozen was a Chihenne/Chiricahua Warm Springs Apache warrior and Victorio\u2019s sister. Preserve the existing Native model and its separate tribal review requirement.",
+    "history_lesson": "Lozen was a Chiricahua Apache warrior and the sister of Victorio. She continued with Apache resistance after his death and surrendered with Geronimo\u2019s remaining band in 1886.",
+    "sources": [
+      {
+        "url": "https://mescaleroapachetribe.com/our-culture/",
+        "title": "Mescalero Apache Tribe: Our Culture",
+        "supports": "Tribal account identifies Lozen\u2019s nation, warrior role, relationship to Victorio and 1886 surrender."
+      },
+      {
+        "url": "https://catalog.archives.gov/id/530797",
+        "title": "National Archives: Geronimo and fellow Apache prisoners, 1886",
+        "supports": "Existing project\u2019s period photograph reference for Apache clothing; photographic interpretation is not tribal approval."
+      }
+    ],
+    "issues": [
+      "Preserve the current asset; names, clothing and history still require the separate Chiricahua tribal review before art lock.",
+      "Dates for her birth and death vary among accounts, so the concise note avoids unsupported precision. Do not depict reported spiritual abilities as proven supernatural powers."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1880s",
+    "location_scope": "Chiricahua Apache homelands, present-day southwestern United States and northern Mexico",
+    "audited_model_sha256": "71573cc51c2d38a38d166cf0344ad2fa291e7296d4814740488f1f865fc1a8b8"
+  },
+  {
+    "slug": "piano-player",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Black professional piano playing is documented before 1880. SHSMO records Boone playing with Black saloon musicians in St. Louis in the 1870s and being hired for a Columbia entertainment program in December 1879.",
+    "history_lesson": "This fictional pianist reflects a documented Black musical presence in nineteenth-century Missouri. John William \u201cBlind\u201d Boone played with Black saloon musicians in the 1870s and began his touring partnership with John Lange Jr. around 1880.",
+    "sources": [
+      {
+        "url": "https://historicmissourians.shsmo.org/blind-boone/",
+        "title": "State Historical Society of Missouri: \u201cBlind\u201d Boone",
+        "supports": "Explicit 1870s Black saloon-musician context and December 1879 paid piano engagement; stronger early evidence than assigning Scott Joplin\u2019s later career to 1880."
+      }
+    ],
+    "issues": [
+      "This adult, sighted composite is not Boone\u2019s portrait: Boone was a blind teenager in 1879.",
+      "Waistcoat, white shirt and bow tie are reconstructed performance attire. Do not call the figure Scott Joplin or claim that a specific later ragtime composition existed in 1880."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "Missouri and the central American West",
+    "audited_model_sha256": "d4a194f0fc04856bc7aa339bb447594e33cdb18332dc598d123f42574aa0ee6a"
+  },
+  {
+    "slug": "pinkerton-agent",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Fictional 1870s\u20131880s private detective. Agency records and contemporary accounts support private detectives; the clothing is civilian, not a standardized government uniform.",
+    "history_lesson": "This fictional detective draws on Pinkerton\u2019s National Detective Agency. Its agents investigated robberies and worked for railroads and other clients; some assignments involved labor disputes and controversial undercover work.",
+    "sources": [
+      {
+        "url": "https://findingaids.loc.gov/repositories/19/resources/2451",
+        "title": "Library of Congress: Pinkerton\u2019s National Detective Agency Records",
+        "supports": "Surviving agency investigation, financial and personnel records."
+      },
+      {
+        "url": "https://guides.loc.gov/chronicling-america-pinkertons",
+        "title": "Library of Congress: Pinkertons, Topics in Chronicling America",
+        "supports": "Dated events including McParlan\u2019s undercover investigation and the 1877 executions."
+      }
+    ],
+    "issues": [
+      "The tiny plain silver badge was an artistic prop, not a verified Pinkerton credential. Do not present the bowler, coat or badge as a required agency uniform. Removing the invented badge would strengthen accuracy."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "United States private detective work, including western railroad and outlaw investigations",
+    "audited_model_sha256": "f0d1971f06abc5812decd7981275d2f484d7995e9f6dcc142ebd54c7767c4c0e"
+  },
+  {
+    "slug": "poker-alice",
+    "identity_type": "historical_person",
+    "historical_basis": "Alice Ivers Tubbs, a documented woman gambler. The actual generation prompt specifies circa1890 and late thirties\u2013forties, which fits her 1851 birth and the adopted 1865\u20131900 scope.",
+    "history_lesson": "Alice Ivers Tubbs, known as Poker Alice, made a living at gambling tables in western towns. Denver Public Library traces her career from Colorado mining communities to Deadwood, where she had settled by 1892.",
+    "sources": [
+      {
+        "url": "https://history.denverlibrary.org/colorado-biographies/poker-alice-tubbs-1851-1930",
+        "title": "Denver Public Library: \u201cPoker\u201d Alice Tubbs (1851\u20131930)",
+        "supports": "Biographical dates, gambling career, 1892 Deadwood residence and explicit caution that much of her story comes from her own account."
+      }
+    ],
+    "issues": [
+      "Retain circa1890: do not relabel this late-thirties\u2013forties appearance as age29 in 1880.",
+      "The plum bodice, full skirt and small hat are reconstructed period dress, not a documented surviving outfit. Omit colorful unsupported gambling exploits and exact winnings."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "Circa 1890",
+    "location_scope": "Colorado mining towns and, by 1892, Deadwood, South Dakota",
+    "audited_model_sha256": "ed3dba7e1ec693d2819fcd172c0e0a28714d51308746230656015dcd14fe79f8"
+  },
+  {
+    "slug": "prospector",
+    "identity_type": "fictional_composite",
+    "historical_basis": "Fictional older western placer miner, 1870s\u20131880s. Period photographs document gold panning and ordinary working clothes.",
+    "history_lesson": "This fictional prospector uses the pan associated with placer mining. An 1889 photograph from Rockerville, Dakota Territory, records miners washing and panning stream deposits for gold.",
+    "sources": [
+      {
+        "url": "https://www.loc.gov/pictures/item/99613951/",
+        "title": "Library of Congress: \u201cWe have it rich,\u201d Rockerville, Dakota, 1889",
+        "supports": "Dated primary photograph of Spriggs, Lamb and Dillon washing and panning gold; clothing and pan equipment context."
+      }
+    ],
+    "issues": [
+      "The pan is a role prop; no source supports a discovery, fortune or claim belonging to this fictional man. Colors and satchel are reconstructed."
+    ],
+    "decision": "retain",
+    "revision_brief": "",
+    "mesh_inspection": "Actual v002 three-quarter mesh render inspected; Lozen uses preserved Native v001 mesh. Contact sheet: audit-b-meshes.jpg. Retention is an audit recommendation, not user or tribal approval.",
+    "date_scope": "1870s\u20131880s",
+    "location_scope": "Western placer-mining districts; photographic comparison at Rockerville, Dakota Territory",
+    "audited_model_sha256": "5a0898c60bee17ae98d509d093a21db0382187bd16b44438157fc96e3deb798b"
+  }
+]

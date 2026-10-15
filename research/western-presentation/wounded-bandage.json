@@ -1,0 +1,45 @@
+{
+  "id": "wounded-crew-bandage",
+  "status": "source_fits_reviewed_all_47_imported_native_replay_two_characters_passed_broader_review_pending",
+  "date_location": "United States, 1863 roller-bandage practice used as a reconstruction for the game's 1865\u20131890 Western setting",
+  "sources": [
+    {
+      "title": "John H. Packard, A manual of minor surgery (Philadelphia: J. B. Lippincott, 1863), pp. 91, 95\u201397",
+      "url": "https://wellcomecollection.org/works/be7k5xq7",
+      "iiif": "https://iiif.wellcomecollection.org/presentation/v2/b21009120",
+      "supports": "Muslin as ordinary bandage material; roller strips two to three inches wide; an initial circular turn sometimes repeated for security; overlapping turns and reverses when extending along a tapered limb.",
+      "actual_page_images_reviewed": [
+        91,
+        95,
+        96,
+        97
+      ],
+      "local_images": "art/western/bandages/review-v001/references/",
+      "limits": "Printed illustrations do not establish fabric colour. The manual describes medical practice, not injuries suffered by the game's named people. Figure 43 illustrates the poor fit of unreversed spirals; do not copy that gaping spiral as a finished dressing."
+    },
+    {
+      "title": "Wood Library-Museum, Surgeon's Field Companion",
+      "url": "https://www.woodlibrarymuseum.org/museum/surgeons-field-companion/",
+      "supports": "Coolidge's 1863 Union surgeon's field case included muslin and two dozen bandages.",
+      "limits": "Establishes period availability, not a particular civilian or Native person's medical treatment."
+    }
+  ],
+  "design": {
+    "form": "A short local dressing represented by two or three overlapping circular muslin turns, 5.2 cm strip width, on the forearm clear of joints, rolled sleeves and held equipment. Repeated circular turns can overlap more closely where the exposed forearm is short. No long unreversed spiral up the taper, modern elastic, adhesive closure, safety clip, printed emblem or blood.",
+    "colour": "Plain warm white/ivory, a reconstruction of undyed cloth rather than a measured surviving specimen. Do not reproduce the scan's yellowed paper as fabric colour. Keep the surrounding approved clothing at its full existing colour strength.",
+    "reconstruction": "The short dressing is a shared game wound indicator. Its exact arm, placement over an existing sleeve where present, fastening hidden beneath the overlap, and clean condition are presentation conventions. It is not a complete clinical dressing demonstration, a biographical injury claim, or a claim about any nation's traditional medicine.",
+    "geometry": "Separate fitted accessory following the existing character skeleton and skin weights; preserve every approved character mesh, texture, skeleton and animation. Generic Drifter fit for every face-down identity.",
+    "history_lines": [
+      "An 1863 American surgical manual describes muslin roller bandages, including repeated circular turns.",
+      "This dressing marks a game wound; its placement is reconstructed and does not document an injury to the person shown."
+    ]
+  },
+  "acceptance": [
+    "Inspect fitted mesh and actual images against the period circular-wrap form; record deviations.",
+    "Verify all 46 approved people plus generic Drifter in wounded poses, actions and restoration; no sleeve clipping or detached wrap.",
+    "Show only for living wounded crew; remove on restoration, hiding/reconfiguration, destruction and cleanup as appropriate.",
+    "Keep face-down fit and History generic; no hidden identity asset paths in public debug data.",
+    "Preserve canonical state and preexisting source/content hashes. Native and final art approval remain user-owned."
+  ],
+  "evidence": "art/western/bandages/README.md"
+}

@@ -1,0 +1,47 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Three presentation-only regional dioramas, selected once per public match. No rule, collision, deployment, movement, targeting or visibility changes.",
+  "reconstruction": "These are landscape composites, not surveys of particular battle sites. Retain the existing playable ground geometry. Vegetation and river scenery stay outside the playing area. No people, dwellings, memorial sculpture, tribal symbols or claims of land ownership are added.",
+  "colour_direction": "Full natural-strength colour in clear warm sunlight. White snow and blue skylight shadows; rich green needles and cinnamon bark; green river vegetation, brown silt and blue sky reflections. No desaturation, faded grading or invented paint.",
+  "regions": [
+    {
+      "id": "montana-winter",
+      "date_place": "Montana open range, winter 1886-1887",
+      "render_brief": "Snow-covered rolling range, exposed brown ridges and sparse dry grass. White granular snow catches warm sun and blue sky shadow. No perpetual blizzard that obscures the board. This is a symbolic winter range, not an exact depiction of Grant-Kohrs Ranch.",
+      "history": "Snow and severe cold in 1886-87 kept cattle from reaching forage across the Montana range. The losses helped force ranchers away from reliance on year-round open grazing.",
+      "sources": [
+        {"url": "https://home.nps.gov/grko/learn/historyculture/winter.htm", "claim": "Snow covered the Montana range; January thaw exposed ridges before renewed blizzards. The severe winter damaged the open-range cattle industry."},
+        {"url": "https://www.nps.gov/articles/000/grant-kohrs-landscape-ranching-history.htm", "claim": "Deer Lodge Valley is flanked by mountains; nineteenth-century ranching used native grassland. Landscape context only, not a surveyed layout."}
+      ]
+    },
+    {
+      "id": "black-hills-pine",
+      "date_place": "Black Hills, 1870s-1890s",
+      "render_brief": "An open grassy clearing ringed by spaced ponderosa pines and rounded granite outcrops. Trees have long exposed trunks, irregular branching, cinnamon-brown plated bark, and dark green needle tufts concentrated toward branch ends. Mix crown sizes, avoid a solid wall of identical conical Christmas trees. No Mount Rushmore carving.",
+      "history": "Ponderosa pine woodland alternates with grassland in the Black Hills. Repeated fires historically helped maintain open understories and varied stands.",
+      "sources": [
+        {"url": "https://www.nps.gov/deto/learn/nature/forests.htm", "claim": "Dark-green ponderosa stands contrast with surrounding grassland. Healthy forests mix ages and allow space between trees."},
+        {"url": "https://www.nps.gov/moru/learn/nature/forests.htm", "claim": "Ponderosa grows on dry rocky slopes; fire records and open grassy understories support an open historical woodland rather than modern dense fire-suppressed stands."},
+        {"url": "https://home.nps.gov/moru/learn/nature/soils.htm", "claim": "Central Black Hills granite forms rounded outcrops with ponderosa below; granite and mica schist supply parent material."},
+        {"url": "https://www.fs.usda.gov/rm/pubs/rmrs_gtr110.pdf", "claim": "Older ponderosa crowns become open and rounded with fewer thick branches; bark has orange or gray flakes and fissures. This governs the stylized mesh silhouette and bark colour, not exact tree age."},
+        {"url": "https://www.fs.usda.gov/pnw/pubs/pnw_gtr390.pdf", "claim": "Large ponderosa have widely spaced branches, often on the upper half, and thick orange bark in plates."}
+      ]
+    },
+    {
+      "id": "river-bottomland",
+      "date_place": "Missouri River corridor, 1865-1890, summer",
+      "render_brief": "A green alluvial clearing with a curving river beyond the playing area, tan sandbars and silt banks. Broad-crowned cottonwoods carry green triangular leaves on gray-brown trunks; lower willow thickets follow the water. Distant rolling bluffs remain outside the river corridor. Blue-green sky reflection is mixed with brown sediment, not tropical turquoise water. No dams, levees or modern channelization.",
+      "history": "Before modern regulation, the Missouri shifted among channels, islands and sandbars. Cottonwoods and willows established on new sediment and formed floodplain woodland.",
+      "sources": [
+        {"url": "https://www.nps.gov/mnrr/learn/nature/rivers.htm", "claim": "The pre-development river had braided channels, islands, sandbars, sloughs and backwaters."},
+        {"url": "https://www.nps.gov/mnrr/learn/nature/plants.htm", "claim": "Cottonwood and willow characterize floodplain forest; seedlings colonize sandbars and larger trees grow on older, higher banks. Do not copy modern invasive understory species."},
+        {"url": "https://home.nps.gov/miss/learn/nature/cottonwood.htm", "claim": "Cottonwood form: large tree, triangular toothed leaves, mature gray deeply furrowed bark; species morphology only, not evidence for a specific Missouri site."}
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Tree placement, local channel course, weather and exact RGB values are disclosed reconstruction.",
+    "Present-day ecological descriptions support natural forms, not an assertion that any modern park view reproduces an 1880s scene.",
+    "Existing holdings retain their separately reviewed setting bases; they are physical game pieces assembled from different regions."
+  ]
+}

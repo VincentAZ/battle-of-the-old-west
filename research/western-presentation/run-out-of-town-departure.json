@@ -1,0 +1,8 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Presentation-only removal after the public Run Out of Town event, named Run Out of Town.",
+  "historical_evidence": "trouble-schemes.json: banish",
+  "interpretation": "After the public Run Out of Town effect removes its chosen crew member, the existing approved walking clip depicts a withdrawal instead of a fatal fall. The public destroy log and discard destination remain canonical. This is a fictional game action, not a claim that an identified person was historically expelled or that dynamite was a documented expulsion practice. No new appearance, equipment or historical biography is introduced.",
+  "privacy": "Select the scene from the public event-resolution log, including when the later target choice arrives after the event prop has gone. Face-down people retain the generic Drifter appearance. Do not inspect private hands.",
+  "validation_required": ["Actual native departure captures", "Walking displacement without ragdoll or hit effects", "Public destroy event remains unchanged", "Legal-action replay and canonical mechanics preservation"]
+}

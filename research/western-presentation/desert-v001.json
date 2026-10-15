@@ -1,0 +1,13 @@
+{
+  "user_direction": "Replace snow with desert; user will test before further work.",
+  "approved_other_regions": {"pine": true, "river": true, "evidence": "User: these are approved", "captures": "tests/runs/western-completion-20261009/regions"},
+  "date_place": "Painted Desert badland margin, northeastern Arizona Territory, 1865-1890",
+  "reconstruction": "Composite natural setting on the existing game terrain, not a surveyed historic site. Present-day geology and native habitat references establish materials and forms, not an exact nineteenth-century view. Holdings remain separately sourced game pieces.",
+  "brief": "Full natural-strength ochre and rusty red clay, tan sandstone gravel and exposed rock. Fine granular surface and irregular erosion bands; no snow, broad green lawn, modern infrastructure, invented tribal imagery or transplanted saguaro. Preserve existing terrain and collision. First pass uses the existing exposed rocks and ground surface; additional plants or large formations are outside this pass.",
+  "sources": [
+    {"url": "https://www.nps.gov/pefo/learn/nature/current-environment.htm", "claim": "Red Painted Desert badlands have sparse vegetation; shadscale and fluffgrass occur there. Adjacent grassland and shrubland are distinct habitats."},
+    {"url": "https://www.nps.gov/pefo/learn/nature/naturalfeaturesandecosystems.htm", "claim": "Colourful bentonite badlands erode into rolling hills; resistant sandstone caps softer clay."}
+  ],
+  "uncertainties": ["Exact RGB values and soil distribution are artistic reconstruction.", "Existing rock shapes are retained as a stylized composite, not identified local specimens."],
+  "snow_sources": "Preserve original WinterGround and prior package; snapshot any changed shared holding materials before editing."
+}

@@ -1,0 +1,33 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Static locally authored Trouble props, with symbolic resolution cues. No people or authoritative changes.",
+  "colour_direction": "Full natural colour: strong yellow cloth, warm unpainted timber, cream-white paper, black and red printed suits. Do not reproduce archival fading as art direction.",
+  "assets": [
+    {
+      "card_id": "cholera",
+      "name": "SM_Trouble_Quarantine",
+      "title": "Cholera",
+      "date_place": "San Diego, California, 1888",
+      "render_brief": "Plain yellow cloth quarantine flag on an unpainted wood pole beside a short plank doorway fragment, on brown earth. Sewn edge, shallow wind folds, two simple ties. No biohazard or radiation symbol, medical cross, skull, medicine, person or corpse. Doorway construction, flag proportions and mounting are restrained reconstruction; no particular infected address is claimed.",
+      "history": "San Diego's 1888 rules marked infected premises\nwith a yellow flag or a posted warning.\nCholera was among the diseases covered.",
+      "sources": [{"title": "San Diego History Center — Ordinance 193 (1888)", "url": "https://sandiegohistory.org/journal/2002/october/ord193/", "claim": "Section 34 requires a conspicuous yellow/quarantine flag or doorway placard for premises with smallpox, varioloid or cholera. The ordinance does not specify flag size, fabric or pole construction."}],
+      "uncertainties": ["Generic warning-marker reconstruction; no claim that yellow uniquely meant cholera or that all Western settlements used this ordinance."],
+      "resolution_brief": "A few flat yellow cloth-like accents briefly rise close to the marker as a symbolic warning cue. No green radiation cloud or metal clang; the actual wounded figures are still shown only when authoritative hit events arrive."
+    },
+    {
+      "card_id": "poker_night",
+      "name": "SM_Trouble_PokerNight",
+      "title": "Poker Night",
+      "date_place": "American playing-card type, 1880-1890 Western game setting",
+      "render_brief": "Five oversized cream-white playing cards fan across a small plain timber display base. Show an ace of spades and four fours, one of each French suit, using black spades/clubs and red hearts/diamonds. Thin square-cornered paper cards have simple pips and no modern jumbo corner indices, foil, plastic, logos or casino chips. A short squared deck sits at the rear. Pip layout, display base and enlarged scale are reconstruction, not an exact Samuel Hart deck or a historic saloon table. Keep all faces readable from the steep game camera.",
+      "history": "American makers sold 52-card decks in the 1860s.\nAn 1880s poker puzzle depicts five-card hands.\nThese cards reconstruct that familiar type.",
+      "sources": [
+        {"title": "Penn Libraries, Kaplan Collection — Samuel Hart playing cards, circa 1860", "url": "https://www.kaplancollection.org/item/playing-cards-manufactured-by-samuel-hart-co-24c1c1b9/", "claim": "Catalog identifies a 52-card Samuel Hart deck. Actual Penn IIIF photos inspected: square-cornered cream paper, an ace of spades without corner indices, and colourful court printing. Photos do not expose all number-card faces; no exact replica is claimed."},
+        {"title": "Metropolitan Museum — Poker Puzzle, ace of spades and four fours, ca. 1880-90", "url": "https://www.metmuseum.org/art/collection/search/852754", "claim": "Catalog explicitly identifies the five-card poker hand As, 4c, 4s, 4h, 4d on a period commercial print. Supports the chosen hand and period poker imagery; no image is available on the catalog page, so exact drawing or typography is not copied."}
+      ],
+      "uncertainties": ["Card fan, suit contours and supporting timber are game-piece reconstruction; exact manufacturer, saloon, owner and card-back ornament are not asserted. The paper is rendered as usable contemporary stock, not the browned surviving archive object."],
+      "visual_source_review": "Penn Libraries IIIF photographs viewed on 2026-10-08: assets a2f0f902-b5c3-4c18-9954-6f96a289a515 and a164671e-fc41-437c-8b6a-b8aadb39df19. Both focus on the ace; the latter is another view of its face, not a card-back photograph.",
+      "resolution_brief": "Small cream paper rectangles lift locally as a symbolic card-sorting cue. No industrial supply cart or metal clang. The existing draw and discard choices and their timing remain unchanged."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-08",
+  "scope": "Presentation-only Gunsmith integration; canonical Gunsmith mechanics unchanged",
+  "evidence": "art/western/holdings/expansion-review-v001/gunsmith/historical-review.json",
+  "native_first_review": "art/western/holdings/expansion-game-v001/gunsmith/runtime-v001/1600x900/021-ability-23-impact.png",
+  "correction": "Remove the generic industrial gearbox and LED control station from Western Crew and reviewed expansion holding preparations. Reuse approved body animation and holding geometry; preserve subsequent ordered public outcome beats.",
+  "limits": [
+    "No new costume, gun or mechanism is authenticated or introduced.",
+    "No source claims hiring or attacking used a control station.",
+    "This change does not assert that the photographed shop burned; its eventual damage/ruin states are fictional game outcomes.",
+    "Dedicated Gunsmith charred-frame variant and visible damage-fire review remain."
+  ],
+  "drifter_preparation": {
+    "scope": "Publicly granted hit ability 101 only, with the visible generic Drifter; does not resolve a hit or infer a hidden person.",
+    "source_animation": "game/OldWest/Content/Art/Western/Drifter/Animations/RA_MM_Attack_01.uasset",
+    "source_sha256": "558f0067cde6fdf1dc1e9692ceae00f0271d6811255d41a2098db243e618fccc",
+    "treatment": "Reuse the opening 0.156 seconds of the existing one-second approved unarmed attack at 0.12 rate for 1.3 seconds, as a preparatory raising of the hands. Ordered damage beat retains the actual attack and result.",
+    "review_required": "Native motion and pixels must show a readable preparatory stance, not a completed strike before target selection. Keep full generic Drifter model and History; no new costume, weapon, animation asset or historical action claim.",
+    "camera": "View the visible generic Drifter from its front three-quarter direction, retaining scenery obstruction checks."
+  }
+}

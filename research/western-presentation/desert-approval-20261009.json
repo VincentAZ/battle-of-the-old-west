@@ -1,0 +1,25 @@
+{
+  "approved_local": "2026-10-09T18:10:46-07:00",
+  "approved_utc": "2026-10-10T01:10:46Z",
+  "approved_by": "the project owner",
+  "user_statement": "apprved . commit",
+  "scope": "Packaged Sonoran desert appearance with two terrain-fitted dunes, 11 saguaros and eight prickly-pear groups; original terrain and collider retained.",
+  "historical_brief": "research/western-presentation/desert-v002.json",
+  "historical_brief_sha256": "412d5d542b8bc3418d1ea225ff113ebf161c10374e167a25bd22de564ff28e6c",
+  "visual_review": "art/western/regions/desert-v004/visual-review.json",
+  "promotion_record": "art/western/regions/desert-v004/promotion.json",
+  "selected_package": "dist/linux-development-desert-scenery-20261009-v3",
+  "binary_sha256": "ff89c01547c65681b3cac07374f51962a82fb5adfd68f60640cef5ebd14dfab9",
+  "regional_checks_sha256": "29e51b124b9527cf5656274dbd612873393433fc657d45381a0057275b88fe1b",
+  "package_validation_sha256": "7e27abb34a19cd9b9281651014712b247241927218374d51b0e5972a5cff2934",
+  "approved_capture": {
+    "path": "art/western/regions/desert-v004/runtime-packaged/0/1600x900/02-region-wide.png",
+    "sha256": "5ffe8b5b0e48043a5531bf4e287ad569b1f64070d7f3bdcde95ac24a955f1ea0"
+  },
+  "prior_region_approvals": {
+    "pine": true,
+    "river": true,
+    "user_statement": "these are approved"
+  },
+  "mechanics_files_verified_unchanged": 9
+}

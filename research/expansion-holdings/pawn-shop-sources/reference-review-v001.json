@@ -1,0 +1,32 @@
+{
+  "status": "pre_modeling_reference_review_completed",
+  "actually_viewed": [
+    "NPS-storefronts-page-02.png",
+    "NPS-storefronts-page-03.png",
+    "HNE-Pawnbroker-Sign.jpg"
+  ],
+  "text_read": [
+    "DPL-Gottheimer-Davidson.html",
+    "DPL-LoDo.html",
+    "NPS-Preservation-Brief-11.pdf, pages 2–3",
+    "NPS-Preservation-Brief-25.pdf, nineteenth-century symbolic/fascia signs",
+    "NPS-Preservation-Brief-04.pdf, page 3 tin roofing",
+    "NPS-White-Haven-Green.html, 1874 paint purchase"
+  ],
+  "observations": [
+    "Thin framed glass storefronts, bulkheads, recessed entrances, transoms and horizontal fascia are described as nineteenth-century forms in NPS text.",
+    "The hanging trade sign has curved iron supports and three gilded hollow spheres with equatorial seams."
+  ],
+  "excluded": [
+    "NPS Brief 11 Figure 3 is a 1905 catalog: exact ornament excluded.",
+    "NPS Brief 11 Figure 4 is a 1930s storefront: all forms excluded.",
+    "NPS Brief 11 criticizes modern lumberyard-colonial alterations: those forms excluded.",
+    "NPS Brief 25 Figure 3 is a 1920s sign with newer fittings: not copied.",
+    "No original Rocky Mountain News advertisement was viewed; DPL item is a later archive index transcript.",
+    "No copying present-day gold loss or modern museum storage from HNE image."
+  ],
+  "limits": [
+    "No exact historic pawnshop facade, owner, date, dimensions or paint scheme is reconstructed.",
+    "Red tin roof and green paint are period material availability analogues; regional brick architecture is documented separately."
+  ]
+}

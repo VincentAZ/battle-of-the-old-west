@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-08",
+  "status": "measured_source_layout_proposal_not_rendered_or_accepted",
+  "evidence": ["delivery-wagon.json", "delivery-oxen.json"],
+  "source_coordinates": "Metres; ground Z=0; wagon forward -Y. Unreal FBX import flips Y, retains X/Z and multiplies metres by 100.",
+  "measured_wagon": {
+    "source": "art/western/delivery/wagon-v003/Delivery-Wagon.blend",
+    "floor_top_z": 0.96,
+    "box_inner_width": 1.115,
+    "front_box_y": -1.86,
+    "tongue_end": [0, -4.20, 0.99],
+    "tongue_goose_center": [0, -3.94, 0.885],
+    "current_chain_attachment_center": [0, -1.50, 0.66]
+  },
+  "draft_ox_layout_proposal": {
+    "source": "art/western/delivery/oxen-v002/Draft-Ox.blend",
+    "animal_scale_relative_to_source": 0.9,
+    "reason": "A reconstructed approximately 1.6m-high working animal, not Ford's specifically measured enormous Thor/Zeus pair. Validate final proportions visually.",
+    "mesh_lateral_center_correction_before_placement": -0.052734,
+    "pair_lateral_centers": [-0.75, 0.75],
+    "rear_pair_body_y": -3.5,
+    "front_pair_body_y": -6.8,
+    "neck_y_relative_to_unscaled_animal": -0.68,
+    "rear_yoke_y": -4.112,
+    "observations": "Unscaled neck profile near y=-0.7 extends to approximately z=1.80m; wider shoulder starts around y=-0.6. Fit yoke behind horns, with loose bows below the neck. Re-measure the evaluated derivative before accepting clearances."
+  },
+  "required_corrections_before_rendering_hitch": [
+    "A straight centre-line draft chain from the current low attachment to the upper calabash fitting would cross the steering tongue. Resolve this in actual geometry, preferably with a documented functional attachment beside the tongue, rather than hiding a crossing.",
+    "Fit the wooden beam underside to the evaluated necks; allow loose U-bows and wooden retaining pins. Pair phases can differ by half a cycle while their twice-per-cycle body bob remains aligned.",
+    "The rear tongue ring must surround the tongue through idle/walk bob and catch the goose stop. Keep the distinct draft fitting and chain visible.",
+    "Derive world movement and wheel/gait phase from one actual-distance value. The source walk speed is 0.595238m/s before source animal and diorama scales. Do not reuse the old cart's fast travel with a slow ox walk.",
+    "All four cattle and both yokes need full-gait clearance review, including hind hooves/tails near the wagon and horns near the yokes."
+  ],
+  "integration_still_required": "No current runtime event uses these study assets. Preserve Native plain-crate filtering, public cargo quantities, optional history, visible cargo support, cleanup and camera/fuse clearance."
+}

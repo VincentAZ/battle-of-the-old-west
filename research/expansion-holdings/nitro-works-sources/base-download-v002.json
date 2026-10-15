@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "url": "https://landscapeplants.oregonstate.edu/plants/oxalis-oregana",
+      "error": "Direct request HTTP 403; web text read only, no alternate image download attempted."
+    },
+    {
+      "url": "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Oxalis+oregana",
+      "checked_at": "2026-10-09T17:57:49.506683+00:00",
+      "local": "research/expansion-holdings/nitro-works-sources/Burke-Oxalis-oregana.html",
+      "sha256": "7cd018cb37e743f0fff1f4d8d3f984b36f91412076f07867aea92384729eed0f",
+      "http_status": 200
+    }
+  ]
+}

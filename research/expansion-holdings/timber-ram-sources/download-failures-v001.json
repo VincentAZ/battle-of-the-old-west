@@ -1,0 +1,8 @@
+{
+  "catalogue_url": "https://www.loc.gov/item/rc01001533/",
+  "catalogue_result": "403 from web; not retried",
+  "pdf_url": "https://tile.loc.gov/storage-services/service/gdc/gdclccn/rc/01/00/15/33/rc01001533/rc01001533.pdf",
+  "direct_download_result": "HTTP 403; no local file created; no retry",
+  "web_pdf_text": "success",
+  "web_pdf_screenshots": "cache miss for pages 4 and 53; no actual image inspection claimed"
+}

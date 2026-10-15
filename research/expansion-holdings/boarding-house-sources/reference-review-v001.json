@@ -1,0 +1,24 @@
+{
+  "status": "pre_modeling_reference_review_completed",
+  "image": "research/expansion-holdings/boarding-house-sources/DPL-Mrs-Powers-Boarding-House.jpg",
+  "image_sha256": "f2f4784c52d7c75cf2547e2bfd5338995da52cb6921171ec015ab6cc5008aa55",
+  "actually_viewed": true,
+  "archive_credit": "Denver Public Library Special Collections, X-23881; W. G. Chamberlain",
+  "observations": [
+    "Two-storey horizontal timber siding; low hipped roofs and deep eaves.",
+    "Tall narrow sash windows with divided panes and projecting molded heads.",
+    "Brick chimney stacks; lower porch and an upstairs porch in a recessed wing.",
+    "Low front picket fence and taller plain side fence."
+  ],
+  "limits": [
+    "Catalog does not supply a specific photo date. Do not label the photograph 1880 or infer an exact year from photographer lifespan.",
+    "Monochrome photograph establishes no paint hue.",
+    "Simplified building proportions and rear elevations are reconstruction. No identified people are modeled."
+  ],
+  "corroboration": [
+    "NPS Italianate page dates style to 1850s–1880s and documents an 1877 residence and 1885 store/residence.",
+    "DPL Curtis Park article identifies late-1870s/early-1880s Denver Italianate residences.",
+    "NPS White Haven article documents bright green exterior paint in 1874. This establishes period availability, not the Denver photograph’s palette."
+  ],
+  "not_exact_historic_building": true
+}

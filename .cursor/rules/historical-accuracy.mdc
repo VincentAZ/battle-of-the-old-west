@@ -1,0 +1,18 @@
+---
+description: All Western rendering and character history must be historically documented
+alwaysApply: true
+---
+
+# Historical accuracy for all Western assets
+
+- User requirement, October 5, 2026: ALL rendering of ALL things must be historically accurate and documented. Applies to people, clothing, weapons, equipment, animals, vehicles, buildings, props, environments, portraits, and revisions.
+- Art direction, October 7, 2026 (the project owner): “I do not want muted colors. I want full color and a fun historically accurate game that pops.” Never prompt, light, grade or texture for muted, faded, washed-out or desaturated colour. Accuracy decides which colours; render them at full natural strength in clear warm light. Where the documented material is genuinely plain (unpainted weathered wood, bare earth), colour comes from documented neighbours and the setting base, never invented paint. Record colour claims with sources like any other claim.
+- Before generation or rendering, record the intended date/location and authoritative references supporting the depicted identity or archetype, occupation, clothing, and equipment. Prefer period photographs, objects, records, and reputable museum, archive, tribal, or scholarly sources.
+- Record the specific claim each source supports. A source establishing a person's existence does not authenticate an invented outfit, gun, action, or occupation. A general instruction to make something historically accurate is not evidence.
+- Distinguish documented facts, reasonable reconstruction, uncertain details, and legends. Do not invent biographies for fictional characters. Remove unsupported distinctive details or replace them with referenced alternatives.
+- For this Crew revision, the user requests white male replacements for fictional demographic choices that lack historical support. Retain documented historical identities and supported exceptions. Absence of a source found so far is uncertainty, not proof of historical impossibility; white male identity alone never validates a role or costume.
+- Every person needs a concise factual history lesson with source links. Named historical people receive sourced biography; fictional people are explicitly labeled as composites and receive sourced occupational context.
+- History content is mandatory; viewing it stays optional through the History link. Never expose hidden card identity through history.
+- Validate the actual rendered model against the references. Technical or visual QA alone is not historical approval. Record unresolved differences honestly.
+- Preserve prior sources and reviews. No new Crew rigs, animation, retargeting, or game integration until the user approves all 46 distinct appearances. Do not alter mechanics.
+- See game/REBRAND_GUARDRAILS.md and research/crew-history-audit/ for the audit and evidence.

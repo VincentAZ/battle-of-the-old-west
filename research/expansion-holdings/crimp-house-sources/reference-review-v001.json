@@ -1,0 +1,79 @@
+{
+  "status": "research_in_progress_not_ready_for_rendering",
+  "reviewed_at": "2026-10-09T18:11:19.758059+00:00",
+  "proposed_scope": "Fictional late-nineteenth-century Portland waterfront lodging/hiring establishment; exact architecture and palette still to establish.",
+  "sources": [
+    {
+      "title": "Shanghaiing in Portland and the Shanghai Tunnels Myth",
+      "author": "Richard Engeman",
+      "publisher": "Oregon Historical Society / Oregon Encyclopedia",
+      "url": "https://www.oregonencyclopedia.org/articles/shanghai_tunnels_myth/",
+      "access": "Web tool full text read before direct archive request returned HTTP 403; no bypass attempted.",
+      "supports": "Portland crimping and coercive recruitment context; tunnel network claims lack evidence.",
+      "limits": "Does not establish the exact modeled building, paint, plan, dimensions, or a specific crime at Boss Lunch."
+    },
+    {
+      "title": "Portland Seamen’s Friend Society",
+      "author": "Nicholas Starin",
+      "publisher": "Oregon Historical Society / Oregon Encyclopedia",
+      "url": "https://www.oregonencyclopedia.org/articles/portland_seamen_s_friend_society/",
+      "access": "Web tool full text read before direct archive request returned HTTP 403; no bypass attempted.",
+      "supports": "Crimping involved labor contracts and forced debt; waterfront lodging houses and saloons could participate. The society offered an alternative to exploitation.",
+      "limits": "Do not label the charitable Mariners’ Home a crimp house or attribute fictional crimes to its operators."
+    },
+    {
+      "title": "Boss Lunch building on Northwest Flanders Street",
+      "reference": "OrgLot1284_0345_11",
+      "url": "https://digitalcollections.ohs.org/boss-lunch-building-on-northwest-flanders-street",
+      "access": "Search result metadata read; direct web open returned cache miss.",
+      "supports": "Catalog lists a separate Al Monner photograph dated 1941-07-29 and describes a two-story triangular wooden building.",
+      "limits": "Different record from image 023658. Not proof that the two photos have the same date; original period details require corroboration."
+    },
+    {
+      "title": "Merchants Exchange Annual Report 2021",
+      "url": "https://www.pdxmex.com/wp-content/uploads/2022/03/2021-AnnualReport.pdf",
+      "access": "Web PDF text read, printed page 3.",
+      "supports": "Institutional retrospective connects Boss Shenck’s waterfront saloon with the Exchange’s 1879 beginnings.",
+      "limits": "Establishment context only; it does not date the inspected facade or establish building colours."
+    }
+  ],
+  "actual_images_inspected": [
+    {
+      "file": "OHS-Boss-Lunch-023658.jpg",
+      "status": "date_conflict_excluded_as_period_snapshot",
+      "findings": "Two storeys, horizontal wood siding, bracketed cornice, ornamented upper sash surrounds, large lower shopfront openings. Automobile and steel bridge structure are visible.",
+      "date_issue": "Oregon Encyclopedia caption says circa 1895, but visible features raise a later-date concern. Do not repeat circa 1895 as a verified photograph date. Do not assign the separate 1941 catalog date to this image without a match.",
+      "limits": "No hues, original roof material, original shopfront form or 1890s plan established by this monochrome view."
+    },
+    {
+      "file": "OHS-Front-Street-1874-47424.jpg",
+      "status": "period_streetscape_reference",
+      "findings": "Two- and three-story commercial frontages, projecting cornices, arched openings, raised sidewalks and a worked street surface.",
+      "limits": "General architectural/setting context; does not identify a crimp establishment or reveal paint hues."
+    },
+    {
+      "file": "OHS-Waterfront-c1900-gi4803.jpg",
+      "status": "later_waterfront_context_only",
+      "findings": "Dense commercial frontage and roofed wharf buildings on piles along the river.",
+      "limits": "Catalog caption circa 1900; exact date unverified. Do not transfer later signage, boats, roof details or modern advertisements into an 1890s model."
+    }
+  ],
+  "decisions": [
+    "No new model or render before a claim-specific architecture/material/colour brief is complete.",
+    "Use a clearly fictional establishment; no invented biography or accusation against pictured people or charitable lodging institutions.",
+    "No tunnel entrance, kidnapping apparatus or other unsupported distinctive prop.",
+    "The canonical Crimp House ability remains game mechanics, not a factual description of crimping.",
+    "Reference images stay in research; not embedded as textures or presented as game art."
+  ],
+  "remaining": [
+    "Resolve a suitable period architectural basis, using the 1874 streetscape or a separately documented lodging-house type if the Boss building date remains uncertain.",
+    "Document facade paint/material colours, roofing and river-margin setting before authoring.",
+    "Prepare the factual three-line History note and explicit reconstruction limits."
+  ],
+  "file_sha256": {
+    "research/expansion-holdings/crimp-house-sources/OHS-Waterfront-c1900-gi4803.jpg": "35509aeca428a18c6da8a27e0fa6786c26d73b2ab3ff96e0a1a4c4de073effd5",
+    "research/expansion-holdings/crimp-house-sources/OHS-Front-Street-1874-47424.jpg": "5f02848107377beb6e26437c94ab7c467cd628151091ec3801eb70e5f74ac864",
+    "research/expansion-holdings/crimp-house-sources/OHS-Boss-Lunch-023658.jpg": "8f3c34cf7430903c20183869e1a36df17f6694ad1764c172400f9d06127b2bf8",
+    "research/expansion-holdings/crimp-house-sources/downloads-v001.json": "c6a633173f2ffdfd163eec6c98d9318a7398e7c904c87807ce8ec1d472390268"
+  }
+}

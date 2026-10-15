@@ -1,0 +1,64 @@
+{
+  "status": "references_inspected_before_modeling",
+  "reviewed_at": "2026-10-09T17:46:31.117609+00:00",
+  "images": [
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page03.png",
+      "sha256": "2f46e88278bb5e8dffc34b809e71facbd1513aeae62f87f5d548a8aa64d4c3da"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page04.png",
+      "sha256": "37b8cba9d9bdd95ee9185a5eac73558f61690f4203ec976f2b5f1c27f2297992"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page12.png",
+      "sha256": "51d968044d47039fccd37a6353bc811f067882bbcb699190ec6d849732c58919"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page13.png",
+      "sha256": "f3b92693f109d5fb689920cf4f10ca8ee859e5731e6d1fa13a9120b1eba1f094"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page18.png",
+      "sha256": "7db1a0f276c1d6f4edfa3d24d448b30d2023bf7f493832538f61244adaa020a3"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page20.png",
+      "sha256": "6e7cce19557222058105143f8668cce52e95c0d877bf1b76a396f9a8be178703"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page23.png",
+      "sha256": "d966702fb37d16e7a94f41b6388b8de8abd515d0783bf1fa32d8c0253490771c"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page29.png",
+      "sha256": "ae2bf5a9fa6d09c417af581cd5ce5f3b79b48c3aadef39273af5e5e9bf19fa14"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-AR071-page31.png",
+      "sha256": "948f459272c3a1ea3e4484884619f5346ef1e16b69a95f073ec2032dfb67b4d9"
+    },
+    {
+      "local": "research/expansion-holdings/nitro-works-sources/SCPL-SCM072.jpg",
+      "sha256": "2b4849603f1e671996e5ba788c885e9e4ec0d21a130cb844c0d91864abe9fece"
+    }
+  ],
+  "findings": [
+    "AR-071 PDF page 29 (printed 30): two reproduced exterior photographs show a low front gable with door/window, successively taller gabled portions behind, narrow vertical cladding and a separate neighboring tall gabled building. The text dates introduction of the smokeless plant to the mid-1890s. The photographs themselves lack exposure dates here. Model circa 1895–1897 is a fictional pre-1898 exterior analogue, not an exact reconstruction.",
+    "AR-071 PDF page 12 (printed 13): office photograph attributed to O. V. Ort in the 1890s. Text expressly describes corrugated sheet metal and yellow paint. The photograph shows paired sash windows, gable roof, small entrance porch and a low foundation. Yellow hue, extent of paint, original pigment and wood species are not established.",
+    "AR-071 PDF pages 13 and 31 (printed 14 and 32): the industrial complex sits among densely wooded hills. Do not reproduce a complete plant layout or identify reconstructed buildings as authenticated processing facilities.",
+    "SCPL SCM072 is undated in its catalog. AR-071 PDF page 23 (printed 24) reproduces it and assigns circa 1903: exclude it as a period model reference. Preserve this correction rather than using the undated catalog as proof of an earlier date.",
+    "NPS Hercules Village nomination page 3 distinguishes Santa Cruz from San Francisco/Hercules dynamite sites. Do not claim the Santa Cruz black-powder site was a dynamite factory. Nitro Works is the existing provisional game display name.",
+    "NPS Preservation Brief 4 printed page 2 establishes nineteenth-century corrugated and galvanized iron roofing. USDA Redwood characteristics/properties describe pink to reddish-brown heartwood. Both are general material analogues, not identification of the photographed buildings."
+  ],
+  "access_limits": [
+    "Toledo museum metadata available through web tool; direct page/image downloads returned 403. No alternate routes attempted after denial; its image not inspected or used.",
+    "MAH thumbnail download returned 403; no alternate route attempted and no visual claim based on that image.",
+    "LOC item 2003681543 inaccessible through web tool; not used."
+  ],
+  "exclusions": [
+    "No reproduced people, names, banners, business lettering, power lines, machinery or process interiors.",
+    "No exact replica, pigment match, dimensions or photographed-building function inferred from silhouette.",
+    "No 1903 pack-house exterior, 1924 club building, modern interpretive objects or reenactment of an accident."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "status": "pre_modeling_reference_review_completed",
+  "date": "2026-10-09",
+  "actually_viewed": [
+    "NPS-Murphy-1979-replica.jpg",
+    "NPS-Overland-Wagon-museum.jpg",
+    "BLM-Wagon-FAQ-page-2.png",
+    "BLM-Wagon-FAQ-page-3.png"
+  ],
+  "actually_read": [
+    "NPS-Traveling-Emigrant-Trails.html",
+    "NPS-Wagons-on-Trails.html",
+    "NPS-Overland-Wagon.html",
+    "BLM-Wagon-FAQ.pdf",
+    "NPS-California-Trail-Accessible-Brochure.pdf"
+  ],
+  "observations": [
+    "NPS Murphy photograph shows a covered straight-box wagon with wooden spoked wheels, iron tires, a larger rear pair, canvas on rounded bows and ties along the bed. The article dates this replica to 1979; its weathered appearance is not art direction.",
+    "Gateway Arch photograph shows exposed wooden bows and staples, plank sides with iron straps, a supported body above actual axles/bolsters and a partially folded canvas. The page calls the wagon authentic, but provides no production date or restoration history; do not claim a measured 1860s specimen or original paint.",
+    "BLM diagrams distinguish plank and panel boxes, show gathered canvas ends and explain wheel proportions, unsprung running gear and traditional blue/red paint.",
+    "The California Trail accessible brochure supplies a caption for Bruff’s July 26, 1849 wagon-circle painting near the Sweetwater River; the accessible PDF is text-only and the original painting has not been visually inspected."
+  ],
+  "limits": [
+    "BLM says small trains generally did not form circles. Eight modeled wagons will be an explicit game-scale compression of a larger encampment, not a historical claim about a typical eight-wagon party.",
+    "Circling had livestock-management and camp-security functions. No attack scene, threatening Native figure, battlefield casualties or claim about hostile nations.",
+    "No exact surviving wagon, manufacturer, company, family, site, original RGB or inventory is reconstructed."
+  ],
+  "unused_sources": [
+    {
+      "url": "https://www.loc.gov/item/91787201/",
+      "reason": "Direct catalogue access returned 403; not retried or used as a model reference."
+    }
+  ],
+  "pre_modeling_complete": true
+}

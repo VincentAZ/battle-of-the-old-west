@@ -1,0 +1,30 @@
+{
+  "chuckwagon": {
+    "subject": "Chuckwagon",
+    "canonical_card_id": "chuckwagon",
+    "identity_type": "historical_building_type",
+    "date_scope": "1866-1900",
+    "location_scope": "Western cattle-drive ranges, Texas to the northern plains; an explicitly reconstructed mobile kitchen",
+    "documented_features": [
+      "Goodnight's 1866 adaptation placed a pantry with shelves and drawers at the rear of an army wagon; a hinged door became a worktable and a lower boot held heavy cooking equipment [S1].",
+      "The archival photograph shows wooden spoke wheels, straight-sided wagon beds, canvas hoops, supply boxes and cooking equipment on an open range. Its catalog date spans approximately 1880-1910, so it supports construction form, not an exact pre-1900 paint scheme [S2].",
+      "Chuckwagons accompanied cattle work during the approximately 1866-1900 open-range era [S3]."
+    ],
+    "documented_colors": [
+      "Natural warm timber, cream unbleached canvas, dark iron tires and black cookware are material-colour reconstructions. No original maker's paint scheme is claimed from the monochrome image [S1][S2]."
+    ],
+    "render_brief": "An unoccupied Western cattle-drive chuckwagon, 1866-1900, reconstructed as a compact static mobile kitchen. Four wooden spoked wheels with narrow iron tires and projecting hubs support a straight-sided wooden wagon bed on two axles; the rear wheels are slightly taller than the front pair. Three curved wooden hoops support a partly folded cream canvas tilt over the forward cargo. At the rear, a broad rectangular wooden chuck box has open shelves, small drawers and a hinged drop-front lid lowered horizontally as a worktable. A shallow heavy-equipment boot sits directly below the box. Show two black cast-iron pots and a plain tin coffee pot securely resting on the shelf. Use full natural warm timber grain, cream canvas, black iron and silvery tin, with no invented maker's paint or logos. A simple wooden tongue projects from the front, resting on a support. All sides complete; wheels connect to real axles. No people, animals, fire, stovepipe, automobile tires, suspension springs or modern gas equipment. This is a documented type, not an exact replica of Goodnight's first wagon.",
+    "history_lesson": "In 1866 Charles Goodnight adapted an army wagon into a mobile kitchen with a rear pantry and fold-down worktable. Chuckwagons carried food and equipment for cattle-drive crews; this model reconstructs the type rather than a surviving first wagon.",
+    "sources": [
+      {"url": "https://www.nps.gov/places/the-chuckwagon.htm", "title": "National Park Service, The Chuckwagon, Grant-Kohrs Ranch", "supports": "Documents Goodnight's 1866 adaptation, rear pantry shelves and drawers, hinged worktable, lower equipment boot and cast-iron cooking vessels. The displayed wagon is identified as a replica."},
+      {"url": "https://www.loc.gov/pictures/item/2012646304/", "title": "Library of Congress, Cowboys sitting by supply wagons, approximately 1880-1910", "supports": "Archival photograph supports wooden spoke-wheel running gear, wagon bed, canvas hoops and supplies; monochrome and broad dating do not authenticate a particular 1880s paint scheme."},
+      {"url": "https://home.nps.gov/teachers/classrooms/chuckwagon-flip-the-story.htm", "title": "National Park Service, Chuckwagon Flip the Story", "supports": "Places chuckwagons and cooks alongside cowboys, trail bosses and wranglers in the approximately 1866-1900 open-range cattle era."}
+    ],
+    "uncertainties": [
+      "Dimensions, exact wheel proportions, canvas folding, container layout and unpainted finish are disclosed reconstruction. No factory colour scheme or exact surviving wagon identity is asserted.",
+      "The source photograph includes people and animals; the model deliberately omits them. Its broad date range is supplemented by NPS documentation of the 1866-1900 wagon type."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Viewed the actual Library of Congress image locally on 2026-10-08 before generation; /tmp/oldwest-chuckwagon-source.jpg. Catalog access through browser returned 403; indexed catalog text and the official image CDN remained accessible."
+  }
+}

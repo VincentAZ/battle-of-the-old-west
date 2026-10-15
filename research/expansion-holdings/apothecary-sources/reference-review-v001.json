@@ -1,0 +1,29 @@
+{
+  "status": "references_inspected_before_modeling",
+  "images_inspected": {
+    "research/expansion-holdings/apothecary-sources/Fort-Lewis-Peacock-1881-1882.jpg": "904c4a6716d55c445f1fb23949a3a577b8f6be5dc98df84f5ada0c7546fa8194",
+    "research/expansion-holdings/apothecary-sources/Apothecarys-Cabinet-3-page6.png": "de7890d1668198364a020f4efaef3636b421402381a00dc023862ff6fe86c79a",
+    "research/expansion-holdings/apothecary-sources/NPS-Brief-19-page5.png": "5ffb8050c5054c2029a4cbf5bfecedb1b9b0e94edc55d414d4ecd382189004ee"
+  },
+  "observations": [
+    "Fort Lewis period photograph: rightmost drug-and-variety store has a tall rectangular false front, horizontal boards, top cornice, dark serif sign on a light field, central doorway with a transom and one tall divided window on each side. Side wall continues beneath a roof behind the false front.",
+    "Photograph cannot establish paint hue, precise dimensions, interior, rear, globe ownership or roof covering. Horses, carriage and people are contextual and will not be modeled.",
+    "AIHP page 6 reproduces the 1875 catalog page naming blue, purple, green, red and yellow globe liquids. Its separate ornate hanging vessel illustration is not used as an exact dated object reference. PDF ICC warnings noted; page is black-and-white and no colour sampling is used.",
+    "NPS Brief 19 page 5 provides traditional overlapping rectangular shingles and a board ridge as generic construction references. These do not prove the roof covering of the photographed drugstore.",
+    "MUSC textual references support simple stoppered vessels displayed in windows and reject unsupported quarantine colour-code stories. No internal lighting is included."
+  ],
+  "source_records": {
+    "research/expansion-holdings/apothecary-sources/Apothecarys-Cabinet-3-page6.png": "de7890d1668198364a020f4efaef3636b421402381a00dc023862ff6fe86c79a",
+    "research/expansion-holdings/apothecary-sources/Apothecarys-Cabinet-3.pdf": "692504e073fb45fe945756634da9c753ea70f10a5653b43095316853ae62e2e3",
+    "research/expansion-holdings/apothecary-sources/Fort-Lewis-Peacock-1881-1882.jpg": "904c4a6716d55c445f1fb23949a3a577b8f6be5dc98df84f5ada0c7546fa8194",
+    "research/expansion-holdings/apothecary-sources/Fort-Lewis-Peacock-image.html": "61646abf69220e1a1125dcbe92621d814509d9498177928008f5b18c0fd87530",
+    "research/expansion-holdings/apothecary-sources/Fort-Lewis-Peacock.html": "d5bb63dceae22fb83254f2ca02a0837d2849864f571868feb84b145735804660",
+    "research/expansion-holdings/apothecary-sources/MUSC-Show-Globe-Definition.html": "14565b120a73c7d04dbb2e461b8bc6eea2856eeeb70eb1063af1c75a720d0e28",
+    "research/expansion-holdings/apothecary-sources/MUSC-Show-Globe-History.html": "ebe432e07032bf1275a7a47d42328ac04b99677f2a0edfe79bde0cc4bffd8d38",
+    "research/expansion-holdings/apothecary-sources/MUSC-Show-Globe-Origins.html": "0d45dd74eb1367a439f7ff7d98240aa685105f97c0bfffec7bfe99daeec6a1a4",
+    "research/expansion-holdings/apothecary-sources/NPS-Brief-19-page5.png": "5ffb8050c5054c2029a4cbf5bfecedb1b9b0e94edc55d414d4ecd382189004ee",
+    "research/expansion-holdings/apothecary-sources/NPS-Painting-Historic-Interiors.pdf": "cf12e82d8542164a21ee4d50c5c61869c811d44177a697a3d3018f6388caa019",
+    "research/expansion-holdings/apothecary-sources/NPS-Preservation-Brief-10.pdf": "31091a856178e8147cea873a7e913eefaca783f1f0e82992b89bec60269537f1",
+    "research/expansion-holdings/apothecary-sources/NPS-Preservation-Brief-19.pdf": "6b5b576112d4dbbb610059587ce16afa7875437d62dfb402572da8776d765c60"
+  }
+}

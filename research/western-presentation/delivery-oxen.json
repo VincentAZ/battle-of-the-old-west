@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-08",
+  "scope": "Separate reconstructed draft cattle and walking study for the supply wagon. Original approved Stampede geometry, skeleton, clips and native assets remain untouched.",
+  "date_location": "Western United States trail freight, approximately 1865-1880; no named animal, exact breed pedigree or measured museum replica is claimed.",
+  "sources": [
+    {
+      "id": "O1",
+      "url": "https://www.nps.gov/articles/000/wagons-on-the-trails.htm",
+      "claim": "Two pairs of oxen pulled the lighter Murphy trail wagon discussed by NPS. Use four cattle with two neck yokes."
+    },
+    {
+      "id": "O2",
+      "url": "https://www.nps.gov/cali/learn/historyculture/upload/OJ-spring2015-oxen.pdf",
+      "pages": "Printed 4-10 and 23",
+      "claim": "Ford's first-hand ox-driving account and photographs distinguish heavy wheel oxen from lean longhorn leaders. Red Durham cattle were used; the photographed modern team shows broad bodies, short horns and light facial markings. Wooden neck yokes have loose bent bows, pins and separate iron tongue/draft fittings. Draft force passes through a chain; the tongue steers and checks forward wagon movement.",
+      "visual_evidence": "Printed pages 4 and 9 rendered from the downloaded PDF and actually inspected on October 8. These are modern photographs of working cattle and reconstructed equipment, not period photographs."
+    },
+    {
+      "id": "O3",
+      "url": "https://www.loc.gov/pictures/collection/cph/item/2008681189/",
+      "image": "https://cdn.loc.gov/service/pnp/cph/3g10000/3g13000/3g13700/3g13779v.jpg",
+      "claim": "Muybridge's c1881 nine-image Ox, walking plate supplies a near-period visual reference for short horns, piebald cattle and a grounded walk. The monochrome plate supplies no coat-colour evidence and no exact animation timing.",
+      "visual_evidence": "Actual catalogue image inspected."
+    }
+  ],
+  "render_brief": {
+    "appearance": "Reconstructed broad-bodied red-and-white horned draft cattle. Create a separate derivative of the existing bovine mesh with a broader body and shorter horns. Retain the existing natural red-brown/white coat and dark hooves. Do not call the result an authenticated Durham or a named historical ox. No nose rings, modern tags, invented brands or decorative harness.",
+    "preserved_source": "art/western/stampede/animation-v001/Longhorn-Animated.blend",
+    "preserved_source_sha256": "03a24e38c9ca548004617cab671e4718e92562e0bfa413f9cf4c87ed369ff495",
+    "motion": "A new in-place four-beat walk with prolonged stance, short swing clearance, restrained body motion and no airborne gallop. Timing and stride length are animator reconstructions; verify grounded feet and distance-driven phase, not a claimed exact Muybridge reproduction.",
+    "hitch": "Two paired wooden neck yokes with loose U-bows and pins. The rear tongue passes through its ring behind the goose stop; a distinct draft chain connects wagon underframe and yokes. Check clearances across the full walk before native integration.",
+    "colour": "Natural red-brown and white cattle, warm wood and dark iron at full natural strength; no deliberate desaturation.",
+    "people": "No new person is rendered in this study."
+  },
+  "history_lines": [
+    "Oxen were cattle trained to work under a yoke.",
+    "Heavy wheel oxen steered and restrained the wagon.",
+    "This team and its walking gait are reconstructions."
+  ],
+  "review_required": ["Actual appearance against the sources", "Full gait contact and loop review", "Yoke, horn, chain and tongue clearance", "Native movement, cargo filtering, both directions and cleanup"]
+}

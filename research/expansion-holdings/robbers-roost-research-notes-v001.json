@@ -1,0 +1,39 @@
+{
+  "status": "historical_research_started_not_render_ready",
+  "canonical_card_id": "robbers_roost",
+  "display_name": "Robbers Roost",
+  "candidate_setting": "Utah canyon hideout, late nineteenth century; exact date and construction not yet established",
+  "sources": [
+    {
+      "title": "Robbers Roost / Dirty Devil",
+      "publisher": "Bureau of Land Management",
+      "url": "https://www.blm.gov/visit/robbers-roost-dirty-devil",
+      "read": "2026-10-09",
+      "supports": "Remote desert canyon network between Hanksville and Canyonlands; association with the Butch Cassidy gang.",
+      "does_not_establish": "A particular cabin plan, construction date, corral, equipment, or precise material palette."
+    },
+    {
+      "title": "All Were Rattled: Butch Cassidy, The Castle Gate Robbery, and the Wild West",
+      "publisher": "Utah Division of Archives and Records Service",
+      "url": "https://archives.utah.gov/2021/08/18/all-were-rattled-butch-cassidy-the-castle-gate-robbery-and-the-wild-west/",
+      "read": "2026-10-09",
+      "supports": "Canyon terrain provided concealment; the article connects the 1897 Castle Gate escape with the Roost and distinguishes contradictory storytelling from records.",
+      "critical_image_limit": "Its cabin image is identified as Daggett County, not Robbers Roost. Do not copy it as this site."
+    }
+  ],
+  "next_sources_to_inspect": [
+    {
+      "title": "Ranching Resources of the Robbers Roost/Under the Ledge areas within Canyonlands",
+      "url": "https://npgallery.nps.gov/GetAsset/65cdf006-f91f-4a37-aac7-5576b6ab83e0",
+      "status": "Search discovery only; full nomination and photographs not read. Inspect chronology to separate later ranch buildings from outlaw-period structures."
+    }
+  ],
+  "before_rendering": [
+    "Establish exact period and sourced structure form; avoid importing twentieth-century ranch buildings into nineteenth-century artwork.",
+    "Collect and actually inspect authoritative site photographs for rock form, natural colour and plants.",
+    "Decide a documented structure or explicitly reconstructed canyon shelter with sourced equipment; distinguish every invented arrangement.",
+    "Prepare two or three concise sourced History lines describing the final depiction."
+  ],
+  "art_direction": "Full natural-strength colours in clear warm light; no invented paint to brighten plain materials.",
+  "scope": "No model, reference approval, render-ready evidence count, import or package change."
+}

@@ -1,0 +1,37 @@
+{
+  "recorded": "2026-10-08",
+  "scope": "Three static, locally authored Trouble miniatures. Presentation only; no people, rigs, paid services or rule changes.",
+  "colour_direction": "Full natural colour under clear warm light. White snow and blue shadows, cream sandstone, brown soil, golden dry grass, orange and yellow flames. Exact RGB values are reconstruction, not measured historic pigments.",
+  "assets": [
+    {
+      "card_id": "hard_winter",
+      "name": "SM_Trouble_HardWinter",
+      "title": "Hard Winter",
+      "date_place": "Montana range, winter 1886-1887",
+      "render_brief": "A snow-covered miniature of rolling open range. Low white drifts leave a few brown ridges exposed. Above it, a compact gray-blue storm bank sheds diagonal white snow streaks. The cloud and snow are sculptural symbols at game-piece scale, not solid historic objects or a meteorological simulation. No cattle, people, buildings or invented fence.",
+      "history": "Montana's winter of 1886-87 buried range forage.\nSevere cold and snow devastated cattle herds.\nThis storm miniature symbolizes that winter.",
+      "sources": [{"title": "NPS — The Winter of 1886", "url": "https://www.nps.gov/grko/learn/historyculture/winter.htm", "claim": "Deep snow prevented grazing; a January thaw exposed ridges before renewed blizzard and cold. Supports the landscape and storm, not exact cloud shape or local weather."}],
+      "uncertainties": ["Terrain, snow streaks and cloud arrangement are an illustrative composite, not a specific ranch or recorded storm photograph."]
+    },
+    {
+      "card_id": "box_canyon",
+      "name": "SM_Trouble_BoxCanyon",
+      "title": "Box Canyon",
+      "date_place": "Western New Mexico sandstone country, landscape context for 1865-1890",
+      "render_brief": "A small horseshoe-shaped sandstone canyon, open toward the viewer, with steep jointed walls and a sandy floor. Warm cream and tan sandstone, irregular crossbedding, dark runoff streaks, loose angular fallen blocks. Keep the central dead end visibly open from above. No flags, inscriptions, pueblos, trails, modern signs or claimed battle site.",
+      "history": "El Morro's box canyon cuts into Zuni sandstone.\nErosion follows joints in its steep walls.\nThis miniature reconstructs the landform type.",
+      "sources": [{"title": "NPS — El Morro Geodiversity Atlas", "url": "https://www.nps.gov/articles/nps-geodiversity-atlas-el-morro-national-monument-new-mexico.htm", "claim": "Documents a vertical-walled box canyon in Zuni sandstone, joints, large crossbedding, rockfall and runoff-related desert varnish. Page photographs show light sandstone with tan-brown weathered faces. This supports a geological type, not a surveyed 1880s site."}],
+      "uncertainties": ["Plan, cliff proportions, bedding and RGB are reconstruction. No claim of a gunfight at El Morro."]
+    },
+    {
+      "card_id": "prairie_fire",
+      "name": "SM_Trouble_PrairieFire",
+      "title": "Prairie Fire",
+      "date_place": "Great Plains grassland, 1865-1890 landscape context",
+      "render_brief": "A long strip of dry golden-brown prairie grass with a jagged orange and yellow fire front across its middle and black burned grass behind. Individual narrow grass blades and curved tapering tongues of flame make a clear miniature silhouette. Ground is brown soil. No barrels, fuel wagon, explosives, people or implication of a particular fire-setter. Flames are static sculptural game symbols; their brightness may pulse cosmetically.",
+      "history": "Fire has long shaped Great Plains grassland.\nDry grass carries fire across rolling terrain.\nThis miniature represents a prairie fire.",
+      "sources": [{"title": "NPS — Tallgrass Prairie Fire Regime", "url": "https://www.nps.gov/tapr/learn/nature/fire-regime.htm", "claim": "Describes dry grass fuel, lightning ignition and fire spreading over level or gently rolling prairie. The page photograph supports orange flame, dry grass and blackened ground. Does not establish a particular nineteenth-century fire or cause."}],
+      "uncertainties": ["Flame form, colour intensity, fuel layout and exact location are illustrative reconstruction; the game effect does not assert historical fire behavior."]
+    }
+  ]
+}

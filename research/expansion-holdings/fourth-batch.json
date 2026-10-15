@@ -1,0 +1,44 @@
+{
+  "army-surgeons-tent": {
+    "subject": "Army Surgeon's Tent",
+    "canonical_card_id": "army_surgeon_s_tent",
+    "identity_type": "historical_building_type",
+    "date_scope": "1864-1865",
+    "location_scope": "United States Army field-hospital type; construction informed by the 1864 Petersburg, Virginia photograph, not a claimed Western post or exact surviving tent.",
+    "documented_features": [
+      "An 1864 Library of Congress photograph shows a pitched canvas roof/fly, open front flaps, straight upright support and external ropes at a surgeons' tent [S1].",
+      "The curator's account identifies John Wiley's surviving wall tent as army duck, used in 1862-1864. Its display uses a modern supporting frame and replacement pole; these exhibit supports are not period construction evidence [S2].",
+      "The National Park Service describes centralized surgical, dispensary and other services at a tent hospital established after Shiloh in April 1862 [S3]. This supports the medical-shelter function, not the particular tent's shape."
+    ],
+    "documented_colors": [
+      "Light cream canvas and brown timber are visible in the museum photograph [S2]. Museum lighting and aged fabric do not measure the original colour: clean undyed off-white duck and natural warm wood are a disclosed material reconstruction, never archive sepia or faded colouring. The period monochrome photograph [S1] supplies no colour measurement."
+    ],
+    "render_brief": "An unoccupied United States Army surgeon's wall tent of the Civil War period, a portable medical shelter reconstructed from the documented type. Give it a rectangular footprint, upright canvas side walls and a steep two-plane pitched roof with a separate overhanging canvas fly. Open the two front flaps to reveal a simple shaded empty interior; close the rear and both sides. Plain round wooden uprights support the ridge, with taut natural rope guys running to short wooden stakes. A few broad seams and shallow tension folds make the thick army-duck cloth legible. Render the canvas clean cream-white at full natural strength against warm brown poles and tan ropes, in clear warm light. No red cross, printed medical emblem, lettering, invented flag, modern museum support frame, electrical lighting, modern furniture, surgical scene, blood, people or animals. Proportions and the unseen rear are restrained reconstruction, not a measured replica. Keep the tent self-contained; the separate Range setting base will supply grass and earth colour.",
+    "history_lesson": "Union field hospitals used canvas tents during the Civil War. A surviving surgeon's wall tent belonged to John Wiley, who used it in 1862-1864. This miniature reconstructs that class of portable medical shelter.",
+    "sources": [
+      {
+        "url": "https://www.loc.gov/pictures/item/2018666674/",
+        "title": "Library of Congress — Surgeons of 3d Division before hospital tent, Petersburg, 1864",
+        "supports": "Period photograph cwpb.03662 establishes pitched fabric shelter, open front, upright support and ropes. The group of surgeons is not reproduced; the monochrome image does not authenticate colour or unseen rear construction."
+      },
+      {
+        "url": "https://guardianoftheartifacts.blogspot.com/2012/07/an-army-surgeons-tent.html",
+        "title": "Lori Eggleston, museum curator — An Army Surgeon's Tent, July 19, 2012",
+        "supports": "Firsthand collection account of Wiley's surviving army-duck wall tent and use in 1862-1864, with museum photographs. Explicitly distinguishes modern weight-support frame and replacement exhibit pole from original poles; the game must not copy the exhibit as period construction."
+      },
+      {
+        "url": "https://www.nps.gov/places/field-hospital-tour-stop-16.htm",
+        "title": "National Park Service — Army Surgeon's Tent, Shiloh tour stop 16",
+        "supports": "Documents Bernard Irwin's April 1862 concentration of medical services at a field tent hospital, including surgery and dispensary. Supports medical context only; not this tent's architecture or a Western frontier location."
+      }
+    ],
+    "uncertainties": [
+      "The sources establish a Civil War Army tent type in the eastern and western theaters, not a specific postwar frontier surgeon's tent. No invented Western address, owner or campaign is attached.",
+      "The curator gives dimensions for Wiley's object but the illustration combines a period photograph and a surviving type; dimensions and exact pole arrangement are not claimed as a replica.",
+      "The material's original hue, rear-wall fastening and exact guy spacing are not measured. Avoid unverified fittings, instruments, furniture and hospital insignia.",
+      "The canonically available Spook the Herd action remains unchanged; no historical claim says a medical tent's function was to launch cattle."
+    ],
+    "evidence_prepared_at": "2026-10-08",
+    "visual_source_review": "Actually viewed LOC cwpb.03662 (/tmp/oldwest-surgeon-tent-reference.jpg) and the curator's museum photo (/tmp/oldwest-surgeon-tent-museum.jpg) before briefing. Omit photographed people, museum fixtures, signs and unsupported interior objects."
+  }
+}

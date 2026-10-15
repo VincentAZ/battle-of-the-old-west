@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "Preservation checks after board portrait review and rejected two-bandage fit rollback. Not a full goal-completion claim.",
+  "canonical_files": 9,
+  "canonical_baseline": "art/western/holdings/expansion-review-v001/mechanics-baseline.json",
+  "protected_assets": 13666,
+  "protected_baseline": "art/western/holdings/expansion-review-v001/baseline.json",
+  "selected_package": "linux-development-whiskey-props-20261007",
+  "launcher_changed": false,
+  "native_portrait_review": "art/western/holdings/expansion-game-v001/wanted-poster-board/native-portraits-v002/visual-review.json",
+  "bandage_rollback": "art/western/bandages/review-v009/rollback.json"
+}

@@ -1,0 +1,67 @@
+{
+  "status": "pre_modeling_reference_review_completed",
+  "actually_viewed": [
+    {
+      "file": "UW-AHC-Cheyenne-Club-1884.jpg",
+      "sha256": "a4980174942c825a6a9afeb42cc7011d721334994dd167dd281b0ef29e940b68",
+      "caption": "University caption dates photograph to 1884; reproduced in American Cattle Producer, July 1947, Benjamin F. Davis papers, Box 9, UW American Heritage Center.",
+      "observed": [
+        "Long elevated porch across front and around right side, broad front steps and narrower side steps.",
+        "Single main wall storey below a steep mansard roof with four front dormers; a taller central square tower has paired narrow windows and its own mansard cap with a front dormer.",
+        "Bracketed eaves, tall chimneys, sash windows and diagonal braces at porch posts.",
+        "Unpaved foreground; rocking chairs present but not yet a proposed model feature."
+      ],
+      "limits": [
+        "Monochrome print reproduction does not establish colours, exact materials, dimensions, rear elevation or detailed joinery.",
+        "Do not infer a roof material solely from the dark printed tone.",
+        "No people to copy or invent."
+      ]
+    }
+  ],
+  "sources_read": [
+    {
+      "file": "UW-AHC-Cheyenne-Club.html",
+      "supports": "Cattlemen founded a social club in 1880 with dining, reading, billiard and lodging spaces; establishes institution and function."
+    },
+    {
+      "file": "WyoHistory-Cattle-Boom.html",
+      "supports": "Wyoming cattle-boom context and club mansard roof."
+    },
+    {
+      "file": "PHMC-Second-Empire.html",
+      "supports": "Period Second Empire forms: mansard, dormers, brackets, tower and porch."
+    },
+    {
+      "file": "NPS-Preservation-Brief-29.pdf",
+      "supports": "Late nineteenth-century slate distribution, roofs with staggered joints, patterned/coloured slates suitable for Second Empire mansards. Natural slate colours include blue-grey, green, purple and red.",
+      "limits": "Period material/type analogue; not proof of Cheyenne Club’s exact covering or colours."
+    },
+    {
+      "file": "NPS-Cheyenne-District-2021.pdf",
+      "actual_document": "Downtown Cheyenne Historic District, boundary increase III, 1996 nomination with 2018 additional documentation. Filename 2021 reflects a search result, not authorship date.",
+      "pages": "PDF 18 and 52.",
+      "supports": "Club construction in 1881, mansard roof and two full-length verandas. Idelman Block (1884) documents local red brick with pale mineral insets.",
+      "limits": "Idelman masonry is a regional material analogue only. The later 1982 Cheyenne Club entry is excluded."
+    },
+    {
+      "file": "research/expansion-holdings/apothecary-sources/NPS-Painting-Historic-Interiors.pdf",
+      "supports": "Traditional white-pigment paint and oil paint used on wood trim; warm-white trim is a period palette reconstruction.",
+      "limits": "General material availability, not proof of the original club’s paint."
+    }
+  ],
+  "rejected_or_unavailable": [
+    {
+      "url": "https://www.plancheyenne.org/wp-content/uploads/2020/08/PlanCheyenne-County-Version-April-2014-Final-Clean.pdf",
+      "status": "HTTP 403; no local PDF, no retry or access workaround."
+    },
+    {
+      "item": "Cheyenne Club, 1617 Capitol Avenue, 1982, in modern district inventory",
+      "status": "Different later property; excluded as a reference for the 1880 institution."
+    }
+  ],
+  "date_uncertainty": "1880 institution founding and 1881 clubhouse construction are distinguished; the 1884 photograph establishes visible form. Earlier source summaries that collapse these dates are not used for exact construction chronology.",
+  "next": [
+    "Author only after the accompanying hashed brief; preserve all reconstruction limits."
+  ],
+  "material_decision": "Fictional red-brick clubhouse with warm-white timber trim and natural blue-grey/purple slate mansards. Regional brick and general period slate/paint evidence support availability, not an exact Cheyenne Club palette."
+}
